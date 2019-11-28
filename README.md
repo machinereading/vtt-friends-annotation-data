@@ -6,3 +6,4 @@
 - speaker: 해당 발화의 화자
 - coref_text: 인물 멘션이 복원된 텍스트
 - srls: Propbank 기반 Srl parser를 활용해 주석된 텍스트
+- frame: 직접 Frame Annotation을 수행한 텍스트
