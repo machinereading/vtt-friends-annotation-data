@@ -1,0 +1,109 @@
+{
+	"scene_id": "friends-s01e05-03",
+	"sentences": [
+		{
+			"speaker": "Monica_Geller",
+			"text": "Thank you.",
+			"coref_text": "Thank [you:Chandler Bing].",
+			"srls": [
+				"[V: Thank] [ARG1: you] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "So what does this Bob guy look like?",
+			"coref_text": "So what does this [Bob:Bob] [guy:Bob] look like?",
+			"srls": [
+				"So what [V: does] this Bob guy look like ?",
+				"So what does [ARG0: this Bob guy] [V: look] [ARG1: like] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Is he tall?",
+			"coref_text": "Is [he:Bob] tall?",
+			"srls": [
+				"[V: Is] [ARG1: he] [ARG2: tall] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Short?",
+			"coref_text": "Short?",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Yep.",
+			"coref_text": "Yep.",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Which?",
+			"coref_text": "Which?",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Which what?",
+			"coref_text": "Which what?",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "You've never met Bob, have you?",
+			"coref_text": "[You:Joey Tribbiani]'ve never met [Bob:Bob], have [you:Joey Tribbiani]?",
+			"srls": [
+				"You [V: 've] never met Bob , have you ?",
+				"[ARG0: You] 've [ARGM-NEG: never] [V: met] [ARG1: Bob] , have you ?",
+				"You 've never met Bob , [V: have] you ?"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "No, but he's...",
+			"coref_text": "No, but [he:Bob]'s...",
+			"srls": [
+				"[ARGM-DIS: No] , [ARGM-DIS: but] [ARG1: he] [V: 's] ..."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Oh my god, Joey, for all we know this guy could be horribly...",
+			"coref_text": "Oh my god, [Joey:Joey Tribbiani], for all we know this [guy:Bob] could be horribly...",
+			"srls": [
+				"Oh my god , Joey , for all [ARG0: we] [V: know] this guy could be horribly ...",
+				"Oh my god , Joey , for all we know this guy [V: could] be horribly ...",
+				"[ARGM-DIS: Oh my god] , [ARGM-DIS: Joey] , [ARGM-ADV: for all we know] [ARG1: this guy] [ARGM-MOD: could] [V: be] [ARG2: horribly] ..."
+			]
+		},
+		{
+			"speaker": "Angela_Delvecchio",
+			"text": "Hey, Joey.",
+			"coref_text": "Hey, [Joey:Joey Tribbiani].",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "...",
+			"coref_text": "...",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "horribly attractive.",
+			"coref_text": "horribly attractive.",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "I'll be shutting up now.",
+			"coref_text": "[I:Monica Geller]'ll be shutting up now.",
+			"srls": [
+				"I 'll [V: be] shutting up now .",
+				"[ARG0: I] [ARGM-MOD: 'll] be [V: shutting] up [ARGM-TMP: now] ."
+			]
+		}
+	]
+}

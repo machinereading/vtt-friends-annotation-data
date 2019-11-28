@@ -1,0 +1,232 @@
+{
+	"scene_id": "friends-s01e01-11",
+	"sentences": [
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "I can't believe what I'm hearing here.",
+			"coref_text": "[I:Joey Tribbiani] can't believe what [I:Joey Tribbiani]'m hearing here.",
+			"srls": [
+				"[ARG0: I] [ARGM-MOD: ca] [ARGM-NEG: n't] [V: believe] [ARG1: what I 'm hearing here] .",
+				"I ca n't believe what I [V: 'm] hearing here .",
+				"I ca n't believe [ARG1: what] [ARG0: I] 'm [V: hearing] [ARGM-LOC: here] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "I can't believe what I'm hearing here...",
+			"coref_text": "[I:Phoebe Buffay] can't believe what [I:Phoebe Buffay]'m hearing here...",
+			"srls": [
+				"[ARG0: I] [ARGM-MOD: ca] [ARGM-NEG: n't] [V: believe] [ARG1: what I 'm hearing here] ...",
+				"I ca n't believe what I [V: 'm] hearing here ...",
+				"I ca n't believe [ARG1: what] [ARG0: I] 'm [V: hearing] [ARGM-LOC: here] ..."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "What?",
+			"coref_text": "What?",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "I- I said you had a-",
+			"coref_text": "[I:Monica Geller]- [I:Monica Geller] said [you:Phoebe Buffay] had a-",
+			"srls": [
+				"I- [ARG0: I] [V: said] [ARG1: you had a-]",
+				"I- I said [ARG0: you] [V: had] a-"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "What I said you had...",
+			"coref_text": "What [I:Phoebe Buffay] said [you:Monica Geller] had...",
+			"srls": [
+				"What [ARG0: I] [V: said] [ARG1: you had] ...",
+				"[ARG1: What] I said [ARG0: you] [V: had] ..."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Would you stop?",
+			"coref_text": "Would [you:Phoebe Buffay] stop?",
+			"srls": [
+				"[V: Would] you stop ?",
+				"[ARGM-MOD: Would] [ARG0: you] [V: stop] ?"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Oh, was I doing it again?",
+			"coref_text": "Oh, was [I:Phoebe Buffay] doing it again?",
+			"srls": [
+				"Oh , [V: was] I doing it again ?",
+				"[ARGM-DIS: Oh] , was [ARG0: I] [V: doing] [ARG1: it] [ARGM-TMP: again] ?"
+			]
+		},
+		{
+			"speaker": "All",
+			"text": "Yes!",
+			"coref_text": "Yes!",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "I said that you had a nice butt, it's just not a great butt.",
+			"coref_text": "[I:Monica Geller] said that [you:Joey Tribbiani] had a nice butt, it's just not a great butt.",
+			"srls": [
+				"[ARG0: I] [V: said] [ARG1: that you had a nice butt , it 's just not a great butt] .",
+				"I said that [ARG0: you] [V: had] [ARG1: a nice butt] , it 's just not a great butt .",
+				"I said that you had a nice butt , [ARG1: it] [V: 's] [ARGM-ADV: just] [ARGM-NEG: not] [ARG2: a great butt] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Oh, you wouldn't know a great butt if it came up and bit ya.",
+			"coref_text": "Oh, [you:Monica Geller] wouldn't know a great butt if it came up and bit [ya:Monica Geller].",
+			"srls": [
+				"[ARGM-DIS: Oh] , [ARG0: you] [ARGM-MOD: would] [ARGM-NEG: n't] [V: know] [ARG1: a great butt] [ARGM-ADV: if it came up and bit ya] .",
+				"Oh , you would n't know a great butt if [ARG1: it] [V: came] [ARGM-DIR: up] and bit ya .",
+				"Oh , you would n't know a great butt if [ARG0: it] came up and [V: bit] [ARG1: ya] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "There's an image.",
+			"coref_text": "There's an image.",
+			"srls": [
+				"There [V: 's] [ARG1: an image] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Would anybody like more coffee?",
+			"coref_text": "Would anybody like more coffee?",
+			"srls": [
+				"[V: Would] anybody like more coffee ?",
+				"[ARGM-MOD: Would] [ARG0: anybody] [V: like] [ARG1: more coffee] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Did you make it, or are you just serving it?",
+			"coref_text": "Did [you:Rachel Green] make it, or are [you:Rachel Green] just serving it?",
+			"srls": [
+				"[V: Did] you make it , or are you just serving it ?",
+				"Did [ARG0: you] [V: make] [ARG1: it] , or are you just serving it ?",
+				"Did you make it , or [V: are] you just serving it ?",
+				"Did you make it , or are [ARG0: you] [ARGM-ADV: just] [V: serving] [ARG2: it] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I'm just serving it.",
+			"coref_text": "[I:Rachel Green]'m just serving it.",
+			"srls": [
+				"I [V: 'm] just serving it .",
+				"[ARG0: I] 'm [ARGM-ADV: just] [V: serving] [ARG1: it] ."
+			]
+		},
+		{
+			"speaker": "All",
+			"text": "Yeah.",
+			"coref_text": "Yeah.",
+			"srls": []
+		},
+		{
+			"speaker": "All",
+			"text": "Yeah, I'll have a cup of coffee.",
+			"coref_text": "Yeah, [I:All]'ll have a cup of coffee.",
+			"srls": [
+				"[ARGM-DIS: Yeah] , [ARG0: I] [ARGM-MOD: 'll] [V: have] [ARG1: a cup of coffee] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Kids, new dream...",
+			"coref_text": "Kids, new dream...",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "I'm in Las Vegas.",
+			"coref_text": "[I:Chandler Bing]'m in Las Vegas.",
+			"srls": [
+				"[ARG1: I] [V: 'm] [ARG2: in Las Vegas] ."
+			]
+		},
+		{
+			"speaker": "Customer",
+			"text": "Ahh, miss?",
+			"coref_text": "Ahh, miss?",
+			"srls": [
+				"[ARGM-DIS: Ahh] , [V: miss] ?"
+			]
+		},
+		{
+			"speaker": "Customer",
+			"text": "More coffee?",
+			"coref_text": "More coffee?",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Ugh.",
+			"coref_text": "Ugh.",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Excuse me, could you give this to that guy over there?",
+			"coref_text": "Excuse [me:Rachel Green], could [you:Customer] give this to that [guy:Customer] over there?",
+			"srls": [
+				"[V: Excuse] [ARG1: me] , could you give this to that guy over there ?",
+				"Excuse me , [V: could] you give this to that guy over there ?",
+				"[ARGM-DIS: Excuse me] , [ARGM-MOD: could] [ARG0: you] [V: give] [ARG1: this] [ARG2: to that guy] [ARGM-LOC: over there] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Go ahead.",
+			"coref_text": "Go ahead.",
+			"srls": [
+				"[V: Go] [ARG2: ahead] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Thank you.",
+			"coref_text": "Thank [you:Customer].",
+			"srls": [
+				"[V: Thank] [ARG1: you] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Sorry.",
+			"coref_text": "Sorry.",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Okay, Las Vegas.",
+			"coref_text": "Okay, Las Vegas.",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Okay, so, I'm in Las Vegas...",
+			"coref_text": "Okay, so, [I:Chandler Bing]'m in Las Vegas...",
+			"srls": [
+				"[ARGM-DIS: Okay] , [ARGM-DIS: so] , [ARG1: I] [V: 'm] [ARG2: in Las Vegas] ..."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "I'm Liza Minelli-",
+			"coref_text": "[I:Chandler Bing]'m Liza Minelli-",
+			"srls": [
+				"[ARG1: I] [V: 'm] [ARG2: Liza Minelli-]"
+			]
+		}
+	]
+}

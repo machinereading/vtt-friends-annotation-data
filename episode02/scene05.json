@@ -1,0 +1,149 @@
+{
+	"scene_id": "friends-s01e02-05",
+	"sentences": [
+		{
+			"speaker": "Ross_Geller",
+			"text": "So, um- so how's this, uh, how's this gonna work?",
+			"coref_text": "So, um- so how's this, uh, how's this gonna work?",
+			"srls": [
+				"So , um- so [ARG2: how] [V: 's] this , uh , how 's this gon na work ?",
+				"So , um- so how 's this , uh , how [V: 's] this gon na work ?",
+				"So , um- so how 's this , uh , [ARGM-MNR: how] 's [ARG0: this] gon na [V: work] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Y'know, with us?",
+			"coref_text": "Y'know, with us?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Y'know, when, like, important decisions have to be made?",
+			"coref_text": "Y'know, when, like, important decisions have to be made?",
+			"srls": [
+				"Y'know , when , like , important decisions [V: have] to be made ?",
+				"Y'know , when , like , important decisions have to [V: be] made ?",
+				"Y'know , when , like , [ARG1: important decisions] have to be [V: made] ?"
+			]
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "Give me a 'for instance'.",
+			"coref_text": "Give [me:Carol Willick] a 'for instance'.",
+			"srls": [
+				"[V: Give] [ARG2: me] [ARG1: a ' for instance '] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Well, uh, uh, I don't know, okay, okay, how about with the, uh, with the baby's name?",
+			"coref_text": "Well, uh, uh, [I:Ross Geller] don't know, okay, okay, how about with the, uh, with the [baby:Ben]'s name?",
+			"srls": [
+				"Well , uh , uh , I [V: do] n't know , okay , okay , how about with the , uh , with the baby 's name ?",
+				"[ARGM-DIS: Well] , [ARGM-DIS: uh] , [ARGM-DIS: uh] , [ARG0: I] do [ARGM-NEG: n't] [V: know] , [ARGM-DIS: okay] , [ARGM-DIS: okay] , [ARG1: how about with the , uh , with the baby 's name] ?"
+			]
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "Marlon-",
+			"coref_text": "Marlon-",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Marlon?!",
+			"coref_text": "Marlon?!",
+			"srls": []
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "- if it's a boy, Minnie if it's a girl.",
+			"coref_text": "- if it's a [boy:Ben], Minnie if it's a [girl:Ben].",
+			"srls": [
+				"- if [ARG1: it] [V: 's] [ARG2: a boy] , Minnie if it 's a girl .",
+				"- if it 's a boy , Minnie if [ARG1: it] [V: 's] [ARG2: a girl] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "...",
+			"coref_text": "...",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "As in Mouse?",
+			"coref_text": "As in Mouse?",
+			"srls": []
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "As in my grandmother.",
+			"coref_text": "As in [my:Carol Willick] [grandmother:Carol's grandmother].",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Still, you- you say Minnie, you hear Mouse.",
+			"coref_text": "Still, [you:Carol Willick]- [you:Carol Willick] say Minnie, [you:Carol Willick] hear Mouse.",
+			"srls": [
+				"[ARGM-DIS: Still] , you- [ARG0: you] [V: say] [ARG1: Minnie , you hear Mouse] .",
+				"[ARGM-DIS: Still] , you- you say Minnie , [ARG0: you] [V: hear] [ARG1: Mouse] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Um, how about, um..",
+			"coref_text": "Um, how about, um..",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "how about Julia?",
+			"coref_text": "how about Julia?",
+			"srls": []
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "Julia..",
+			"coref_text": "Julia..",
+			"srls": []
+		},
+		{
+			"speaker": "Susan_Bunch",
+			"text": "We agreed on Minnie.",
+			"coref_text": "We agreed on Minnie.",
+			"srls": [
+				"[ARG0: We] [V: agreed] [ARG1: on Minnie] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": " 'S'funny, um, uh, we agreed we'd spend the rest of our lives together.",
+			"coref_text": " 'S'funny, um, uh, we agreed we'd spend the rest of our lives together.",
+			"srls": [
+				"' [ARGM-DIS: S'funny] , [ARGM-DIS: um] , [ARGM-DIS: uh] , [ARG0: we] [V: agreed] [ARG1: we 'd spend the rest of our lives together] .",
+				"' S'funny , um , uh , we agreed [ARG0: we] [ARGM-MOD: 'd] [V: spend] [ARG1: the rest of our lives] [ARGM-MNR: together] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Things change, roll with the punches.",
+			"coref_text": "Things change, roll with the punches.",
+			"srls": [
+				"[ARG1: Things] [V: change] , roll with the punches .",
+				"[ARG1: Things] change , [V: roll] [ARGM-MNR: with the punches] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "I believe Julia's on the table..?",
+			"coref_text": "[I:Ross Geller] believe Julia's on the table..?",
+			"srls": [
+				"[ARG0: I] [V: believe] [ARG1: Julia 's on the table] .. ?",
+				"I believe [ARG1: Julia] [V: 's] [ARG2: on the table] .. ?"
+			]
+		}
+	]
+}

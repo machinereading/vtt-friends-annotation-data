@@ -1,0 +1,165 @@
+{
+	"scene_id": "friends-s01e05-00",
+	"sentences": [
+		{
+			"speaker": "Monica_Geller",
+			"text": "Would you let it go?",
+			"coref_text": "Would [you:Ross Geller] let it go?",
+			"srls": [
+				"[V: Would] you let it go ?",
+				"[ARGM-MOD: Would] [ARG0: you] [V: let] [ARG1: it go] ?",
+				"Would you let [ARG1: it] [V: go] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "It's not that big a deal.",
+			"coref_text": "It's not that big a deal.",
+			"srls": [
+				"[ARG1: It] [V: 's] [ARGM-NEG: not] [ARG2: that big a deal] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Not that big a deal?",
+			"coref_text": "Not that big a deal?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "It's amazing.",
+			"coref_text": "It's amazing.",
+			"srls": [
+				"[ARG1: It] [V: 's] [ARG2: amazing] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Ok, you just reach in there, there's one little maneuver, and bam, a bra right out the sleeve.",
+			"coref_text": "Ok, [you:Monica Geller] just reach in there, there's one little maneuver, and bam, a bra right out the sleeve.",
+			"srls": [
+				"Ok , [ARG0: you] [ARGM-ADV: just] [V: reach] [ARG2: in there] , there 's one little maneuver , and bam , a bra right out the sleeve .",
+				"Ok , you just reach in there , there [V: 's] [ARG1: one little maneuver , and bam , a bra right out the sleeve] .",
+				"Ok , you just reach in there , there 's one little maneuver , and [V: bam] , [ARG1: a bra] right out the sleeve ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "All right, as far as I'm concerned, there is nothing a guy can do that even comes close.",
+			"coref_text": "All right, as far as [I:Ross Geller]'m concerned, there is nothing a guy can do that even comes close.",
+			"srls": [
+				"All right , as far as I [V: 'm] concerned , there is nothing a guy can do that even comes close .",
+				"[ARGM-DIS: All right] , [ARGM-ADV: as far as I 'm concerned] , there [V: is] [ARG1: nothing a guy can do that even comes close] .",
+				"All right , as far as I 'm concerned , there is nothing a guy [V: can] do that even comes close .",
+				"All right , as far as I 'm concerned , there is [ARG1: nothing] [ARG0: a guy] [ARGM-MOD: can] [V: do] that even comes close .",
+				"All right , as far as I 'm concerned , there is [ARG1: nothing a guy can do] [R-ARG1: that] [ARGM-ADV: even] [V: comes] [ARG4: close] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Am I right?",
+			"coref_text": "Am [I:Ross Geller] right?",
+			"srls": [
+				"[V: Am] [ARG1: I] [ARG2: right] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Come on!",
+			"coref_text": "Come on!",
+			"srls": [
+				"[V: Come] on !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "You guys can pee standing up.",
+			"coref_text": "You guys can pee standing up.",
+			"srls": [
+				"You guys [V: can] pee standing up .",
+				"[ARG0: You guys] [ARGM-MOD: can] [V: pee] [ARG1: standing up] .",
+				"[ARG1: You guys] [ARGM-MOD: can] pee [V: standing] up ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "We can?",
+			"coref_text": "We can?",
+			"srls": [
+				"We [V: can] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "All right, I'm tryin' that.",
+			"coref_text": "All right, [I:Chandler Bing]'m tryin' that.",
+			"srls": [
+				"All right , I [V: 'm] tryin ' that ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Ok, you know what blows my mind?",
+			"coref_text": "Ok, you know what blows [my:Joey Tribbiani] mind?",
+			"srls": [
+				"[ARGM-DIS: Ok] , [ARG0: you] [V: know] [ARG1: what blows my mind] ?",
+				"Ok , you know [ARG0: what] [V: blows] [ARG1: my mind] ?"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Women can see breasts any time they want.",
+			"coref_text": "Women can see breasts any time they want.",
+			"srls": [
+				"Women [V: can] see breasts any time they want .",
+				"[ARG0: Women] [ARGM-MOD: can] [V: see] [ARG1: breasts] [ARGM-TMP: any time they want] .",
+				"Women can see breasts [ARGM-TMP: any time] [ARG0: they] [V: want] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "You just look down and there they are.",
+			"coref_text": "You just look down and there they are.",
+			"srls": [
+				"[ARG0: You] [ARGM-ADV: just] [V: look] [ARGM-DIR: down] and there they are .",
+				"You just look down and [ARG2: there] [ARG1: they] [V: are] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "How you get any work done is beyond me.",
+			"coref_text": "How you get any work done is beyond [me:Joey Tribbiani].",
+			"srls": [
+				"[ARGM-MNR: How] [ARG0: you] [V: get] [ARG1: any work done] is beyond me .",
+				"How you get [ARG1: any work] [V: done] is beyond me .",
+				"[ARG1: How you get any work done] [V: is] [ARG2: beyond me] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Oh, ok, you know what I don't get?",
+			"coref_text": "Oh, ok, you know what [I:Phoebe Buffay] don't get?",
+			"srls": [
+				"[ARGM-DIS: Oh] , [ARGM-DIS: ok] , [ARG0: you] [V: know] [ARG1: what I do n't get] ?",
+				"Oh , ok , you know what I [V: do] n't get ?",
+				"Oh , ok , you know [ARG1: what] [ARG0: I] do [ARGM-NEG: n't] [V: get] ?"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "The way guys can do so many mean things, and then not even care.",
+			"coref_text": "The way guys can do so many mean things, and then not even care.",
+			"srls": [
+				"The way guys [V: can] do so many mean things , and then not even care .",
+				"[ARGM-MNR: The way] [ARG0: guys] [ARGM-MOD: can] [V: do] [ARG1: so many mean things] , and then not even care .",
+				"The way [ARG0: guys] can do so many mean things , and [ARGM-TMP: then] [ARGM-NEG: not] [ARGM-ADJ: even] [V: care] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Multiple orgasms!",
+			"coref_text": "Multiple orgasms!",
+			"srls": []
+		}
+	]
+}

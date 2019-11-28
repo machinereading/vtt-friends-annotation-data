@@ -1,0 +1,189 @@
+{
+	"scene_id": "friends-s01e02-04",
+	"sentences": [
+		{
+			"speaker": "Ross_Geller",
+			"text": "Sorry I'm late, I was stuck at work.",
+			"coref_text": "Sorry [I:Ross Geller]'m late, [I:Ross Geller] was stuck at work.",
+			"srls": [
+				"Sorry [ARG1: I] [V: 'm] [ARG2: late] , I was stuck at work .",
+				"Sorry I 'm late , I [V: was] stuck at work .",
+				"[ARGM-DIS: Sorry] I 'm late , [ARG1: I] was [V: stuck] [ARGM-LOC: at work] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "There was this big dinosaur..",
+			"coref_text": "There was this big dinosaur..",
+			"srls": [
+				"There [V: was] [ARG1: this big dinosaur] .."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "thing..",
+			"coref_text": "thing..",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "anyway.",
+			"coref_text": "anyway.",
+			"srls": []
+		},
+		{
+			"speaker": "Susan_Bunch",
+			"text": "Hi.",
+			"coref_text": "Hi.",
+			"srls": []
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "Ross, you remember Susan.",
+			"coref_text": "[Ross:Ross Geller], [you:Ross Geller] remember [Susan:Susan Bunch].",
+			"srls": [
+				"[ARGM-DIS: Ross] , [ARG0: you] [V: remember] [ARG1: Susan] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "How could I forget?",
+			"coref_text": "How could [I:Ross Geller] forget?",
+			"srls": [
+				"How [V: could] I forget ?",
+				"[ARGM-MNR: How] [ARGM-MOD: could] [ARG0: I] [V: forget] ?"
+			]
+		},
+		{
+			"speaker": "Susan_Bunch",
+			"text": "Ross.",
+			"coref_text": "[Ross:Ross Geller].",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Hello, Susan.",
+			"coref_text": "Hello, [Susan:Susan Bunch].",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Good shake.",
+			"coref_text": "Good shake.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Good shake.",
+			"coref_text": "Good shake.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "So, uh, we're just waiting for...?",
+			"coref_text": "So, uh, we're just waiting for...?",
+			"srls": [
+				"So , uh , we [V: 're] just waiting for ... ?",
+				"[ARGM-DIS: So] , [ARGM-DIS: uh] , [ARG1: we] 're [ARGM-ADV: just] [V: waiting] [ARG2: for] ... ?"
+			]
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "Dr. Oberman.",
+			"coref_text": "Dr. [Oberman:Dr. Oberman].",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "..",
+			"coref_text": "..",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Dr. Oberman.",
+			"coref_text": "Dr. [Oberman:Dr. Oberman].",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Okay.",
+			"coref_text": "Okay.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "And is he-",
+			"coref_text": "And is [he:Dr. Oberman]-",
+			"srls": [
+				"[ARGM-DIS: And] [V: is] he-"
+			]
+		},
+		{
+			"speaker": "Susan_Bunch",
+			"text": "She.",
+			"coref_text": "[She:Dr. Oberman].",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "- she, of course, she- uh- familiar with our..",
+			"coref_text": "- [she:Dr. Oberman], of course, [she:Dr. Oberman]- uh- familiar with our..",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "special situation?",
+			"coref_text": "special situation?",
+			"srls": []
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "Yes, and she's very supportive.",
+			"coref_text": "Yes, and [she:Dr. Oberman]'s very supportive.",
+			"srls": [
+				"[ARGM-DIS: Yes] , [ARGM-DIS: and] [ARG1: she] [V: 's] [ARG2: very supportive] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Okay, that's great.",
+			"coref_text": "Okay, that's great.",
+			"srls": [
+				"[ARGM-DIS: Okay] , [ARG1: that] [V: 's] [ARG2: great] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "No, I'm- Oh.",
+			"coref_text": "No, [I:Ross Geller]'m- Oh.",
+			"srls": []
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "Thanks.",
+			"coref_text": "Thanks.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Quack, quack..",
+			"coref_text": "Quack, quack..",
+			"srls": []
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "Ross?",
+			"coref_text": "[Ross:Ross Geller]?",
+			"srls": []
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "That opens my cervix.",
+			"coref_text": "That opens [my:Carol Willick] cervix.",
+			"srls": [
+				"[ARG0: That] [V: opens] [ARG1: my cervix] ."
+			]
+		}
+	]
+}

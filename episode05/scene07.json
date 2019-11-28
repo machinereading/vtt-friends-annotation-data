@@ -1,0 +1,80 @@
+{
+	"scene_id": "friends-s01e05-07",
+	"sentences": [
+		{
+			"speaker": "Monica_Geller",
+			"text": "I've gotta tell you, Bob is terrific.",
+			"coref_text": "[I:Monica Geller]'ve gotta tell [you:Angela Delvecchio], [Bob:Bob] is terrific.",
+			"srls": [
+				"I [V: 've] got ta tell you , Bob is terrific .",
+				"[ARG0: I] 've [V: got] [ARG1: ta tell you , Bob is terrific] .",
+				"[ARG0: I] 've got ta [V: tell] [ARG2: you] , [ARG1: Bob is terrific] .",
+				"I 've got ta tell you , [ARG1: Bob] [V: is] [ARG2: terrific] ."
+			]
+		},
+		{
+			"speaker": "Angela_Delvecchio",
+			"text": "Yeah, isn't he?",
+			"coref_text": "Yeah, isn't [he:Bob]?",
+			"srls": [
+				"[ARGM-DIS: Yeah] , [V: is] [ARGM-NEG: n't] [ARG1: he] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "It is so great to meet a guy who is smart and funny, and has an emotional age beyond, like eight.",
+			"coref_text": "It is so great to meet a [guy:Bob] who is smart and funny, and has an emotional age beyond, like eight.",
+			"srls": [
+				"It [V: is] [ARG2: so great] [ARG1: to meet a guy who is smart and funny , and has an emotional age beyond , like eight] .",
+				"It is so great to [V: meet] [ARG1: a guy who is smart and funny , and has an emotional age beyond , like eight] .",
+				"It is so great to meet [ARG1: a guy] [R-ARG1: who] [V: is] [ARG2: smart and funny] , and has an emotional age beyond , like eight .",
+				"It is so great to meet [ARG0: a guy] [R-ARG0: who] is smart and funny , and [V: has] [ARG1: an emotional age beyond , like eight] ."
+			]
+		},
+		{
+			"speaker": "Angela_Delvecchio",
+			"text": "You know what else?",
+			"coref_text": "[You:Monica Geller] know what else?",
+			"srls": [
+				"[ARG0: You] [V: know] [ARG1: what else] ?"
+			]
+		},
+		{
+			"speaker": "Angela_Delvecchio",
+			"text": "He's unbelievable in bed.",
+			"coref_text": "[He:Bob]'s unbelievable in bed.",
+			"srls": [
+				"[ARG1: He] [V: 's] [ARG2: unbelievable in bed] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Wow.",
+			"coref_text": "Wow.",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "My brother never even told me when he lost his virginity.",
+			"coref_text": "[My:Monica Geller] [brother:Ross Geller] never even told [me:Monica Geller] when [he:Ross Geller] lost [his:Ross Geller] virginity.",
+			"srls": [
+				"[ARG0: My brother] [ARGM-TMP: never] [ARGM-ADV: even] [V: told] [ARG2: me] [ARG1: when he lost his virginity] .",
+				"My brother never even told me [ARGM-TMP: when] [ARG0: he] [V: lost] [ARG1: his virginity] ."
+			]
+		},
+		{
+			"speaker": "Angela_Delvecchio",
+			"text": "Huh.",
+			"coref_text": "Huh.",
+			"srls": []
+		},
+		{
+			"speaker": "Angela_Delvecchio",
+			"text": "That's nice.",
+			"coref_text": "That's nice.",
+			"srls": [
+				"[ARG1: That] [V: 's] [ARG2: nice] ."
+			]
+		}
+	]
+}

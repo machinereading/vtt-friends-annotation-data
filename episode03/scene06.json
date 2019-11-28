@@ -1,0 +1,205 @@
+{
+	"scene_id": "friends-s01e03-06",
+	"sentences": [
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Hey, Lizzie.",
+			"coref_text": "Hey, [Lizzie:Lizzie].",
+			"srls": []
+		},
+		{
+			"speaker": "Lizzie",
+			"text": "Hey, Weird Girl.",
+			"coref_text": "Hey, [Weird Girl:Phoebe Buffay].",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "I brought you alphabet soup.",
+			"coref_text": "[I:Phoebe Buffay] brought [you:Lizzie] alphabet soup.",
+			"srls": [
+				"[ARG0: I] [V: brought] [ARG2: you] [ARG1: alphabet soup] ."
+			]
+		},
+		{
+			"speaker": "Lizzie",
+			"text": "Did you pick out the vowels?",
+			"coref_text": "Did [you:Phoebe Buffay] pick out the vowels?",
+			"srls": [
+				"[V: Did] you pick out the vowels ?",
+				"Did [ARG0: you] [V: pick] out [ARG1: the vowels] ?"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Yes.",
+			"coref_text": "Yes.",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "But I left in the Ys. 'Cause, y'know, \"sometimes y\".",
+			"coref_text": "But [I:Phoebe Buffay] left in the Ys. 'Cause, y'know, \"sometimes y\".",
+			"srls": [
+				"[ARGM-DIS: But] [ARG0: I] [V: left] [ARGM-LOC: in the Ys] . 'Cause , y'know , [ARGM-TMP: \" sometimes y \"] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Uh, I also have something else for you.",
+			"coref_text": "Uh, [I:Phoebe Buffay] also have something else for [you:Lizzie].",
+			"srls": [
+				"[ARGM-DIS: Uh] , [ARG0: I] [ARGM-ADV: also] [V: have] [ARG1: something else for you] ."
+			]
+		},
+		{
+			"speaker": "Lizzie",
+			"text": "Saltines?",
+			"coref_text": "Saltines?",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "No, but would you like a thousand dollars and a football phone?",
+			"coref_text": "No, but would [you:Lizzie] like a thousand dollars and a football phone?",
+			"srls": [
+				"No , but [V: would] you like a thousand dollars and a football phone ?",
+				"[ARGM-DIS: No] , [ARGM-DIS: but] [ARGM-MOD: would] [ARG0: you] [V: like] [ARG1: a thousand dollars and a football phone] ?"
+			]
+		},
+		{
+			"speaker": "Lizzie",
+			"text": "What?",
+			"coref_text": "What?",
+			"srls": []
+		},
+		{
+			"speaker": "Lizzie",
+			"text": "Oh my God, there's really money in here.",
+			"coref_text": "Oh my God, there's really money in here.",
+			"srls": [
+				"[ARGM-DIS: Oh my God] , there [V: 's] [ARGM-ADV: really] [ARG1: money] [ARGM-LOC: in here] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "I know.",
+			"coref_text": "[I:Phoebe Buffay] know.",
+			"srls": [
+				"[ARG0: I] [V: know] ."
+			]
+		},
+		{
+			"speaker": "Lizzie",
+			"text": "Weird Girl, what are you doing?",
+			"coref_text": "[Weird Girl:Phoebe Buffay], what are [you:Phoebe Buffay] doing?",
+			"srls": [
+				"Weird Girl , what [V: are] you doing ?",
+				"Weird Girl , [ARG1: what] are [ARG0: you] [V: doing] ?"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "No, I want you to have it.",
+			"coref_text": "No, [I:Phoebe Buffay] want [you:Lizzie] to have it.",
+			"srls": [
+				"[ARGM-DIS: No] , [ARG0: I] [V: want] [ARG1: you to have it] .",
+				"No , I want [ARG0: you] to [V: have] [ARG1: it] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "I don't want it.",
+			"coref_text": "[I:Phoebe Buffay] don't want it.",
+			"srls": [
+				"I [V: do] n't want it .",
+				"[ARG0: I] do [ARGM-NEG: n't] [V: want] [ARG1: it] ."
+			]
+		},
+		{
+			"speaker": "Lizzie",
+			"text": "No, no, I ha- I have to give you something.",
+			"coref_text": "No, no, [I:Lizzie] ha- [I:Lizzie] have to give [you:Phoebe Buffay] something.",
+			"srls": [
+				"No , no , I [V: ha-] I have to give you something .",
+				"No , no , I ha- I [V: have] to give you something .",
+				"No , no , I ha- [ARG0: I] have to [V: give] [ARG2: you] [ARG1: something] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Oh, that's fine, no.",
+			"coref_text": "Oh, that's fine, no.",
+			"srls": [
+				"[ARGM-DIS: Oh] , [ARG1: that] [V: 's] [ARG2: fine] , [ARGM-DIS: no] ."
+			]
+		},
+		{
+			"speaker": "Lizzie",
+			"text": "Would you like my tin- foil hat?",
+			"coref_text": "Would [you:Phoebe Buffay] like [my:Lizzie] tin- foil hat?",
+			"srls": [
+				"[V: Would] you like my tin- foil hat ?",
+				"[ARGM-MOD: Would] [ARG0: you] [V: like] [ARG1: my tin- foil hat] ?"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "No.",
+			"coref_text": "No.",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": " 'Cause you need that.",
+			"coref_text": " 'Cause [you:Lizzie] need that.",
+			"srls": [
+				"'Cause [ARG0: you] [V: need] [ARG1: that] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "No, it's okay, thanks.",
+			"coref_text": "No, it's okay, thanks.",
+			"srls": [
+				"[ARGM-DIS: No] , [ARG1: it] [V: 's] [ARG2: okay] , [ARGM-DIS: thanks] ."
+			]
+		},
+		{
+			"speaker": "Lizzie",
+			"text": "Please, let me do something.",
+			"coref_text": "Please, let [me:Lizzie] do something.",
+			"srls": [
+				"[ARGM-DIS: Please] , [V: let] [ARG1: me do something] .",
+				"Please , let [ARG0: me] [V: do] [ARG1: something] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Okay, alright, you buy me a soda, and then we're even.",
+			"coref_text": "Okay, alright, [you:Lizzie] buy [me:Phoebe Buffay] a soda, and then we're even.",
+			"srls": [
+				"Okay , alright , [ARG0: you] [V: buy] [ARG4: me] [ARG1: a soda] , and then we 're even .",
+				"Okay , alright , you buy me a soda , and [ARGM-TMP: then] [ARG1: we] [V: 're] even ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Okay?",
+			"coref_text": "Okay?",
+			"srls": []
+		},
+		{
+			"speaker": "Lizzie",
+			"text": "Okay.",
+			"coref_text": "Okay.",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Okay.",
+			"coref_text": "Okay.",
+			"srls": []
+		}
+	]
+}

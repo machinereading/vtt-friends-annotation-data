@@ -1,0 +1,584 @@
+{
+    "scene_id": "friends-s01e01-07",
+    "sentences": [
+        {
+            "speaker": "Rachel_Green",
+            "text": "Isn't this amazing?",
+            "coref_text": "Isn't this amazing?",
+            "srls": [
+                "[V: Is] [ARGM-NEG: n't] [ARG1: this] [ARG2: amazing] ?"
+            ]
+        },
+        {
+            "speaker": "Rachel_Green",
+            "text": "I mean, I have never made coffee before in my entire life.",
+            "coref_text": "[I:Rachel Green] mean, [I:Rachel Green] have never made coffee before in [my:Rachel Green] entire life.",
+            "srls": [
+                "[ARG0: I] [V: mean] , I have never made coffee before in my entire life .",
+                "I mean , I [V: have] never made coffee before in my entire life .",
+                "I mean , [ARG0: I] have [ARGM-NEG: never] [V: made] [ARG1: coffee] [ARGM-TMP: before] [ARGM-TMP: in my entire life] ."
+            ]
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": "That is amazing.",
+            "coref_text": "That is amazing.",
+            "srls": [
+                "[ARG1: That] [V: is] [ARG2: amazing] ."
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "Congratulations.",
+            "coref_text": "Congratulations.",
+            "srls": []
+        },
+        {
+            "speaker": "Rachel_Green",
+            "text": "Y'know, I figure if I can make coffee, there isn't anything I can't do.",
+            "coref_text": "Y'know, [I:Rachel Green] figure if [I:Rachel Green] can make coffee, there isn't anything [I:Rachel Green] can't do.",
+            "srls": [
+                "[ARGM-DIS: Y'know] , [ARG0: I] [V: figure] [ARG1: if I can make coffee , there is n't anything I ca n't do] .",
+                "Y'know , I figure if I [V: can] make coffee , there is n't anything I ca n't do .",
+                "Y'know , I figure if [ARG0: I] [ARGM-MOD: can] [V: make] [ARG1: coffee] , there is n't anything I ca n't do .",
+                "Y'know , I figure [ARGM-ADV: if I can make coffee] , there [V: is] [ARGM-NEG: n't] [ARG1: anything I ca n't do] .",
+                "Y'know , I figure if I can make coffee , there is n't [ARG1: anything] [ARG0: I] [ARGM-MOD: ca] [ARGM-NEG: n't] [V: do] ."
+            ]
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": "If can invade Poland, there isn't anything I can't do.",
+            "coref_text": "If can invade Poland, there isn't anything [I:Chandler Bing] can't do.",
+            "srls": [
+                "If [V: can] invade Poland , there is n't anything I ca n't do .",
+                "If [ARGM-MOD: can] [V: invade] [ARG1: Poland] , there is n't anything I ca n't do .",
+                "[ARGM-ADV: If can invade Poland] , there [V: is] [ARGM-NEG: n't] [ARG1: anything I ca n't do] .",
+                "If can invade Poland , there is n't [ARG1: anything] [ARG0: I] [ARGM-MOD: ca] [ARGM-NEG: n't] [V: do] ."
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "Listen, while you're on a roll, if you feel like you gotta make like a Western omelet or something...",
+            "coref_text": "Listen, while [you:Rachel Green]'re on a roll, if [you:Rachel Green] feel like [you:Rachel Green] gotta make like a Western omelet or something...",
+            "srls": [
+                "[V: Listen] , [ARGM-TMP: while you 're on a roll] , [ARGM-ADV: if you feel like you got ta make like a Western omelet or something] ...",
+                "Listen , while [ARG1: you] [V: 're] [ARG2: on a roll] , if you feel like you got ta make like a Western omelet or something ...",
+                "Listen , while you 're on a roll , if [ARG0: you] [V: feel] [ARG1: like you got ta make like a Western omelet or something] ...",
+                "Listen , while you 're on a roll , if you feel like [ARG0: you] [V: got] [ARG1: ta make like a Western omelet or something] ...",
+                "Listen , while you 're on a roll , if you feel like [ARG0: you] got ta [V: make] [ARGM-DIS: like] [ARG1: a Western omelet or something] ..."
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "Although actually I'm really not that hungry...",
+            "coref_text": "Although actually [I:Joey Tribbiani]'m really not that hungry...",
+            "srls": [
+                "Although [ARGM-ADV: actually] [ARG1: I] [V: 'm] [ARGM-ADV: really] [ARGM-NEG: not] [ARG2: that hungry] ..."
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "Oh good, Lenny and Squigy are here.",
+            "coref_text": "Oh good, Lenny and Squigy are here.",
+            "srls": [
+                "[ARGM-DIS: Oh good] , [ARG1: Lenny and Squigy] [V: are] [ARG2: here] ."
+            ]
+        },
+        {
+            "speaker": "All",
+            "text": "Morning.",
+            "coref_text": "Morning.",
+            "srls": []
+        },
+        {
+            "speaker": "All",
+            "text": "Good morning.",
+            "coref_text": "Good morning.",
+            "srls": []
+        },
+        {
+            "speaker": "Paul",
+            "text": "Morning.",
+            "coref_text": "Morning.",
+            "srls": []
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "Morning, Paul.",
+            "coref_text": "Morning, [Paul:Paul].",
+            "srls": []
+        },
+        {
+            "speaker": "Rachel_Green",
+            "text": "Hello, Paul.",
+            "coref_text": "Hello, [Paul:Paul].",
+            "srls": []
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": "Hi, Paul, is it?",
+            "coref_text": "Hi, [Paul:Paul], is it?",
+            "srls": [
+                "[ARGM-DIS: Hi] , [ARGM-DIS: Paul] , [V: is] [ARG1: it] ?"
+            ]
+        },
+        {
+            "speaker": "Paul",
+            "text": "Thank you!",
+            "coref_text": "Thank you!",
+            "srls": [
+                "[V: Thank] [ARG1: you] !"
+            ]
+        },
+        {
+            "speaker": "Paul",
+            "text": "Thank you so much!",
+            "coref_text": "Thank you so much!",
+            "srls": [
+                "[V: Thank] [ARG1: you] [ARGM-ADV: so much] !"
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "Stop!",
+            "coref_text": "Stop!",
+            "srls": [
+                "[V: Stop] !"
+            ]
+        },
+        {
+            "speaker": "Paul",
+            "text": "No, I'm telling you last night was like umm, all my birthdays, both graduations, plus the barn raising scene in Witness.",
+            "coref_text": "No, [I:Paul]'m telling [you:Monica Geller] last night was like umm, all [my:Paul] birthdays, both graduations, plus the barn raising scene in Witness.",
+            "srls": [
+                "No , I [V: 'm] telling you last night was like umm , all my birthdays , both graduations , plus the barn raising scene in Witness .",
+                "[ARGM-DIS: No] , [ARG0: I] 'm [V: telling] [ARG2: you] [ARG1: last night was like umm , all my birthdays , both graduations , plus the barn raising scene in Witness] .",
+                "No , I 'm telling you [ARG1: last night] [V: was] [ARGM-DIS: like] [ARGM-DIS: umm] , [ARG2: all my birthdays , both graduations , plus the barn raising scene in Witness] .",
+                "No , I 'm telling you last night was like umm , all my birthdays , both graduations , plus the [ARG1: barn] [V: raising] scene in Witness ."
+            ],
+            "frame": [
+                "No, I'm telling you [last night: Entity_1] was [like: Similarity] umm, [all my birthdays, both graduations, plus the barn raising scene in Witness: Entity_2].",
+                "No, [I: Speaker]'m [telling: Telling] [you: Addressee] [last night was like umm, all my birthdays, both graduations, plus the barn raising scene in Witness: Message]."
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "We'll talk later.",
+            "coref_text": "We'll talk later.",
+            "srls": [
+                "[ARG0: We] [ARGM-MOD: 'll] [V: talk] [ARGM-TMP: later] ."
+            ]
+        },
+        {
+            "speaker": "Paul",
+            "text": "Yeah.",
+            "coref_text": "Yeah.",
+            "srls": []
+        },
+        {
+            "speaker": "Paul",
+            "text": "Thank you.",
+            "coref_text": "Thank [you:Monica Geller].",
+            "srls": [
+                "[V: Thank] [ARG1: you] ."
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "That wasn't a real date?!",
+            "coref_text": "That wasn't a real date?!",
+            "srls": [
+                "[ARG1: That] [V: was] [ARGM-NEG: n't] [ARG2: a real date] ? !"
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "What the hell do you do on a real date?",
+            "coref_text": "What the hell do [you:Monica Geller] do on a real date?",
+            "srls": [
+                "What the hell [V: do] you do on a real date ?",
+                "[ARG1: What the hell] do [ARG0: you] [V: do] [ARGM-TMP: on a real date] ?"
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "Shut up, and put my table back.",
+            "coref_text": "Shut up, and put [my:Monica Geller] table back.",
+            "srls": [
+                "[V: Shut] up , and put my table back .",
+                "Shut up , and [V: put] [ARG1: my table] [ARG2: back] ."
+            ]
+        },
+        {
+            "speaker": "All",
+            "text": "Okayyy!",
+            "coref_text": "Okayyy!",
+            "srls": []
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": "All right, kids, I gotta get to work.",
+            "coref_text": "All right, kids, [I:Chandler Bing] gotta get to work.",
+            "srls": [
+                "[ARGM-DIS: All right] , [ARGM-DIS: kids] , [ARG0: I] [V: got] [ARG1: ta get to work] .",
+                "All right , kids , [ARG1: I] got ta [V: get] [ARG2: to work] ."
+            ]
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": "If I don't input those numbers,...",
+            "coref_text": "If [I:Chandler Bing] don't input those numbers,...",
+            "srls": [
+                "If I [V: do] n't input those numbers , ...",
+                "If [ARG0: I] do [ARGM-NEG: n't] [V: input] [ARG1: those numbers] , ..."
+            ]
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": "it doesn't make much of a difference...",
+            "coref_text": "it doesn't make much of a difference...",
+            "srls": [
+                "it [V: does] n't make much of a difference ...",
+                "[ARG0: it] does [ARGM-NEG: n't] [V: make] [ARG1: much of a difference] ..."
+            ]
+        },
+        {
+            "speaker": "Rachel_Green",
+            "text": "So, like, you guys all have jobs?",
+            "coref_text": "So, like, you guys all have jobs?",
+            "srls": [
+                "[ARGM-DIS: So] , [ARGM-DIS: like] , [ARG0: you guys all] [V: have] [ARG1: jobs] ?"
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "Yeah, we all have jobs.",
+            "coref_text": "Yeah, we all have jobs.",
+            "srls": [
+                "[ARGM-DIS: Yeah] , [ARG0: we all] [V: have] [ARG1: jobs] ."
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "See, that's how we buy stuff.",
+            "coref_text": "See, that's how we buy stuff.",
+            "srls": [
+                "[V: See] , that 's how we buy stuff .",
+                "[ARGM-DIS: See] , [ARG1: that] [V: 's] [ARG2: how we buy stuff] .",
+                "See , that 's [ARGM-MNR: how] [ARG0: we] [V: buy] [ARG1: stuff] ."
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "Yeah, I'm an actor.",
+            "coref_text": "Yeah, [I:Joey Tribbiani]'m an [actor:Joey Tribbiani].",
+            "srls": [
+                "[ARGM-DIS: Yeah] , [ARG1: I] [V: 'm] [ARG2: an actor] ."
+            ]
+        },
+        {
+            "speaker": "Rachel_Green",
+            "text": "Wow!",
+            "coref_text": "Wow!",
+            "srls": []
+        },
+        {
+            "speaker": "Rachel_Green",
+            "text": "Would I have seen you in anything?",
+            "coref_text": "Would [I:Rachel Green] have seen [you:Joey Tribbiani] in anything?",
+            "srls": [
+                "[V: Would] I have seen you in anything ?",
+                "Would I [V: have] seen you in anything ?",
+                "[ARGM-MOD: Would] [ARG0: I] have [V: seen] [ARG1: you] [ARGM-ADV: in anything] ?"
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "I doubt it.",
+            "coref_text": "[I:Joey Tribbiani] doubt it.",
+            "srls": [
+                "[ARG0: I] [V: doubt] [ARG1: it] ."
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "Mostly regional work.",
+            "coref_text": "Mostly regional work.",
+            "srls": []
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "Oh wait, wait, unless you happened to catch the Reruns 'production of Pinocchio, at the little theater in the park.",
+            "coref_text": "Oh wait, wait, unless [you:Rachel Green] happened to catch the Reruns 'production of Pinocchio, at the little theater in the park.",
+            "srls": [
+                "Oh [V: wait] , wait , unless you happened to catch the Reruns ' production of Pinocchio , at the little theater in the park .",
+                "[ARGM-DIS: Oh wait] , [V: wait] , [ARGM-ADV: unless you happened to catch the Reruns ' production of Pinocchio , at the little theater in the park] .",
+                "Oh wait , wait , unless you [V: happened] [ARG1: to catch the Reruns ' production of Pinocchio , at the little theater in the park] .",
+                "Oh wait , wait , unless [ARG0: you] happened to [V: catch] [ARG1: the Reruns ' production of Pinocchio] , [ARGM-LOC: at the little theater in the park] ."
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "Look, it was a job all right?",
+            "coref_text": "Look, it was a job all right?",
+            "srls": [
+                "[V: Look] , it was a job all right ?",
+                "[ARGM-DIS: Look] , [ARG1: it] [V: was] [ARG2: a job] [ARGM-DIS: all right] ?"
+            ]
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": " 'Look, Gippetto, I'm a real live boy.",
+            "coref_text": " 'Look, [Gippetto:Joey Tribbiani], [I:Chandler Bing]'m a real live [boy:Joey Tribbiani].",
+            "srls": [
+                "' [V: Look] , Gippetto , I 'm a real live boy .",
+                "' [ARGM-DIS: Look] , [ARGM-DIS: Gippetto] , [ARG1: I] [V: 'm] [ARG2: a real live boy] ."
+            ]
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": " '",
+            "coref_text": " '",
+            "srls": []
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "I will not take this abuse.",
+            "coref_text": "[I:Joey Tribbiani] will not take this abuse.",
+            "srls": [
+                "I [V: will] not take this abuse .",
+                "[ARG0: I] [ARGM-MOD: will] [ARGM-NEG: not] [V: take] [ARG1: this abuse] ."
+            ]
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": "You're right, I'm sorry.",
+            "coref_text": "[You:Joey Tribbiani]'re right, [I:Chandler Bing]'m sorry.",
+            "srls": [
+                "[ARG1: You] [V: 're] [ARG2: right] , I 'm sorry .",
+                "You 're right , [ARG1: I] [V: 'm] [ARG2: sorry] ."
+            ]
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": " \"Once I was a wooden boy, a little wooden boy...\"",
+            "coref_text": " \"Once [I:Joey Tribbiani] was a wooden [boy:Joey Tribbiani], a little wooden [boy:Joey Tribbiani]...\"",
+            "srls": [
+                "\" [ARGM-TMP: Once] [ARG1: I] [V: was] [ARG2: a wooden boy , a little wooden boy] ... \""
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "You should both know, that he's a dead man.",
+            "coref_text": "You should both know, that [he:Chandler Bing]'s a dead [man:Chandler Bing].",
+            "srls": [
+                "You [V: should] both know , that he 's a dead man .",
+                "[ARG0: You] [ARGM-MOD: should] both [V: know] , [ARG1: that he 's a dead man] .",
+                "You should both know , that [ARG1: he] [V: 's] [ARG2: a dead man] ."
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "Oh, Chandler?",
+            "coref_text": "Oh, [Chandler:Chandler Bing]?",
+            "srls": []
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "So how you doing today?",
+            "coref_text": "So how [you:Rachel Green] doing today?",
+            "srls": [
+                "So [ARGM-MNR: how] [ARG0: you] [V: doing] [ARGM-TMP: today] ?"
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "Did you sleep okay?",
+            "coref_text": "Did [you:Rachel Green] sleep okay?",
+            "srls": [
+                "[V: Did] you sleep okay ?",
+                "Did [ARG0: you] [V: sleep] [ARGM-PRD: okay] ?"
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "Talk to Barry?",
+            "coref_text": "Talk to [Barry:Barry]?",
+            "srls": [
+                "[V: Talk] [ARG2: to Barry] ?"
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "I can't stop smiling.",
+            "coref_text": "[I:Monica Geller] can't stop smiling.",
+            "srls": [
+                "[ARG0: I] [ARGM-MOD: ca] [ARGM-NEG: n't] [V: stop] [ARG1: smiling] .",
+                "[ARG0: I] ca n't stop [V: smiling] ."
+            ]
+        },
+        {
+            "speaker": "Rachel_Green",
+            "text": "I can see that.",
+            "coref_text": "[I:Rachel Green] can see that.",
+            "srls": [
+                "I [V: can] see that .",
+                "[ARG0: I] [ARGM-MOD: can] [V: see] [ARG1: that] ."
+            ]
+        },
+        {
+            "speaker": "Rachel_Green",
+            "text": "You look like you slept with a hanger in your mouth.",
+            "coref_text": "[You:Monica Geller] look like [you:Monica Geller] slept with a hanger in [your:Monica Geller] mouth.",
+            "srls": [
+                "[ARG0: You] [V: look] [ARG1: like you slept with a hanger in your mouth] .",
+                "You look like [ARG0: you] [V: slept] [ARGM-MNR: with a hanger] [ARGM-LOC: in your mouth] ."
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "I know, he's just so, so...",
+            "coref_text": "[I:Monica Geller] know, [he:Paul]'s just so, so...",
+            "srls": [
+                "[ARG0: I] [V: know] , [ARG1: he 's just so , so] ...",
+                "I know , [ARG1: he] [V: 's] [ARGM-ADV: just] [ARG2: so] , so ..."
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "Do you remember you and Tony DeMarco?",
+            "coref_text": "Do [you:Rachel Green] remember [you:Rachel Green] and [Tony DeMarco:Tony DeMarco]?",
+            "srls": [
+                "[V: Do] you remember you and Tony DeMarco ?",
+                "Do [ARG0: you] [V: remember] [ARG1: you and Tony DeMarco] ?"
+            ]
+        },
+        {
+            "speaker": "Rachel_Green",
+            "text": "Oh, yeah.",
+            "coref_text": "Oh, yeah.",
+            "srls": []
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "Well, it's like that.",
+            "coref_text": "Well, it's like that.",
+            "srls": [
+                "[ARGM-DIS: Well] , [ARG1: it] [V: 's] [ARG2: like that] ."
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "With feelings.",
+            "coref_text": "With feelings.",
+            "srls": []
+        },
+        {
+            "speaker": "Rachel_Green",
+            "text": "Oh wow.",
+            "coref_text": "Oh wow.",
+            "srls": []
+        },
+        {
+            "speaker": "Rachel_Green",
+            "text": "Are you in trouble.",
+            "coref_text": "Are [you:Monica Geller] in trouble.",
+            "srls": [
+                "[V: Are] [ARG1: you] [ARG2: in trouble] ."
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "Big time!",
+            "coref_text": "Big time!",
+            "srls": []
+        },
+        {
+            "speaker": "Rachel_Green",
+            "text": "Want a wedding dress?",
+            "coref_text": "Want a wedding dress?",
+            "srls": [
+                "[V: Want] [ARG1: a wedding dress] ?"
+            ]
+        },
+        {
+            "speaker": "Rachel_Green",
+            "text": "Hardly used.",
+            "coref_text": "Hardly used.",
+            "srls": [
+                "[ARGM-NEG: Hardly] [V: used] ."
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "I think we are getting a little ahead of selves here.",
+            "coref_text": "[I:Monica Geller] think we are getting a little ahead of selves here.",
+            "srls": [
+                "[ARG0: I] [V: think] [ARG1: we are getting a little ahead of selves here] .",
+                "I think we [V: are] getting a little ahead of selves here .",
+                "I think [ARG1: we] are [V: getting] [ARG2: a little ahead of selves] [ARGM-LOC: here] ."
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "Okay.",
+            "coref_text": "Okay.",
+            "srls": []
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "Okay.",
+            "coref_text": "Okay.",
+            "srls": []
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "I am just going to get up, go to work and not think about him all day.",
+            "coref_text": "[I:Monica Geller] am just going to get up, go to work and not think about [him:Paul] all day.",
+            "srls": [
+                "I [V: am] just going to get up , go to work and not think about him all day .",
+                "I am just [V: going] to get up , go to work and not think about him all day .",
+                "[ARG1: I] am just going to [V: get] [ARG2: up] , go to work and not think about him all day .",
+                "[ARG0: I] am just going to get up , [V: go] [ARG4: to work] and not think about him all day .",
+                "[ARG0: I] am just going to get up , go to work and [ARGM-NEG: not] [V: think] [ARG2: about him] [ARGM-TMP: all day] ."
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "Or else I'm just gonna get up and go to work.",
+            "coref_text": "Or else [I:Monica Geller]'m just gonna get up and go to work.",
+            "srls": [
+                "Or else I [V: 'm] just gon na get up and go to work .",
+                "Or else I 'm just [V: gon] na get up and go to work .",
+                "Or else [ARG1: I] 'm just gon na [V: get] [ARGM-DIR: up] and go to work .",
+                "Or else [ARG0: I] 'm just gon na get up and [V: go] [ARG4: to work] ."
+            ]
+        },
+        {
+            "speaker": "Rachel_Green",
+            "text": "Oh, look, wish me luck!",
+            "coref_text": "Oh, look, wish [me:Rachel Green] luck!",
+            "srls": [
+                "Oh , [V: look] , wish me luck !",
+                "[ARGM-DIS: Oh] , [ARGM-DIS: look] , [V: wish] [ARG2: me] [ARG1: luck] !"
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "What for?",
+            "coref_text": "What for?",
+            "srls": []
+        },
+        {
+            "speaker": "Rachel_Green",
+            "text": "I'm gonna go get one of those job things.",
+            "coref_text": "[I:Rachel Green]'m gonna go get one of those job things.",
+            "srls": [
+                "I [V: 'm] gon na go get one of those job things .",
+                "I 'm [V: gon] na go get one of those job things .",
+                "[ARG0: I] 'm gon na [V: go] [ARG1: get one of those job things] .",
+                "[ARG0: I] 'm gon na go [V: get] [ARG1: one of those job things] ."
+            ]
+        }
+    ]
+}

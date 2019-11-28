@@ -1,0 +1,244 @@
+{
+	"scene_id": "friends-s01e01-09",
+	"sentences": [
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Of course it was a line!",
+			"coref_text": "Of course it was a line!",
+			"srls": [
+				"[ARGM-DIS: Of course] [ARG1: it] [V: was] [ARG2: a line] !"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Why?!",
+			"coref_text": "Why?!",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Why?",
+			"coref_text": "Why?",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Why, why would anybody do something like that?",
+			"coref_text": "Why, why would anybody do something like that?",
+			"srls": [
+				"Why , why [V: would] anybody do something like that ?",
+				"Why , [ARGM-CAU: why] [ARGM-MOD: would] [ARG0: anybody] [V: do] [ARG1: something like that] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "I assume we're looking for an answer more sophisticated than' to get you into bed '.",
+			"coref_text": "[I:Ross Geller] assume we're looking for an answer more sophisticated than' to get [you:Monica Geller] into bed '.",
+			"srls": [
+				"[ARG0: I] [V: assume] [ARG1: we 're looking for an answer more sophisticated than ' to get you into bed '] .",
+				"I assume we [V: 're] looking for an answer more sophisticated than ' to get you into bed ' .",
+				"I assume [ARG0: we] 're [V: looking] [ARG1: for an answer more sophisticated than ' to get you into bed '] .",
+				"I assume we 're looking for an answer more sophisticated than ' to [V: get] [ARG1: you] [ARG2: into bed] ' ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "I hate men!",
+			"coref_text": "[I:Monica Geller] hate men!",
+			"srls": [
+				"[ARG0: I] [V: hate] [ARG1: men] !"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "I hate men!",
+			"coref_text": "[I:Monica Geller] hate men!",
+			"srls": [
+				"[ARG0: I] [V: hate] [ARG1: men] !"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Oh no, don't hate, you don't want to put that out into the universe.",
+			"coref_text": "Oh no, don't hate, [you:Monica Geller] don't want to put that out into the universe.",
+			"srls": [
+				"Oh no , [V: do] n't hate , you do n't want to put that out into the universe .",
+				"Oh no , do [ARGM-NEG: n't] [V: hate] , you do n't want to put that out into the universe .",
+				"Oh no , do n't hate , you [V: do] n't want to put that out into the universe .",
+				"Oh no , do n't hate , [ARG0: you] do [ARGM-NEG: n't] [V: want] [ARG1: to put that out into the universe] .",
+				"Oh no , do n't hate , [ARG0: you] do n't want to [V: put] [ARG1: that] [ARGM-DIR: out] [ARG2: into the universe] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Is it me?",
+			"coref_text": "Is it [me:Monica Geller]?",
+			"srls": [
+				"[V: Is] [ARG1: it] [ARG2: me] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Is it like I have some sort of beacon that only dogs and men with severe emotional problems can hear?",
+			"coref_text": "Is it like [I:Monica Geller] have some sort of beacon that only dogs and men with severe emotional problems can hear?",
+			"srls": [
+				"[V: Is] [ARG1: it] [ARG2: like I have some sort of beacon that only dogs and men with severe emotional problems can hear] ?",
+				"Is it like [ARG0: I] [V: have] [ARG1: some sort of beacon that only dogs and men with severe emotional problems can hear] ?",
+				"Is it like I have some sort of beacon that only dogs and men with severe emotional problems [V: can] hear ?",
+				"Is it like I have [ARG1: some] sort of beacon [R-ARG1: that] [ARG0: only dogs and men with severe emotional problems] [ARGM-MOD: can] [V: hear] ?"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "All right, c'mere, gim me your feet.",
+			"coref_text": "All right, c'mere, gim [me:Phoebe Buffay] [your:Monica Geller] feet.",
+			"srls": [
+				"[ARGM-DIS: All right] , [ARGM-DIS: c'mere] , [V: gim] [ARG2: me] [ARG1: your feet] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "I just thought he was nice, y'know?",
+			"coref_text": "[I:Monica Geller] just thought [he:Man 1] was nice, y'know?",
+			"srls": [
+				"[ARG0: I] [ARGM-ADV: just] [V: thought] [ARG1: he was nice , y'know] ?",
+				"I just thought [ARG1: he] [V: was] [ARG2: nice] , y'know ?"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "I can't believe you didn't know it was a line!",
+			"coref_text": "[I:Joey Tribbiani] can't believe [you:Monica Geller] didn't know it was a line!",
+			"srls": [
+				"[ARG0: I] [ARGM-MOD: ca] [ARGM-NEG: n't] [V: believe] [ARG1: you did n't know it was a line] !",
+				"I ca n't believe you [V: did] n't know it was a line !",
+				"I ca n't believe [ARG0: you] did [ARGM-NEG: n't] [V: know] [ARG1: it was a line] !",
+				"I ca n't believe you did n't know [ARG1: it] [V: was] [ARG2: a line] !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Guess what?",
+			"coref_text": "Guess what?",
+			"srls": [
+				"[V: Guess] [ARG1: what] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "You got a job?",
+			"coref_text": "[You:Rachel Green] got a job?",
+			"srls": [
+				"[ARG0: You] [V: got] [ARG1: a job] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Are you kidding?",
+			"coref_text": "Are [you:Ross Geller] kidding?",
+			"srls": [
+				"[V: Are] you kidding ?",
+				"Are [ARG0: you] [V: kidding] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I'm trained for nothing!",
+			"coref_text": "[I:Rachel Green]'m trained for nothing!",
+			"srls": [
+				"I [V: 'm] trained for nothing !",
+				"[ARG2: I] 'm [V: trained] [ARG2: for nothing] !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I was laughed out of twelve interviews today.",
+			"coref_text": "[I:Rachel Green] was laughed out of twelve interviews today.",
+			"srls": [
+				"I [V: was] laughed out of twelve interviews today .",
+				"[ARG1: I] was [V: laughed] [ARGM-LOC: out of twelve interviews] [ARGM-TMP: today] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "And yet you're surprisingly upbeat.",
+			"coref_text": "And yet [you:Rachel Green]'re surprisingly upbeat.",
+			"srls": [
+				"[ARGM-DIS: And] [ARGM-DIS: yet] [ARG1: you] [V: 're] [ARG2: surprisingly upbeat] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "You would be too if you found John and David boots on sale, fifty percent off!",
+			"coref_text": "[You:Chandler Bing] would be too if [you:Chandler Bing] found John and David boots on sale, fifty percent off!",
+			"srls": [
+				"You [V: would] be too if you found John and David boots on sale , fifty percent off !",
+				"[ARG1: You] [ARGM-MOD: would] [V: be] [ARGM-ADV: too if you found John and David boots on sale , fifty percent off] !",
+				"You would be too if [ARG0: you] [V: found] [ARG1: John and David boots on sale , fifty percent off] !"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Oh, how well you know me...",
+			"coref_text": "Oh, how well [you:Rachel Green] know [me:Chandler Bing]...",
+			"srls": [
+				"Oh , [ARGM-MNR: how well] [ARG0: you] [V: know] [ARG1: me] ..."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "They're my new' I don't need a job, I don't need my parents, I've got great boots' boots!",
+			"coref_text": "They're [my:Rachel Green] new' [I:Rachel Green] don't need a job, [I:Rachel Green] don't need [my:Rachel Green] parents, [I:Rachel Green]'ve got great boots' boots!",
+			"srls": [
+				"[ARG1: They] [V: 're] [ARG2: my new ' I do n't need a job , I do n't need my parents , I] 've got great boots ' boots !",
+				"They 're my new ' I [V: do] n't need a job , I do n't need my parents , I 've got great boots ' boots !",
+				"They 're my new ' [ARG0: I] do [ARGM-NEG: n't] [V: need] [ARG1: a job] , I do n't need my parents , I 've got great boots ' boots !",
+				"They 're my new ' I do n't need a job , I [V: do] n't need my parents , I 've got great boots ' boots !",
+				"They 're my new ' I do n't need a job , [ARG0: I] do [ARGM-NEG: n't] [V: need] [ARG1: my parents] , I 've got great boots ' boots !",
+				"They 're my new ' I do n't need a job , I do n't need my parents , I [V: 've] got great boots ' boots !",
+				"They 're my new ' I do n't need a job , I do n't need my parents , [ARG0: I] 've [V: got] [ARG1: great boots ' boots] !"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "How'd you pay for them?",
+			"coref_text": "How'd [you:Rachel Green] pay for them?",
+			"srls": [
+				"How [V: 'd] you pay for them ?",
+				"[ARGM-MNR: How] [ARGM-MOD: 'd] [ARG0: you] [V: pay] [ARG3: for them] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Uh, credit card.",
+			"coref_text": "Uh, credit card.",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "And who pays for that?",
+			"coref_text": "And who pays for that?",
+			"srls": [
+				"And [ARG0: who] [V: pays] [ARG3: for that] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Um...",
+			"coref_text": "Um...",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "my...",
+			"coref_text": "my...",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "father.",
+			"coref_text": "[father:Leonard Green].",
+			"srls": []
+		}
+	]
+}

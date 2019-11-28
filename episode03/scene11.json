@@ -1,0 +1,190 @@
+{
+	"scene_id": "friends-s01e03-11",
+	"sentences": [
+		{
+			"speaker": "Rachel_Green",
+			"text": "Remember when we went to Central Park and rented boats?..",
+			"coref_text": "Remember when we went to Central Park and rented boats?..",
+			"srls": [
+				"[V: Remember] [ARG1: when we went to Central Park and rented boats] ? ..",
+				"Remember [ARGM-TMP: when] [ARG0: we] [V: went] [ARG4: to Central Park] and rented boats ? ..",
+				"Remember [ARGM-TMP: when] [ARG0: we] went to Central Park and [V: rented] [ARG1: boats] ? .."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "That was fun.",
+			"coref_text": "That was fun.",
+			"srls": [
+				"[ARG1: That] [V: was] [ARG2: fun] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Yeah.",
+			"coref_text": "Yeah.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "He could row like a viking.",
+			"coref_text": "[He:Alan] could row like a viking.",
+			"srls": [
+				"He [V: could] row like a viking .",
+				"[ARG0: He] [ARGM-MOD: could] [V: row] [ARGM-MNR: like a viking] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Hi.",
+			"coref_text": "Hi.",
+			"srls": []
+		},
+		{
+			"speaker": "All",
+			"text": "Mmm.",
+			"coref_text": "Mmm.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "So how'd it go?",
+			"coref_text": "So how'd it go?",
+			"srls": [
+				"So how [V: 'd] it go ?",
+				"So [ARGM-MNR: how] 'd [ARG1: it] [V: go] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Oh, y'know..",
+			"coref_text": "Oh, y'know..",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Did he mention us?",
+			"coref_text": "Did [he:Alan] mention us?",
+			"srls": [
+				"[V: Did] he mention us ?",
+				"Did [ARG0: he] [V: mention] [ARG1: us] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "He said he's really gonna miss you guys.",
+			"coref_text": "[He:Alan] said [he:Alan]'s really gonna miss you guys.",
+			"srls": [
+				"[ARG0: He] [V: said] [ARG1: he 's really gon na miss you guys] .",
+				"He said he [V: 's] really gon na miss you guys .",
+				"He said he 's really [V: gon] na miss you guys .",
+				"He said [ARG0: he] 's really gon na [V: miss] [ARG1: you guys] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "You had a rough day, huh..",
+			"coref_text": "[You:Monica Geller] had a rough day, huh..",
+			"srls": [
+				"[ARG0: You] [V: had] [ARG1: a rough day] , [ARGM-DIS: huh] .."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "c'mere.",
+			"coref_text": "c'mere.",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "...",
+			"coref_text": "...",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "That's it.",
+			"coref_text": "That's it.",
+			"srls": [
+				"[ARG1: That] [V: 's] [ARG2: it] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "I'm getting cigarettes.",
+			"coref_text": "[I:Chandler Bing]'m getting cigarettes.",
+			"srls": [
+				"I [V: 'm] getting cigarettes .",
+				"[ARG0: I] 'm [V: getting] [ARG1: cigarettes] ."
+			]
+		},
+		{
+			"speaker": "All",
+			"text": "No no no!",
+			"coref_text": "No no no!",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "I don't care, I don't care!",
+			"coref_text": "[I:Chandler Bing] don't care, [I:Chandler Bing] don't care!",
+			"srls": [
+				"I [V: do] n't care , I do n't care !",
+				"[ARG0: I] do [ARGM-NEG: n't] [V: care] , I do n't care !",
+				"I do n't care , I [V: do] n't care !",
+				"I do n't care , [ARG0: I] do [ARGM-NEG: n't] [V: care] !"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Game's over!",
+			"coref_text": "Game's over!",
+			"srls": [
+				"[ARG1: Game] [V: 's] [ARG2: over] !"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "I'm weak!",
+			"coref_text": "[I:Chandler Bing]'m weak!",
+			"srls": [
+				"[ARG1: I] [V: 'm] [ARG2: weak] !"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "I've gotta smoke!",
+			"coref_text": "[I:Chandler Bing]'ve gotta smoke!",
+			"srls": [
+				"I [V: 've] got ta smoke !",
+				"[ARG0: I] 've [V: got] [ARG1: ta smoke] !",
+				"[ARG0: I] 've got ta [V: smoke] !"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "I've gotta have the smoke!",
+			"coref_text": "[I:Chandler Bing]'ve gotta have the smoke!",
+			"srls": [
+				"I [V: 've] got ta have the smoke !",
+				"[ARG0: I] 've [V: got] [ARG1: ta have the smoke] !",
+				"[ARG0: I] 've got ta [V: have] [ARG1: the smoke] !"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "If you never smoke again I'll give you seven thousand dollars!",
+			"coref_text": "If [you:Chandler Bing] never smoke again [I:Phoebe Buffay]'ll give [you:Chandler Bing] seven thousand dollars!",
+			"srls": [
+				"If [ARG0: you] [ARGM-NEG: never] [V: smoke] [ARGM-TMP: again] I 'll give you seven thousand dollars !",
+				"[ARGM-ADV: If you never smoke again] [ARG0: I] [ARGM-MOD: 'll] [V: give] [ARG2: you] [ARG1: seven thousand dollars] !"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Yeah, alright.",
+			"coref_text": "Yeah, alright.",
+			"srls": []
+		}
+	]
+}

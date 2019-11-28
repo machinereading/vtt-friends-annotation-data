@@ -1,0 +1,169 @@
+{
+	"scene_id": "friends-s01e04-01",
+	"sentences": [
+		{
+			"speaker": "Chandler_Bing",
+			"text": "...",
+			"coref_text": "...",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Poulet passes it up to Leetch!",
+			"coref_text": "Poulet passes it up to Leetch!",
+			"srls": [
+				"[ARG0: Poulet] [V: passes] [ARG1: it] up [ARG2: to Leetch] !"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Leetch spots Messier in the crease- there's the pass!",
+			"coref_text": "Leetch spots [Messier:Messier] in the crease- there's the pass!",
+			"srls": [
+				"[ARG0: Leetch] [V: spots] [ARG1: Messier] [ARGM-LOC: in the crease-] [C-ARG1: there 's the pass] !",
+				"Leetch spots Messier [ARGM-LOC: in the crease-] there [V: 's] [ARG1: the pass] !"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "We'll take a brief time out while Messier stops to look at some women's shoes.",
+			"coref_text": "We'll take a brief time out while Messier stops to look at some women's shoes.",
+			"srls": [
+				"[ARG0: We] [ARGM-MOD: 'll] [V: take] [ARG1: a brief time] out [ARGM-ADV: while Messier stops to look at some women 's shoes] .",
+				"We 'll take a brief time out while [ARG1: Messier] [V: stops] [ARGM-PRP: to look at some women 's shoes] .",
+				"We 'll take a brief time out while [ARG0: Messier] stops to [V: look] [ARG1: at some women 's shoes] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Carol was wearing boots just like those the night that we- we first- y'know.",
+			"coref_text": "[Carol:Carol Willick] was wearing boots just like those the night that we- we first- y'know.",
+			"srls": [
+				"Carol [V: was] wearing boots just like those the night that we- we first- y'know .",
+				"[ARG0: Carol] was [V: wearing] [ARG1: boots] [ARGM-MNR: just like those the night that we- we first- y'know] .",
+				"Carol was wearing boots just like those the night that we- [ARG0: we] [V: first-] y'know ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Fact, she, uh- she never took'em off,'cause we- we- Sorry.",
+			"coref_text": "Fact, [she:Carol Willick], uh- [she:Carol Willick] never took'em off,'cause we- we- Sorry.",
+			"srls": [
+				"Fact , she , [ARGM-DIS: uh-] [ARG0: she] [ARGM-NEG: never] [V: took'em] off,'cause we- we- Sorry ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Sorry.",
+			"coref_text": "Sorry.",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "What?",
+			"coref_text": "What?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Peach pit.",
+			"coref_text": "Peach pit.",
+			"srls": [
+				"[V: Peach] [ARG1: pit] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Yes, Bunny?",
+			"coref_text": "Yes, [Bunny:Ross Geller]?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Peach pit.",
+			"coref_text": "Peach pit.",
+			"srls": [
+				"[V: Peach] [ARG1: pit] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "That night we, uh- we had-",
+			"coref_text": "That night we, uh- we had-",
+			"srls": [
+				"[ARGM-TMP: That night] we , [ARGM-DIS: uh-] [ARG0: we] [V: had-]"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "- Peaches?",
+			"coref_text": "- Peaches?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Actually, nectarines, but basically...",
+			"coref_text": "Actually, nectarines, but basically...",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Could've been a peach.",
+			"coref_text": "Could've been a peach.",
+			"srls": [
+				"Could [V: 've] been a peach .",
+				"[ARGM-MOD: Could] 've [V: been] [ARG2: a peach] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Then, uh, then we got dressed, and I- I...",
+			"coref_text": "Then, uh, then we got dressed, and [I:Ross Geller]- [I:Ross Geller]...",
+			"srls": [
+				"[ARGM-TMP: Then] , [ARGM-DIS: uh] , [ARGM-TMP: then] [ARG1: we] [V: got] [ARG2: dressed] , and I- I ...",
+				"Then , uh , [ARGM-TMP: then] [ARG1: we] got [V: dressed] , and I- I ..."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "I walked her to the-- the bus stop...",
+			"coref_text": "[I:Ross Geller] walked [her:Carol Willick] to the-- the bus stop...",
+			"srls": [
+				"[ARG0: I] [V: walked] [ARG1: her] [ARGM-GOL: to the-- the bus stop] ..."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "I'm fine.",
+			"coref_text": "[I:Ross Geller]'m fine.",
+			"srls": [
+				"[ARG1: I] [V: 'm] [ARG2: fine] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Hey, that woman's got an ass like Carol's!",
+			"coref_text": "Hey, that [woman:Woman 1]'s got an ass like [Carol:Carol Willick]'s!",
+			"srls": [
+				"Hey , that woman [V: 's] got an ass like Carol 's !",
+				"[ARGM-DIS: Hey] , [ARG0: that woman] 's [V: got] [ARG1: an ass like Carol 's] !"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "What?",
+			"coref_text": "What?",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Thought we were trying to find stuff.",
+			"coref_text": "Thought we were trying to find stuff.",
+			"srls": [
+				"Thought we [V: were] trying to find stuff .",
+				"Thought [ARG0: we] were [V: trying] [ARG1: to find stuff] .",
+				"Thought [ARG0: we] were trying to [V: find] [ARG1: stuff] ."
+			]
+		}
+	]
+}

@@ -1,0 +1,281 @@
+{
+	"scene_id": "friends-s01e04-03",
+	"sentences": [
+		{
+			"speaker": "Monica_Geller",
+			"text": "Hey, Rach.",
+			"coref_text": "Hey, [Rach:Rachel Green].",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "How was it with your friends?",
+			"coref_text": "How was it with [your:Rachel Green] friends?",
+			"srls": [
+				"[ARG2: How] [V: was] [ARG1: it] [ARG2: with your friends] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Okay!",
+			"coref_text": "Okay!",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "How would you like some Tiki Death Punch?",
+			"coref_text": "How would [you:Rachel Green] like some Tiki Death Punch?",
+			"srls": [
+				"How [V: would] you like some Tiki Death Punch ?",
+				"[ARGM-MNR: How] [ARGM-MOD: would] [ARG0: you] [V: like] [ARG1: some Tiki Death Punch] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "What's that?",
+			"coref_text": "What's that?",
+			"srls": [
+				"[ARG2: What] [V: 's] [ARG1: that] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Weeeell, it's rum, and-",
+			"coref_text": "Weeeell, it's rum, and-",
+			"srls": [
+				"[ARGM-DIS: Weeeell] , [ARG1: it] [V: 's] [ARG2: rum] , and-"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Okay.",
+			"coref_text": "Okay.",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "We thought since Phoebe was staying over tonight we'd have kinda like a slumber party thing.",
+			"coref_text": "We thought since [Phoebe:Phoebe Buffay] was staying over tonight we'd have kinda like a slumber party thing.",
+			"srls": [
+				"[ARG0: We] [V: thought] [ARG1: since Phoebe was staying over tonight we 'd have kinda like a slumber party thing] .",
+				"We thought since Phoebe [V: was] staying over tonight we 'd have kinda like a slumber party thing .",
+				"We thought since [ARG1: Phoebe] was [V: staying] [ARGM-TMP: over tonight] we 'd have kinda like a slumber party thing .",
+				"We thought [ARGM-CAU: since Phoebe was staying over tonight] [ARG0: we] [ARGM-MOD: 'd] [V: have] [ARGM-ADV: kinda] [ARGM-DIS: like] [ARG1: a slumber party thing] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "We got some trashy magazines, we got cookie dough, we got Twister...",
+			"coref_text": "We got some trashy magazines, we got cookie dough, we got Twister...",
+			"srls": [
+				"[ARG0: We] [V: got] [ARG1: some trashy magazines] , we got cookie dough , we got Twister ...",
+				"We got some trashy magazines , [ARG0: we] [V: got] [ARG1: cookie dough] , we got Twister ...",
+				"We got some trashy magazines , we got cookie dough , [ARG0: we] [V: got] [ARG1: Twister] ..."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Ooh!",
+			"coref_text": "Ooh!",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Ooh!",
+			"coref_text": "Ooh!",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "And I brought Operation!",
+			"coref_text": "And [I:Phoebe Buffay] brought Operation!",
+			"srls": [
+				"[ARGM-DIS: And] [ARG0: I] [V: brought] [ARG1: Operation] !"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "But, um, I lost the tweezers, so we can't operate.",
+			"coref_text": "But, um, [I:Phoebe Buffay] lost the tweezers, so we can't operate.",
+			"srls": [
+				"But , um , [ARG0: I] [V: lost] [ARG1: the tweezers] , so we ca n't operate .",
+				"But , um , I lost the tweezers , so [ARG0: we] [ARGM-MOD: ca] [ARGM-NEG: n't] [V: operate] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "But we can prep the guy!",
+			"coref_text": "But we can prep the guy!",
+			"srls": [
+				"But we [V: can] prep the guy !",
+				"[ARGM-DIS: But] [ARG0: we] [ARGM-MOD: can] [V: prep] [ARG1: the guy] !"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Uh, Rach, it's the Visa card people.",
+			"coref_text": "Uh, [Rach:Rachel Green], it's the Visa card people.",
+			"srls": [
+				"[ARGM-DIS: Uh] , [ARGM-DIS: Rach] , [ARG1: it] [V: 's] [ARG2: the Visa card people] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Oh, God, ask them what they want.",
+			"coref_text": "Oh, God, ask them what they want.",
+			"srls": [
+				"[ARGM-DIS: Oh] , [ARGM-DIS: God] , [V: ask] [ARG2: them] [ARG1: what they want] .",
+				"Oh , God , ask them [ARG1: what] [ARG0: they] [V: want] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Could you please tell me what this is in reference to?",
+			"coref_text": "Could [you:Person 1] please tell [me:Monica Geller] what this is in reference to?",
+			"srls": [
+				"[V: Could] you please tell me what this is in reference to ?",
+				"[ARGM-MOD: Could] [ARG0: you] [ARGM-DIS: please] [V: tell] [ARG2: me] [ARG1: what this is in reference to] ?",
+				"Could you please tell me what [ARG1: this] [V: is] [ARG2: in reference to] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Yes, hold on.",
+			"coref_text": "Yes, hold on.",
+			"srls": [
+				"[ARGM-DIS: Yes] , [V: hold] on ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Um, they say there's been some unusual activity on your account.",
+			"coref_text": "Um, they say there's been some unusual activity on [your:Rachel Green] account.",
+			"srls": [
+				"[ARGM-DIS: Um] , [ARG0: they] [V: say] [ARG1: there 's been some unusual activity on your account] .",
+				"Um , they say there [V: 's] been some unusual activity on your account .",
+				"Um , they say there 's [V: been] [ARG1: some unusual activity] [ARGM-LOC: on your account] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "But I haven't used my card in weeks!",
+			"coref_text": "But [I:Rachel Green] haven't used [my:Rachel Green] card in weeks!",
+			"srls": [
+				"But I [V: have] n't used my card in weeks !",
+				"[ARGM-DIS: But] [ARG0: I] have [ARGM-NEG: n't] [V: used] [ARG1: my card] [ARGM-TMP: in weeks] !"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "That is the unusual activity.",
+			"coref_text": "That is the unusual activity.",
+			"srls": [
+				"[ARG1: That] [V: is] [ARG2: the unusual activity] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Look, they just wanna see if you're okay.",
+			"coref_text": "Look, they just wanna see if [you:Rachel Green]'re okay.",
+			"srls": [
+				"[V: Look] , they just wanna see if you 're okay .",
+				"[ARGM-DIS: Look] , [ARG0: they] [ARGM-ADV: just] [V: wanna] [ARG1: see if you 're okay] .",
+				"[ARGM-DIS: Look] , [ARG0: they] [ARGM-ADV: just wanna] [V: see] [ARG1: if you 're okay] .",
+				"Look , they just wanna see if [ARG1: you] [V: 're] [ARG2: okay] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "They wanna know if I'm okay.",
+			"coref_text": "They wanna know if [I:Rachel Green]'m okay.",
+			"srls": [
+				"[ARG0: They] [V: wanna] [ARG1: know if I 'm okay] .",
+				"[ARG0: They] [ARGM-MOD: wanna] [V: know] [ARG1: if I 'm okay] .",
+				"They wanna know if [ARG1: I] [V: 'm] [ARG2: okay] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Okay..",
+			"coref_text": "Okay..",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "they wanna know if I'm okay, okay, let's see.",
+			"coref_text": "they wanna know if [I:Rachel Green]'m okay, okay, let's see.",
+			"srls": [
+				"they [V: wanna] [ARG1: know if I 'm okay , okay , let 's see] .",
+				"[ARG0: they] [ARGM-MOD: wanna] [V: know] [ARG1: if I 'm okay , okay , let 's see] .",
+				"they wanna know if [ARG1: I] [V: 'm] [ARG2: okay] , okay , let 's see .",
+				"they wanna know if I 'm okay , [ARGM-DIS: okay] , [V: let] [ARG1: 's see] .",
+				"they wanna know if I 'm okay , okay , let [ARG0: 's] [V: see] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Well, let's see, the FICA guys took all my money, everyone I know is either getting married, or getting promoted, or getting pregnant, and I'm getting coffee!",
+			"coref_text": "Well, let's see, the FICA guys took all [my:Rachel Green] money, everyone [I:Rachel Green] know is either getting married, or getting promoted, or getting pregnant, and [I:Rachel Green]'m getting coffee!",
+			"srls": [
+				"Well , [V: let] [ARG1: 's see ,] the FICA guys took all my money , everyone I know is either getting married , or getting promoted , or getting pregnant , and I 'm getting coffee !",
+				"Well , let [ARG0: 's] [V: see] , the FICA guys took all my money , everyone I know is either getting married , or getting promoted , or getting pregnant , and I 'm getting coffee !",
+				"Well , let 's see , [ARG0: the FICA guys] [V: took] [ARG1: all my money] , everyone I know is either getting married , or getting promoted , or getting pregnant , and I 'm getting coffee !",
+				"Well , let 's see , the FICA guys took all my money , [ARG1: everyone] [ARG0: I] [V: know] is either getting married , or getting promoted , or getting pregnant , and I 'm getting coffee !",
+				"Well , let 's see , the FICA guys took all my money , everyone I know [V: is] either getting married , or getting promoted , or getting pregnant , and I 'm getting coffee !",
+				"Well , let 's see , the FICA guys took all my money , [ARG1: everyone I know] is either [V: getting] [ARG2: married] , or getting promoted , or getting pregnant , and I 'm getting coffee !",
+				"Well , let 's see , the FICA guys took all my money , [ARG1: everyone I know] is either getting [V: married] , or getting promoted , or getting pregnant , and I 'm getting coffee !",
+				"Well , let 's see , the FICA guys took all my money , [ARG1: everyone I know] is either getting married , or [V: getting] [ARG2: promoted] , or getting pregnant , and I 'm getting coffee !",
+				"Well , let 's see , the FICA guys took all my money , [ARG1: everyone I know] is either getting married , or getting [V: promoted] , or getting pregnant , and I 'm getting coffee !",
+				"Well , let 's see , the FICA guys took all my money , [ARG1: everyone I know] is either getting married , or getting promoted , or [V: getting] [ARG2: pregnant] , and I 'm getting coffee !",
+				"Well , let 's see , the FICA guys took all my money , everyone I know is either getting married , or getting promoted , or getting pregnant , and I [V: 'm] getting coffee !",
+				"Well , let 's see , the FICA guys took all my money , everyone I know is either getting married , or getting promoted , or getting pregnant , and [ARG0: I] 'm [V: getting] [ARG1: coffee] !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "And it's not even for me!",
+			"coref_text": "And it's not even for [me:Rachel Green]!",
+			"srls": [
+				"[ARGM-DIS: And] [ARG1: it] [V: 's] [ARGM-NEG: not] [ARGM-ADV: even] [ARG2: for me] !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "So if that sounds like I'm okay, okay, then you can tell them I'm okay, okay?",
+			"coref_text": "So if that sounds like [I:Rachel Green]'m okay, okay, then [you:Monica Geller] can tell them [I:Rachel Green]'m okay, okay?",
+			"srls": [
+				"So if [ARG1: that] [V: sounds] [ARG2: like I 'm okay] , okay , then you can tell them I 'm okay , okay ?",
+				"So if that sounds like [ARG1: I] [V: 'm] [ARG2: okay] , okay , then you can tell them I 'm okay , okay ?",
+				"So if that sounds like I 'm okay , okay , then you [V: can] tell them I 'm okay , okay ?",
+				"[ARGM-DIS: So] [ARGM-ADV: if that sounds like I 'm okay] , [ARGM-DIS: okay] , [ARGM-TMP: then] [ARG0: you] [ARGM-MOD: can] [V: tell] [ARG2: them] [ARG1: I 'm okay] , [ARGM-DIS: okay] ?",
+				"So if that sounds like I 'm okay , okay , then you can tell them [ARG1: I] [V: 'm] [ARG2: okay] , okay ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Uh- Rachel has left the building, can you call back?",
+			"coref_text": "Uh- Rachel has left the building, can [you:Person 1] call back?",
+			"srls": [
+				"Uh- Rachel [V: has] left the building , can you call back ?",
+				"[ARG0: Uh- Rachel] has [V: left] [ARG1: the building] , can you call back ?",
+				"Uh- Rachel has left the building , [V: can] you call back ?",
+				"Uh- Rachel has left the building , [ARGM-MOD: can] [ARG0: you] [V: call] [ARGM-DIR: back] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Alright, c'mon!",
+			"coref_text": "Alright, c'mon!",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Let's play Twister!",
+			"coref_text": "Let's play Twister!",
+			"srls": [
+				"[V: Let] [ARG1: 's play Twister] !",
+				"Let [ARG0: 's] [V: play] [ARG1: Twister] !"
+			]
+		}
+	]
+}

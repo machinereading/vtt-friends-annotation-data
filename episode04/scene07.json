@@ -1,0 +1,280 @@
+{
+	"scene_id": "friends-s01e04-07",
+	"sentences": [
+		{
+			"speaker": "Monica_Geller",
+			"text": "Okay.",
+			"coref_text": "Okay.",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Okay, I got one.",
+			"coref_text": "Okay, [I:Monica Geller] got one.",
+			"srls": [
+				"[ARGM-DIS: Okay] , [ARG0: I] [V: got] [ARG1: one] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Do you remember that vegetarian pate that I made that you loved so much?",
+			"coref_text": "Do [you:Phoebe Buffay] remember that vegetarian pate that [I:Monica Geller] made that [you:Phoebe Buffay] loved so much?",
+			"srls": [
+				"[V: Do] you remember that vegetarian pate that I made that you loved so much ?",
+				"Do [ARG0: you] [V: remember] [ARG1: that vegetarian pate that I made that you loved so much] ?",
+				"Do you remember [ARG1: that vegetarian pate] that [ARG0: I] [V: made] [C-ARG1: that you loved] so much ?",
+				"Do you remember [ARG1: that vegetarian pate] that I made [R-ARG1: that] [ARG0: you] [V: loved] [ARGM-ADV: so much] ?"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Uh-huh.",
+			"coref_text": "Uh-huh.",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Well, unless goose is a vegetable...",
+			"coref_text": "Well, unless goose is a vegetable...",
+			"srls": [
+				"Well , unless [ARG1: goose] [V: is] [ARG2: a vegetable] ..."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "ha haaaah!",
+			"coref_text": "ha haaaah!",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Oh!",
+			"coref_text": "Oh!",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Oh!",
+			"coref_text": "Oh!",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Oh!",
+			"coref_text": "Oh!",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Okay, fine, fine.",
+			"coref_text": "Okay, fine, fine.",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Now I don't feel so bad about sleeping with Jason Hurley.",
+			"coref_text": "Now [I:Phoebe Buffay] don't feel so bad about sleeping with [Jason Hurley:Jason Hurley].",
+			"srls": [
+				"Now I [V: do] n't feel so bad about sleeping with Jason Hurley .",
+				"[ARGM-TMP: Now] [ARG0: I] do [ARGM-NEG: n't] [V: feel] [ARG1: so bad about sleeping with Jason Hurley] .",
+				"Now I do n't feel so bad about [V: sleeping] [ARG1: with Jason Hurley] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "What?!",
+			"coref_text": "What?!",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "You slept with Jason?",
+			"coref_text": "[You:Phoebe Buffay] slept with [Jason:Jason Hurley]?",
+			"srls": [
+				"[ARG0: You] [V: slept] [ARG1: with Jason] ?"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "You'd already broken up.",
+			"coref_text": "[You:Monica Geller]'d already broken up.",
+			"srls": [
+				"[ARG1: You] [ARGM-MOD: 'd] [ARGM-TMP: already] [V: broken] up ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "How long?",
+			"coref_text": "How long?",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "A couple hours.",
+			"coref_text": "A couple hours.",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Oh, that's nice!",
+			"coref_text": "Oh, that's nice!",
+			"srls": [
+				"[ARGM-DIS: Oh] , [ARG1: that] [V: 's] [ARG2: nice] !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Okay, okay, okay, I got one!",
+			"coref_text": "Okay, okay, okay, [I:Rachel Green] got one!",
+			"srls": [
+				"[ARGM-DIS: Okay] , [ARGM-DIS: okay] , [ARGM-DIS: okay] , [ARG0: I] [V: got] [ARG1: one] !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Anyway- The valentine Tommy Rollerson left in your locker was really from me.",
+			"coref_text": "Anyway- The valentine [Tommy Rollerson:Tommy Rollerson] left in [your:Monica Geller] locker was really from [me:Rachel Green].",
+			"srls": [
+				"Anyway- [ARG1: The valentine] [ARG0: Tommy Rollerson] [V: left] [ARGM-LOC: in your locker] was really from me .",
+				"[ARGM-DIS: Anyway-] [ARG1: The valentine Tommy Rollerson left in your locker] [V: was] [ARGM-ADV: really] [ARG2: from me] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Excuse me?!",
+			"coref_text": "Excuse [me:Monica Geller]?!",
+			"srls": [
+				"[V: Excuse] [ARG1: me] ? !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Hello?",
+			"coref_text": "Hello?",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Like he was really gonna send you one?",
+			"coref_text": "Like [he:Tommy Rollerson] was really gonna send [you:Monica Geller] one?",
+			"srls": [
+				"Like he [V: was] really gon na send you one ?",
+				"Like he was really [V: gon] na send you one ?",
+				"Like [ARG0: he] was really gon na [V: send] [ARG2: you] [ARG1: one] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "She was a big girl.",
+			"coref_text": "[She:Monica Geller] was a big [girl:Monica Geller].",
+			"srls": [
+				"[ARG1: She] [V: was] [ARG2: a big girl] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Really.",
+			"coref_text": "Really.",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Well, at least 'big girls' don't pee in their pants in seventh grade!",
+			"coref_text": "Well, at least 'big girls' don't pee in their pants in seventh grade!",
+			"srls": [
+				"Well , at least ' big girls ' [V: do] n't pee in their pants in seventh grade !",
+				"[ARGM-DIS: Well] , [ARG0: at least ' big girls '] do [ARGM-NEG: n't] [V: pee] [ARGM-LOC: in their pants] [ARGM-TMP: in seventh grade] !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I was laughing!",
+			"coref_text": "[I:Rachel Green] was laughing!",
+			"srls": [
+				"I [V: was] laughing !",
+				"[ARG0: I] was [V: laughing] !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "You made me laugh!",
+			"coref_text": "[You:Monica Geller] made [me:Rachel Green] laugh!",
+			"srls": [
+				"[ARG0: You] [V: made] [ARG1: me laugh] !",
+				"You made [ARG0: me] [V: laugh] !"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "There he is!",
+			"coref_text": "There [he:George] is!",
+			"srls": [
+				"[ARG2: There] [ARG1: he] [V: is] !"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "There he is!",
+			"coref_text": "There [he:George] is!",
+			"srls": [
+				"[ARG2: There] [ARG1: he] [V: is] !"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Where?",
+			"coref_text": "Where?",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Right- where we've been looking all night!",
+			"coref_text": "Right- where we've been looking all night!",
+			"srls": [
+				"Right- where we [V: 've] been looking all night !",
+				"Right- where we 've [V: been] looking all night !",
+				"Right- [ARGM-LOC: where] [ARG0: we] 've been [V: looking] [ARGM-TMP: all night] !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "He is so cute!",
+			"coref_text": "[He:George] is so cute!",
+			"srls": [
+				"[ARG1: He] [V: is] [ARG2: so cute] !"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Oh, George, baby, drop the towel!",
+			"coref_text": "Oh, [George:George], [baby:George], drop the towel!",
+			"srls": [
+				"[ARGM-DIS: Oh] , [ARGM-DIS: George] , [ARGM-DIS: baby] , [V: drop] [ARG1: the towel] !"
+			]
+		},
+		{
+			"speaker": "All",
+			"text": "Yeah, drop it!",
+			"coref_text": "Yeah, drop it!",
+			"srls": [
+				"[ARGM-DIS: Yeah] , [V: drop] [ARG1: it] !"
+			]
+		},
+		{
+			"speaker": "All",
+			"text": "Drop the towel!",
+			"coref_text": "Drop the towel!",
+			"srls": [
+				"[V: Drop] [ARG1: the towel] !"
+			]
+		},
+		{
+			"speaker": "All",
+			"text": "Please drop the wowww.",
+			"coref_text": "Please drop the wowww.",
+			"srls": [
+				"[ARGM-DIS: Please] [V: drop] [ARG1: the wowww] ."
+			]
+		}
+	]
+}

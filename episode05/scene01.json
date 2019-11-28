@@ -1,0 +1,190 @@
+{
+	"scene_id": "friends-s01e05-01",
+	"sentences": [
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Monica, I'm tellin' you, this guy is perfect for you.",
+			"coref_text": "[Monica:Monica Geller], [I:Joey Tribbiani]'m tellin' [you:Monica Geller], this [guy:Bob] is perfect for [you:Monica Geller].",
+			"srls": [
+				"Monica , I [V: 'm] tellin ' you , this guy is perfect for you .",
+				"Monica , I 'm tellin ' you , [ARG1: this guy] [V: is] [ARG2: perfect for you] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Forget it.",
+			"coref_text": "Forget it.",
+			"srls": [
+				"[V: Forget] [ARG1: it] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Not after your cousin who could belch the alphabet.",
+			"coref_text": "Not after [your:Joey Tribbiani] [cousin:Joey's cousin] who could belch the alphabet.",
+			"srls": [
+				"Not after your cousin who [V: could] belch the alphabet .",
+				"Not after [ARG0: your cousin] [R-ARG0: who] [ARGM-MOD: could] [V: belch] [ARG1: the alphabet] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Come on.",
+			"coref_text": "Come on.",
+			"srls": [
+				"[V: Come] on ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "This guy's great.",
+			"coref_text": "This [guy:Bob]'s great.",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "His name's Bob.",
+			"coref_text": "[His:Bob] name's [Bob:Bob].",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "He's Angela's...",
+			"coref_text": "[He:Bob]'s [Angela:Angela Delvecchio]'s...",
+			"srls": [
+				"[ARG1: He] [V: 's] [ARG2: Angela 's] ..."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "brother.",
+			"coref_text": "[brother:Bob].",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "He's smart, he's sophisticated, and he has a real job.",
+			"coref_text": "[He:Bob]'s smart, [he:Bob]'s sophisticated, and [he:Bob] has a real job.",
+			"srls": [
+				"[ARG1: He] [V: 's] [ARG2: smart] , he 's sophisticated , and he has a real job .",
+				"He 's smart , [ARG1: he] [V: 's] [ARG2: sophisticated] , and he has a real job .",
+				"He 's smart , he 's sophisticated , and [ARG0: he] [V: has] [ARG1: a real job] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Me, I go on three auditions a month and call myself an actor, but Bob is...",
+			"coref_text": "[Me:Joey Tribbiani], [I:Joey Tribbiani] go on three auditions a month and call [myself:Joey Tribbiani] an [actor:Joey Tribbiani], but [Bob:Bob] is...",
+			"srls": [
+				"[ARGM-DIS: Me] , [ARG0: I] [V: go] on [ARG1: three auditions] [ARGM-TMP: a month] and call myself an actor , but Bob is ...",
+				"[ARGM-DIS: Me] , [ARG0: I] go on three auditions a month and [V: call] [ARG1: myself] [ARG2: an actor] , but Bob is ...",
+				"Me , I go on three auditions a month and call myself an actor , but [ARG1: Bob] [V: is] ..."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Oh, god help us.",
+			"coref_text": "Oh, god help us.",
+			"srls": [
+				"[ARGM-DIS: Oh] , [ARGM-DIS: god] [V: help] [ARG1: us] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "What?",
+			"coref_text": "What?",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Ugly Naked Guy's laying kitchen tile.",
+			"coref_text": "[Ugly Naked Guy's:Ugly Naked Guy] laying kitchen tile.",
+			"srls": [
+				"[ARG0: Ugly Naked Guy 's] [V: laying] [ARG1: kitchen tile] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Eww!",
+			"coref_text": "Eww!",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Eww!",
+			"coref_text": "Eww!",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Look, I'm asking a favor here.",
+			"coref_text": "Look, [I:Joey Tribbiani]'m asking a favor here.",
+			"srls": [
+				"[V: Look] , I 'm asking a favor here .",
+				"Look , I [V: 'm] asking a favor here .",
+				"[ARGM-DIS: Look] , [ARG0: I] 'm [V: asking] [ARG1: a favor] [ARGM-LOC: here] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "If I do this for her brother, maybe Angela will come back to me.",
+			"coref_text": "If [I:Joey Tribbiani] do this for [her:Angela Delvecchio] [brother:Bob], maybe [Angela:Angela Delvecchio] will come back to [me:Joey Tribbiani].",
+			"srls": [
+				"If [ARG0: I] [V: do] [ARG1: this] [ARG2: for her brother] , maybe Angela will come back to me .",
+				"If I do this for her brother , maybe Angela [V: will] come back to me .",
+				"[ARGM-ADV: If I do this for her brother] , [ARGM-ADV: maybe] [ARG1: Angela] [ARGM-MOD: will] [V: come] [ARG4: back to me] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "What's going on here?",
+			"coref_text": "What's going on here?",
+			"srls": [
+				"What [V: 's] going on here ?",
+				"[ARG1: What] 's [V: going] on [ARGM-LOC: here] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "You go out with tons of girls.",
+			"coref_text": "[You:Joey Tribbiani] go out with tons of girls.",
+			"srls": [
+				"[ARG0: You] [V: go] out [ARGM-MNR: with tons of girls] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "I know, but, I made a huge mistake.",
+			"coref_text": "[I:Joey Tribbiani] know, but, [I:Joey Tribbiani] made a huge mistake.",
+			"srls": [
+				"[ARG0: I] [V: know] , but , I made a huge mistake .",
+				"I know , but , [ARG0: I] [V: made] [ARG1: a huge mistake] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "I never should have broken up with her.",
+			"coref_text": "[I:Joey Tribbiani] never should have broken up with [her:Angela Delvecchio].",
+			"srls": [
+				"I never [V: should] have broken up with her .",
+				"I never should [V: have] broken up with her .",
+				"[ARG0: I] [ARGM-NEG: never] [ARGM-MOD: should] have [V: broken] up [ARG1: with her] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Will you help me?",
+			"coref_text": "Will [you:Monica Geller] help [me:Joey Tribbiani]?",
+			"srls": [
+				"[V: Will] you help me ?",
+				"[ARGM-MOD: Will] [ARG0: you] [V: help] [ARG1: me] ?"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Please?",
+			"coref_text": "Please?",
+			"srls": []
+		}
+	]
+}

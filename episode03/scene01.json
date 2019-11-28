@@ -1,0 +1,302 @@
+{
+	"scene_id": "friends-s01e03-01",
+	"sentences": [
+		{
+			"speaker": "Chandler_Bing",
+			"text": " \"So how does it feel knowing you're about to die?\"",
+			"coref_text": " \"So how does it feel knowing [you:Joey Tribbiani]'re about to die?\"",
+			"srls": [
+				"\" So how [V: does] it feel knowing you 're about to die ? \"",
+				"\" So [ARG1: how] does [ARG0: it] [V: feel] [ARGM-ADV: knowing you 're about to die] ? \"",
+				"\" So how does [ARG0: it] feel [V: knowing] [ARG1: you 're about to die] ? \"",
+				"\" So how does it feel knowing [ARG1: you] [V: 're] [ARG2: about to die] ? \"",
+				"\" So how does it feel knowing [ARG1: you] 're about to [V: die] ? \""
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": " \"Warden, in five minutes my pain will be over.",
+			"coref_text": " \"Warden, in five minutes [my:Joey Tribbiani] pain will be over.",
+			"srls": [
+				"\" Warden , in five minutes my pain [V: will] be over .",
+				"\" [ARGM-DIS: Warden] , [ARGM-TMP: in five minutes] [ARG1: my pain] [ARGM-MOD: will] [V: be] [ARG2: over] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "But you'll have to live with the knowledge that you sent an honest man to die. \"",
+			"coref_text": "But [you:Chandler Bing]'ll have to live with the knowledge that [you:Chandler Bing] sent an honest [man:Joey Tribbiani] to die. \"",
+			"srls": [
+				"But you 'll [V: have] to live with the knowledge that you sent an honest man to die . \"",
+				"But [ARG0: you] 'll have to [V: live] [ARGM-MNR: with the knowledge that you sent an honest man to die] . \"",
+				"But you 'll have to live with the knowledge that [ARG0: you] [V: sent] [ARG1: an honest man] [ARG2: to die] . \"",
+				"But you 'll have to live with the knowledge that you sent [ARG1: an honest man] to [V: die] . \""
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Hey, that was really good!",
+			"coref_text": "Hey, that was really good!",
+			"srls": [
+				"[ARGM-DIS: Hey] , [ARG1: that] [V: was] [ARG2: really good] !"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Thanks!",
+			"coref_text": "Thanks!",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Let's keep going.",
+			"coref_text": "Let's keep going.",
+			"srls": [
+				"[V: Let] [ARG1: 's keep going] .",
+				"Let [ARG0: 's] [V: keep] [ARG1: going] .",
+				"Let [ARG0: 's] keep [V: going] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Okay.",
+			"coref_text": "Okay.",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": " \"So.",
+			"coref_text": " \"So.",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Whaddya want from me, Damone, huh? \"",
+			"coref_text": "[Whaddya:Joey Tribbiani] want from [me:Chandler Bing], [Damone:Joey Tribbiani], huh? \"",
+			"srls": [
+				"[ARG0: Whaddya] [V: want] [ARG2: from me] , [ARGM-DIS: Damone] , [ARGM-DIS: huh] ? \""
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": " \"I just wanna go back to my cell.",
+			"coref_text": " \"[I:Joey Tribbiani] just wanna go back to [my:Joey Tribbiani] cell.",
+			"srls": [
+				"\" [ARG0: I] [ARGM-ADV: just] [V: wanna] [ARG1: go back to my cell] .",
+				"\" [ARG0: I] just wanna [V: go] [ARG4: back to my cell] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": " 'Cause in my cell, I can smoke. \"",
+			"coref_text": " 'Cause in [my:Joey Tribbiani] cell, [I:Joey Tribbiani] can smoke. \"",
+			"srls": [
+				"'Cause in my cell , I [V: can] smoke . \"",
+				"'Cause [ARGM-LOC: in my cell] , [ARG0: I] [ARGM-MOD: can] [V: smoke] . \""
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": " \"Smoke away.\"",
+			"coref_text": " \"Smoke away.\"",
+			"srls": [
+				"\" [V: Smoke] [ARGM-DIR: away] . \""
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "I think this is probably why Damone smokes in his cell alone.",
+			"coref_text": "[I:Chandler Bing] think this is probably why Damone smokes in [his:Damone] cell alone.",
+			"srls": [
+				"[ARG0: I] [V: think] [ARG1: this is probably why Damone smokes in his cell alone] .",
+				"I think [ARG1: this] [V: is] [ARGM-ADV: probably] [ARG2: why Damone smokes in his cell alone] .",
+				"I think this is probably [ARGM-CAU: why] [ARG0: Damone] [V: smokes] [ARGM-LOC: in his cell] [ARGM-PRD: alone] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "What?",
+			"coref_text": "What?",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Relax your hand!",
+			"coref_text": "Relax [your:Joey Tribbiani] hand!",
+			"srls": [
+				"[V: Relax] [ARG1: your hand] !"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Not so much!",
+			"coref_text": "Not so much!",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Whoah!",
+			"coref_text": "Whoah!",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Hey!",
+			"coref_text": "Hey!",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Hey!",
+			"coref_text": "Hey!",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Alright, now try taking a puff.",
+			"coref_text": "Alright, now try taking a puff.",
+			"srls": [
+				"[ARGM-DIS: Alright] , [ARGM-TMP: now] [V: try] [ARG1: taking a puff] .",
+				"Alright , now try [V: taking] [ARG1: a puff] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Alright..",
+			"coref_text": "Alright..",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "okay.",
+			"coref_text": "okay.",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "No.",
+			"coref_text": "No.",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Give it to me.",
+			"coref_text": "Give it to [me:Chandler Bing].",
+			"srls": [
+				"[V: Give] [ARG1: it] [ARG2: to me] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "No no no, I am not giving you a cigarette.",
+			"coref_text": "No no no, [I:Joey Tribbiani] am not giving [you:Chandler Bing] a cigarette.",
+			"srls": [
+				"No no no , I [V: am] not giving you a cigarette .",
+				"[ARGM-DIS: No] [ARGM-DIS: no] [ARGM-DIS: no] , [ARG0: I] am [ARGM-NEG: not] [V: giving] [ARG2: you] [ARG1: a cigarette] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "It's fine, it's fine.",
+			"coref_text": "It's fine, it's fine.",
+			"srls": [
+				"[ARG1: It] [V: 's] [ARG2: fine] , it 's fine .",
+				"It 's fine , [ARG1: it] [V: 's] [ARG2: fine] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Look, do you wanna get this part, or not?",
+			"coref_text": "Look, do [you:Joey Tribbiani] wanna get this part, or not?",
+			"srls": [
+				"[V: Look] , do you wanna get this part , or not ?",
+				"Look , [V: do] you wanna get this part , or not ?",
+				"[ARGM-DIS: Look] , do [ARG0: you] [ARGM-ADV: wanna] [V: get] [ARG1: this part] , or not ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Here.",
+			"coref_text": "Here.",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Don't think of it as a cigarette.",
+			"coref_text": "Don't think of it as a cigarette.",
+			"srls": [
+				"[V: Do] n't think of it as a cigarette .",
+				"Do [ARGM-NEG: n't] [V: think] [ARG1: of it] [ARG2: as a cigarette] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Think of it as the thing that's been missing from your hand.",
+			"coref_text": "Think of it as the thing that's been missing from [your:Joey Tribbiani] hand.",
+			"srls": [
+				"[V: Think] [ARG1: of it] [ARG2: as the thing that 's been missing from your hand] .",
+				"Think of it as the thing that [V: 's] been missing from your hand .",
+				"Think of it as the thing that 's [V: been] missing from your hand .",
+				"Think of it as [ARG1: the thing] [R-ARG1: that] 's been [V: missing] [ARGM-LOC: from your hand] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "When you're holding it, you feel right.",
+			"coref_text": "When [you:Joey Tribbiani]'re holding it, [you:Joey Tribbiani] feel right.",
+			"srls": [
+				"When you [V: 're] holding it , you feel right .",
+				"[ARGM-TMP: When] [ARG0: you] 're [V: holding] [ARG1: it] , you feel right .",
+				"[ARGM-TMP: When you 're holding it] , [ARG0: you] [V: feel] [ARG1: right] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "You feel complete.",
+			"coref_text": "[You:Joey Tribbiani] feel complete.",
+			"srls": [
+				"[ARG0: You] [V: feel] [ARG1: complete] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Y'miss it?",
+			"coref_text": "Y'miss it?",
+			"srls": [
+				"[V: Y'miss] [ARG1: it] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Nah, not so much.",
+			"coref_text": "Nah, not so much.",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Alright, now we smoke.",
+			"coref_text": "Alright, now we smoke.",
+			"srls": [
+				"[ARGM-DIS: Alright] , [ARGM-TMP: now] [ARG0: we] [V: smoke] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Oh..",
+			"coref_text": "Oh..",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "my..",
+			"coref_text": "[my:Chandler Bing]..",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "God.",
+			"coref_text": "God.",
+			"srls": []
+		}
+	]
+}

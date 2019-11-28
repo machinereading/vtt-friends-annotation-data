@@ -1,0 +1,102 @@
+{
+	"scene_id": "friends-s01e05-06",
+	"sentences": [
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "So, you and Angela, huh?",
+			"coref_text": "So, [you:Bob] and [Angela:Angela Delvecchio], huh?",
+			"srls": []
+		},
+		{
+			"speaker": "Bob",
+			"text": "Yep.",
+			"coref_text": "Yep.",
+			"srls": []
+		},
+		{
+			"speaker": "Bob",
+			"text": "Pretty much.",
+			"coref_text": "Pretty much.",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "You're a lucky man.",
+			"coref_text": "[You:Bob]'re a lucky [man:Bob].",
+			"srls": [
+				"[ARG1: You] [V: 're] [ARG2: a lucky man] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "You know what I miss the most about her?",
+			"coref_text": "[You:Bob] know what [I:Joey Tribbiani] miss the most about [her:Angela Delvecchio]?",
+			"srls": [
+				"[ARG0: You] [V: know] [ARG1: what I miss the most about her] ?",
+				"You know [ARG1: what] [ARG0: I] [V: miss] [ARGM-ADV: the most] [ARG2: about her] ?"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "That cute nibbly noise when she eats.",
+			"coref_text": "That cute nibbly noise when [she:Angela Delvecchio] eats.",
+			"srls": [
+				"That cute nibbly noise [ARGM-TMP: when] [ARG0: she] [V: eats] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Like a happy little squirrel, or a weasel.",
+			"coref_text": "Like a happy little squirrel, or a weasel.",
+			"srls": []
+		},
+		{
+			"speaker": "Bob",
+			"text": "Huh, I never really noticed.",
+			"coref_text": "Huh, [I:Bob] never really noticed.",
+			"srls": [
+				"Huh , [ARG0: I] [ARGM-NEG: never] [ARGM-ADV: really] [V: noticed] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Oh, yeah, yeah, listen for it.",
+			"coref_text": "Oh, yeah, yeah, listen for it.",
+			"srls": [
+				"[ARGM-DIS: Oh] , [ARGM-DIS: yeah] , [ARGM-DIS: yeah] , [V: listen] [ARG1: for it] ."
+			]
+		},
+		{
+			"speaker": "Bob",
+			"text": "Monica, Monica is great.",
+			"coref_text": "[Monica:Monica Geller], [Monica:Monica Geller] is great.",
+			"srls": [
+				"[ARG1: Monica , Monica] [V: is] [ARG2: great] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Yeah, but it's not gonna last.",
+			"coref_text": "Yeah, but it's not gonna last.",
+			"srls": [
+				"Yeah , but it [V: 's] not gon na last .",
+				"Yeah , but it 's [ARGM-NEG: not] [V: gon] na last .",
+				"Yeah , but [ARG1: it] 's not gon na [V: last] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "She's too much for me in bed.",
+			"coref_text": "[She:Monica Geller]'s too much for [me:Joey Tribbiani] in bed.",
+			"srls": [
+				"[ARG1: She] [V: 's] [ARG2: too much for me in bed] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Sexually.",
+			"coref_text": "Sexually.",
+			"srls": []
+		}
+	]
+}

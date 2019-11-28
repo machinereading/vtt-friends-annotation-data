@@ -1,0 +1,184 @@
+{
+    "scene_id": "friends-s01e01-02",
+    "sentences": [
+        {
+            "speaker": "Ross_Geller",
+            "text": "I'm supposed to attach a brackety thing to the side things, using a bunch of these little worm guys.",
+            "coref_text": "[I:Ross Geller]'m supposed to attach a brackety thing to the side things, using a bunch of these little worm guys.",
+            "srls": [
+                "I [V: 'm] supposed to attach a brackety thing to the side things , using a bunch of these little worm guys .",
+                "[ARG1: I] 'm [V: supposed] [ARG2: to attach a brackety thing to the side things , using a bunch of these little worm guys] .",
+                "[ARG0: I] 'm supposed to [V: attach] [ARG1: a brackety thing] [ARG2: to the side things] , [ARGM-ADV: using a bunch of these little worm guys] .",
+                "[ARG0: I] 'm supposed to attach a brackety thing to the side things , [V: using] [ARG1: a bunch of these little worm guys] ."
+            ]
+        },
+        {
+            "speaker": "Ross_Geller",
+            "text": "I have no brackety thing, I see no whim guys whatsoever and- I can not feel my legs.",
+            "coref_text": "[I:Ross Geller] have no brackety thing, [I:Ross Geller] see no whim guys whatsoever and- [I:Ross Geller] can not feel [my:Ross Geller] legs.",
+            "srls": [
+                "[ARG0: I] [V: have] [ARG1: no brackety thing] , I see no whim guys whatsoever and- I can not feel my legs .",
+                "I have no brackety thing , [ARG0: I] [V: see] [ARG1: no whim guys] [ARGM-ADV: whatsoever] and- I can not feel my legs .",
+                "I have no brackety thing , I see no whim guys whatsoever and- I [V: can] not feel my legs .",
+                "I have no brackety thing , I see no whim guys whatsoever and- [ARG0: I] [ARGM-MOD: can] [ARGM-NEG: not] [V: feel] [ARG1: my legs] ."
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "I'm thinking we've got a bookcase here.",
+            "coref_text": "[I:Joey Tribbiani]'m thinking we've got a bookcase here.",
+            "srls": [
+                "I [V: 'm] thinking we 've got a bookcase here .",
+                "[ARG0: I] 'm [V: thinking] [ARG1: we 've got a bookcase here] .",
+                "I 'm thinking we [V: 've] got a bookcase here .",
+                "I 'm thinking [ARG0: we] 've [V: got] [ARG1: a bookcase] [ARGM-LOC: here] ."
+            ]
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": "It's a beautiful thing.",
+            "coref_text": "It's a beautiful thing.",
+            "srls": [
+                "[ARG1: It] [V: 's] [ARG2: a beautiful thing] ."
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "What's this?",
+            "coref_text": "What's this?",
+            "srls": [
+                "[ARG2: What] [V: 's] [ARG1: this] ?"
+            ]
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": "I would have to say that is an 'L'- shaped bracket.",
+            "coref_text": "[I:Chandler Bing] would have to say that is an 'L'- shaped bracket.",
+            "srls": [
+                "I [V: would] have to say that is an ' L'- shaped bracket .",
+                "I would [V: have] to say that is an ' L'- shaped bracket .",
+                "[ARG0: I] would have to [V: say] [ARG1: that is an ' L'- shaped bracket] .",
+                "I would have to say [ARG1: that] [V: is] [ARG2: an ' L'- shaped bracket] .",
+                "I would have to say that is an ' L'- [V: shaped] [ARG1: bracket] ."
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "Which goes where?",
+            "coref_text": "Which goes where?",
+            "srls": [
+                "[ARG1: Which] [V: goes] [ARG2: where] ?"
+            ]
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": "I have no idea.",
+            "coref_text": "[I:Chandler Bing] have no idea.",
+            "srls": [
+                "[ARG0: I] [V: have] [ARG1: no idea] ."
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "Done with the bookcase!",
+            "coref_text": "Done with the bookcase!",
+            "srls": [
+                "[V: Done] [ARG2: with the bookcase] !"
+            ]
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": "All finished!",
+            "coref_text": "All finished!",
+            "srls": []
+        },
+        {
+            "speaker": "Ross_Geller",
+            "text": "This was Carol's favorite beer.",
+            "coref_text": "This was [Carol:Carol Willick]'s favorite beer.",
+            "srls": [
+                "[ARG1: This] [V: was] [ARG2: Carol 's favorite beer] ."
+            ]
+        },
+        {
+            "speaker": "Ross_Geller",
+            "text": "She always drank it out of the can, I should have known.",
+            "coref_text": "[She:Carol Willick] always drank it out of the can, [I:Ross Geller] should have known.",
+            "srls": [
+                "[ARG0: She] [ARGM-TMP: always] [V: drank] [ARG1: it] [ARGM-DIR: out of the can] , I should have known .",
+                "She always drank it out of the can , I [V: should] have known .",
+                "She always drank it out of the can , I should [V: have] known .",
+                "She always drank it out of the can , [ARG0: I] [ARGM-MOD: should] have [V: known] ."
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "Hey- hey- hey- hey, if you're gonna start with that stuff we're outta here.",
+            "coref_text": "Hey- hey- hey- hey, if [you:Ross Geller]'re gonna start with that stuff we're outta here.",
+            "srls": [
+                "Hey- hey- hey- hey , if you [V: 're] gon na start with that stuff we 're outta here .",
+                "Hey- hey- hey- hey , if you 're [V: gon] na start with that stuff we 're outta here .",
+                "Hey- hey- hey- hey , if [ARG0: you] 're gon na [V: start] [ARG2: with that stuff] we 're outta here .",
+                "[ARGM-DIS: Hey-] [ARGM-DIS: hey-] hey- [ARGM-DIS: hey] , [ARGM-ADV: if you 're gon na start with that stuff] [ARG1: we] [V: 're] [ARG2: outta here] ."
+            ]
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": "Yes, please don't spoil all this fun.",
+            "coref_text": "Yes, please don't spoil all this fun.",
+            "srls": [
+                "Yes , please [V: do] n't spoil all this fun .",
+                "[ARGM-DIS: Yes] , [ARGM-DIS: please] do [ARGM-NEG: n't] [V: spoil] [ARG1: all this fun] ."
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "Ross, let me ask you a question.",
+            "coref_text": "[Ross:Ross Geller], let [me:Joey Tribbiani] ask [you:Ross Geller] a question.",
+            "srls": [
+                "[ARGM-DIS: Ross] , [V: let] [ARG1: me ask you a question] .",
+                "Ross , let [ARG0: me] [V: ask] [ARG2: you] [ARG1: a question] ."
+            ],
+            "frame": [
+                "Ross, let [me: Speaker] [ask: Questioning] [you: Addressee] [a question: Topic]."
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "She got the furniture, the stereo, the good TV- what did you get?",
+            "coref_text": "[She:Carol Willick] got the furniture, the stereo, the good TV- what did [you:Ross Geller] get?",
+            "srls": [
+                "[ARG0: She] [V: got] [ARG1: the furniture , the stereo , the good TV- what did you get] ?",
+                "She got the furniture , the stereo , the good TV- what [V: did] you get ?",
+                "She got the furniture , the stereo , the good TV- [ARG1: what] did [ARG0: you] [V: get] ?"
+            ]
+        },
+        {
+            "speaker": "Ross_Geller",
+            "text": "You guys.",
+            "coref_text": "You guys.",
+            "srls": []
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": "Oh, God.",
+            "coref_text": "Oh, God.",
+            "srls": []
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "You got screwed.",
+            "coref_text": "[You:Ross Geller] got screwed.",
+            "srls": [
+                "[ARG1: You] [V: got] [ARG2: screwed] .",
+                "[ARG1: You] got [V: screwed] ."
+            ]
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": "Oh my God!",
+            "coref_text": "Oh my God!",
+            "srls": []
+        }
+    ]
+}

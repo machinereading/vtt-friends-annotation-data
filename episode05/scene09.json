@@ -1,0 +1,244 @@
+{
+	"scene_id": "friends-s01e05-09",
+	"sentences": [
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Here's the thing, Janice.",
+			"coref_text": "Here's the thing, [Janice:Janice].",
+			"srls": [
+				"[ARG1: Here] [V: 's] [ARG2: the thing] , [ARGM-DIS: Janice] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "You know, I mean, it's like we're different.",
+			"coref_text": "[You:Janice] know, [I:Chandler Bing] mean, it's like we're different.",
+			"srls": [
+				"[ARG0: You] [V: know] , I mean , it 's like we 're different .",
+				"You know , [ARG0: I] [V: mean] , it 's like we 're different .",
+				"You know , I mean , [ARG1: it] [V: 's] [ARG2: like we 're different] .",
+				"You know , I mean , it 's like [ARG1: we] [V: 're] [ARG2: different] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "I'm like the bing, bing, bing.",
+			"coref_text": "[I:Chandler Bing]'m like the bing, bing, bing.",
+			"srls": [
+				"[ARG1: I] [V: 'm] [ARG2: like the bing , bing , bing] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "You're like the boom, boom,...",
+			"coref_text": "[You:Janice]'re like the boom, boom,...",
+			"srls": [
+				"[ARG1: You] [V: 're] [ARG2: like the boom , boom] , ..."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "boom.",
+			"coref_text": "boom.",
+			"srls": []
+		},
+		{
+			"speaker": "Janice",
+			"text": "Ow!",
+			"coref_text": "Ow!",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Oh, my god, I'm so sorry.",
+			"coref_text": "Oh, my god, [I:Chandler Bing]'m so sorry.",
+			"srls": [
+				"[ARGM-DIS: Oh , my god] , [ARG1: I] [V: 'm] [ARG2: so sorry] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Are you ok?",
+			"coref_text": "Are [you:Janice] ok?",
+			"srls": [
+				"[V: Are] [ARG1: you] [ARG2: ok] ?"
+			]
+		},
+		{
+			"speaker": "Janice",
+			"text": "Ow.",
+			"coref_text": "Ow.",
+			"srls": []
+		},
+		{
+			"speaker": "Janice",
+			"text": "Um, it's just my lens.",
+			"coref_text": "Um, it's just [my:Janice] lens.",
+			"srls": [
+				"[ARGM-DIS: Um] , [ARG1: it] [V: 's] [ARG2: just my lens] ."
+			]
+		},
+		{
+			"speaker": "Janice",
+			"text": "It's just my lens.",
+			"coref_text": "It's just [my:Janice] lens.",
+			"srls": [
+				"[ARG1: It] [V: 's] [ARG2: just my lens] ."
+			]
+		},
+		{
+			"speaker": "Janice",
+			"text": "I'll be right back.",
+			"coref_text": "[I:Janice]'ll be right back.",
+			"srls": [
+				"[ARG1: I] [ARGM-MOD: 'll] [V: be] [ARG2: right back] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "I hit her in the eye!",
+			"coref_text": "[I:Chandler Bing] hit [her:Janice] in the eye!",
+			"srls": [
+				"[ARG0: I] [V: hit] [ARG1: her] [ARGM-LOC: in the eye] !"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "I hit her in the eye!",
+			"coref_text": "[I:Chandler Bing] hit [her:Janice] in the eye!",
+			"srls": [
+				"[ARG0: I] [V: hit] [ARG1: her] [ARGM-LOC: in the eye] !"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "This is the worst break- up in the history of the world.",
+			"coref_text": "This is the worst break- up in the history of the world.",
+			"srls": [
+				"[ARG1: This] [V: is] [ARG2: the worst break- up in the history of the world] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Oh my god.",
+			"coref_text": "Oh my god.",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "How many of those have you had?",
+			"coref_text": "How many of those have [you:Chandler Bing] had?",
+			"srls": [
+				"How many of those [V: have] you had ?",
+				"[ARG1: How many of those] have [ARG0: you] [V: had] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Oh, I don't know, a million?",
+			"coref_text": "Oh, [I:Chandler Bing] don't know, a million?",
+			"srls": [
+				"Oh , I [V: do] n't know , a million ?",
+				"[ARGM-DIS: Oh] , [ARG0: I] do [ARGM-NEG: n't] [V: know] , [ARG1: a million] ?"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Chandler, easy, easy.",
+			"coref_text": "[Chandler:Chandler Bing], easy, easy.",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Go to your happy place.",
+			"coref_text": "Go to [your:Chandler Bing] happy place.",
+			"srls": [
+				"[V: Go] [ARG4: to your happy place] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "La la la la la la la.",
+			"coref_text": "La la la la la la la.",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "I'm fine.",
+			"coref_text": "[I:Chandler Bing]'m fine.",
+			"srls": [
+				"[ARG1: I] [V: 'm] [ARG2: fine] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "All right.",
+			"coref_text": "All right.",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "I'm not fine.",
+			"coref_text": "[I:Chandler Bing]'m not fine.",
+			"srls": [
+				"[ARG1: I] [V: 'm] [ARGM-NEG: not] [ARG2: fine] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Here she comes.",
+			"coref_text": "Here [she:Janice] comes.",
+			"srls": [
+				"[ARGM-LOC: Here] [ARG1: she] [V: comes] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Wait here.",
+			"coref_text": "Wait here.",
+			"srls": [
+				"[V: Wait] [ARGM-LOC: here] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Breathe.",
+			"coref_text": "Breathe.",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "How do you do that?",
+			"coref_text": "How do [you:Phoebe Buffay] do that?",
+			"srls": [
+				"How [V: do] you do that ?",
+				"[ARGM-MNR: How] do [ARG0: you] [V: do] [ARG1: that] ?"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "It's like a gift.",
+			"coref_text": "It's like a gift.",
+			"srls": [
+				"[ARG1: It] [V: 's] [ARG2: like a gift] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "We should always always break up together.",
+			"coref_text": "We should always always break up together.",
+			"srls": [
+				"We [V: should] always always break up together .",
+				"[ARG1: We] [ARGM-MOD: should] [ARGM-TMP: always] [ARGM-TMP: always] [V: break] up [ARGM-MNR: together] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Oh, I'd like that.",
+			"coref_text": "Oh, [I:Phoebe Buffay]'d like that.",
+			"srls": [
+				"[ARGM-DIS: Oh] , [ARG0: I] [ARGM-MOD: 'd] [V: like] [ARG1: that] ."
+			]
+		}
+	]
+}

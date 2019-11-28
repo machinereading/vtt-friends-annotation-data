@@ -1,0 +1,145 @@
+{
+    "scene_id": "friends-s01e01-03",
+    "sentences": [
+        {
+            "speaker": "Monica_Geller",
+            "text": "Oh my God!",
+            "coref_text": "Oh my God!",
+            "srls": []
+        },
+        {
+            "speaker": "Paul",
+            "text": "I know, I know, I'm such an idiot.",
+            "coref_text": "[I:Paul] know, [I:Paul] know, [I:Paul]'m such an idiot.",
+            "srls": [
+                "[ARG0: I] [V: know] , I know , [ARG1: I 'm such an idiot] .",
+                "I know , [ARG0: I] [V: know] , [ARG1: I 'm such an idiot] .",
+                "I know , I know , [ARG1: I] [V: 'm] [ARG2: such an idiot] ."
+            ]
+        },
+        {
+            "speaker": "Paul",
+            "text": "I guess I should have caught on when she started going to the dentist four and five times a week.",
+            "coref_text": "[I:Paul] guess [I:Paul] should have caught on when [she:Paul's ex-girlfriend] started going to the [dentist:Person 1] four and five times a week.",
+            "srls": [
+                "[ARG0: I] [V: guess] [ARG1: I should have caught on when she started going to the dentist four and five times a week] .",
+                "I guess I [V: should] have caught on when she started going to the dentist four and five times a week .",
+                "I guess I should [V: have] caught on when she started going to the dentist four and five times a week .",
+                "I guess [ARG1: I] [ARGM-MOD: should] have [V: caught] on [ARGM-TMP: when she started going to the dentist four and five times a week] .",
+                "I guess I should have caught on [ARGM-TMP: when] [ARG0: she] [V: started] [ARG1: going to the dentist four and five times a week] .",
+                "I guess I should have caught on when [ARG0: she] started [V: going] [ARG4: to the dentist] [ARGM-TMP: four and five times a week] ."
+            ],
+            "frame": [
+                "I guess [I: Cognizer] [should have: Degree] [caught: Becoming_aware] [on when she started going to the dentist four and five times a week: Phenomenon]."
+            ]
+        },
+        {
+            "speaker": "Paul",
+            "text": "I mean, how clean can teeth get?",
+            "coref_text": "[I:Paul] mean, how clean can teeth get?",
+            "srls": [
+                "[ARG0: I] [V: mean] , how clean can teeth get ?",
+                "I mean , how clean [V: can] teeth get ?",
+                "I mean , how clean [ARGM-MOD: can] [ARG1: teeth] [V: get] ?"
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "My brother's going through that right now, he's such a mess.",
+            "coref_text": "[My:Monica Geller] [brother:Ross Geller]'s going through that right now, [he:Ross Geller]'s such a mess.",
+            "srls": [
+                "My brother [V: 's] going through that right now , he 's such a mess .",
+                "[ARG1: My brother] 's [V: going] [ARG2: through that] [ARGM-TMP: right now] , he 's such a mess .",
+                "My brother 's going through that [ARGM-TMP: right now] , [ARG1: he] [V: 's] [ARG2: such a mess] ."
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "How did you get through it?",
+            "coref_text": "How did [you:Paul] get through it?",
+            "srls": [
+                "How [V: did] you get through it ?",
+                "[ARGM-MNR: How] did [ARG1: you] [V: get] [ARG2: through it] ?"
+            ]
+        },
+        {
+            "speaker": "Paul",
+            "text": "Well, you might try accidentally breaking something valuable of hers, say her-",
+            "coref_text": "Well, [you:Monica Geller] might try accidentally breaking something valuable of [hers:Paul's ex-girlfriend], say [her:Paul's ex-girlfriend]-",
+            "srls": [
+                "Well , you [V: might] try accidentally breaking something valuable of hers , say her-",
+                "[ARGM-DIS: Well] , [ARG0: you] [ARGM-MOD: might] [V: try] [ARG1: accidentally breaking something valuable of hers] , say her-",
+                "Well , [ARG0: you] might try [ARGM-MNR: accidentally] [V: breaking] [ARG1: something valuable of hers] , say her-",
+                "Well , you might try accidentally breaking something valuable of hers , [V: say] [ARG1: her-]"
+            ],
+            "frame": [
+                "Well, [you: Agent] might [try: Attempt] [accidentally: Manner] [breaking something valuable of hers, say her-: Goal]"
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "- leg?",
+            "coref_text": "- leg?",
+            "srls": []
+        },
+        {
+            "speaker": "Paul",
+            "text": "That's one way!",
+            "coref_text": "That's one way!",
+            "srls": [
+                "[ARG1: That] [V: 's] [ARG2: one way] !"
+            ]
+        },
+        {
+            "speaker": "Paul",
+            "text": "Me, I- I went for the watch.",
+            "coref_text": "[Me:Paul], [I:Paul]- [I:Paul] went for the watch.",
+            "srls": [
+                "[ARGM-DIS: Me] , I- [ARG0: I] [V: went] [ARG1: for the watch] ."
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "You actually broke her watch?",
+            "coref_text": "[You:Paul] actually broke [her:Paul's ex-girlfriend] watch?",
+            "srls": [
+                "[ARG0: You] [ARGM-ADV: actually] [V: broke] [ARG1: her watch] ?"
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "Wow!",
+            "coref_text": "Wow!",
+            "srls": []
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "The worst thing I ever did was, I- I shredded by boyfriend's favorite bath towel.",
+            "coref_text": "The worst thing [I:Monica Geller] ever did was, [I:Monica Geller]- [I:Monica Geller] shredded by [boyfriend:Monica's ex-boyfriend]'s favorite bath towel.",
+            "srls": [
+                "[ARG1: The worst thing] [ARG0: I] [ARGM-TMP: ever] [V: did] was , I- I shredded by boyfriend 's favorite bath towel .",
+                "[ARG1: The worst thing I ever did] [V: was] , [ARG2: I- I shredded by boyfriend 's favorite bath towel] .",
+                "The worst thing I ever did was , [ARG1: I-] [ARG0: I] [V: shredded] [ARG0: by boyfriend 's favorite bath towel] ."
+            ],
+            "frame": [
+                "The worst thing I ever did was, I- [I: Agent] [shredded: Cause_to_fragment] [by boyfriend's favorite bath towel: Whole_patient]."
+            ]
+        },
+        {
+            "speaker": "Paul",
+            "text": "Ooh, steer clear of you.",
+            "coref_text": "Ooh, steer clear of [you:Monica Geller].",
+            "srls": [
+                "[ARGM-DIS: Ooh] , [V: steer] [ARG2: clear of you] ."
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "That's right.",
+            "coref_text": "That's right.",
+            "srls": [
+                "[ARG1: That] [V: 's] [ARG2: right] ."
+            ]
+        }
+    ]
+}

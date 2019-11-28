@@ -1,0 +1,437 @@
+{
+	"scene_id": "friends-s01e02-03",
+	"sentences": [
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Your folks are really that bad, huh?",
+			"coref_text": "[Your:Ross Geller] folks are really that bad, huh?",
+			"srls": [
+				"[ARG1: Your folks] [V: are] [ARGM-ADV: really] [ARG2: that bad] , [ARGM-DIS: huh] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Well, y'know, these people are pros.",
+			"coref_text": "Well, y'know, these people are pros.",
+			"srls": [
+				"[ARGM-DIS: Well] , [ARGM-DIS: y'know] , [ARG1: these people] [V: are] [ARG2: pros] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "They know what they're doing, they take their time, they get the job done.",
+			"coref_text": "They know what they're doing, they take their time, they get the job done.",
+			"srls": [
+				"[ARG0: They] [V: know] [ARG1: what they 're doing] , they take their time , they get the job done .",
+				"They know what they [V: 're] doing , they take their time , they get the job done .",
+				"They know [ARG1: what] [ARG0: they] 're [V: doing] , they take their time , they get the job done .",
+				"They know what they 're doing , [ARG0: they] [V: take] [ARG1: their time] , they get the job done .",
+				"They know what they 're doing , they take their time , [ARG0: they] [V: get] [ARG1: the job done] .",
+				"They know what they 're doing , they take their time , they get [ARG1: the job] [V: done] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Boy, I know they say you can't change your parents,...",
+			"coref_text": "Boy, [I:Monica Geller] know they say you can't change your parents,...",
+			"srls": [
+				"[ARGM-DIS: Boy] , [ARG0: I] [V: know] [ARG1: they say you ca n't change your parents] , ...",
+				"Boy , I know [ARG0: they] [V: say] [ARG1: you ca n't change your parents] , ...",
+				"Boy , I know they say [ARG0: you] [ARGM-MOD: ca] [ARGM-NEG: n't] [V: change] [ARG1: your parents] , ..."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "boy, if you could-- I'd want yours.",
+			"coref_text": "boy, if you could-- [I:Monica Geller]'d want [yours:Ross Geller].",
+			"srls": [
+				"[ARGM-DIS: boy] , [ARGM-ADV: if you could--] [ARG0: I] [ARGM-MOD: 'd] [V: want] [ARG1: yours] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Must pee.",
+			"coref_text": "Must pee.",
+			"srls": [
+				"[V: Must] [ARG1: pee] .",
+				"[ARGM-MOD: Must] [V: pee] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Y'know, it's even worse when you're twins.",
+			"coref_text": "Y'know, it's even worse when you're twins.",
+			"srls": [
+				"[ARGM-DIS: Y'know] , [ARG1: it] [V: 's] [ARG2: even worse] [ARGM-TMP: when you 're twins] .",
+				"Y'know , it 's even worse [ARGM-TMP: when] [ARG1: you] [V: 're] [ARG2: twins] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "You're twins?",
+			"coref_text": "[You:Phoebe Buffay]'re twins?",
+			"srls": [
+				"[ARG1: You] [V: 're] [ARG2: twins] ?"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Yeah.",
+			"coref_text": "Yeah.",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "We don't speak.",
+			"coref_text": "We don't speak.",
+			"srls": [
+				"We [V: do] n't speak .",
+				"[ARG0: We] do [ARGM-NEG: n't] [V: speak] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "She's like this high- powered, driven career type.",
+			"coref_text": "[She:Ursula]'s like this high- powered, driven career type.",
+			"srls": [
+				"[ARG1: She] [V: 's] [ARGM-DIS: like] [ARG2: this high- powered , driven career type] .",
+				"She 's like this [ARGM-MNR: high-] [V: powered] , driven [ARG1: career] type .",
+				"She 's like this high- powered , [V: driven] [ARG1: career type] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "What does she do?",
+			"coref_text": "What does [she:Ursula] do?",
+			"srls": [
+				"What [V: does] she do ?",
+				"[ARG1: What] does [ARG0: she] [V: do] ?"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "She's a waitress.",
+			"coref_text": "[She:Ursula]'s a [waitress:Ursula].",
+			"srls": [
+				"[ARG1: She] [V: 's] [ARG2: a waitress] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "All right, you guys, I kinda gotta clean up now.",
+			"coref_text": "All right, you guys, [I:Rachel Green] kinda gotta clean up now.",
+			"srls": [
+				"[ARGM-DIS: All right] , [ARGM-DIS: you guys] , [ARG0: I] [ARGM-ADV: kinda] [V: got] [ARG1: ta clean up now] .",
+				"All right , you guys , [ARG0: I] kinda got ta [V: clean] up [ARGM-TMP: now] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Chandler, you're an only child, right?",
+			"coref_text": "[Chandler:Chandler Bing], [you:Chandler Bing]'re an only [child:Chandler Bing], right?",
+			"srls": [
+				"[ARGM-DIS: Chandler] , [ARG1: you] [V: 're] [ARG2: an only child] , right ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "You don't have any of this.",
+			"coref_text": "[You:Chandler Bing] don't have any of this.",
+			"srls": [
+				"You [V: do] n't have any of this .",
+				"[ARG0: You] do [ARGM-NEG: n't] [V: have] [ARG1: any of this] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Well, no, although I did have an imaginary friend, who...",
+			"coref_text": "Well, no, although [I:Chandler Bing] did have an imaginary [friend:Chandler's imaginary friend], who...",
+			"srls": [
+				"Well , no , although I [V: did] have an imaginary friend , who ...",
+				"Well , no , although [ARG0: I] did [V: have] [ARG1: an imaginary friend , who] ..."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "my parents actually preferred.",
+			"coref_text": "[my:Chandler Bing] parents actually preferred.",
+			"srls": [
+				"[ARG0: my parents] [ARGM-ADV: actually] [V: preferred] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "The lights, please..",
+			"coref_text": "The lights, please..",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "...",
+			"coref_text": "...",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "How long was I in there?",
+			"coref_text": "How long was [I:Ross Geller] in there?",
+			"srls": [
+				"[ARGM-TMP: How long] [V: was] [ARG1: I] [ARG2: in there] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I'm just cleaning up.",
+			"coref_text": "[I:Rachel Green]'m just cleaning up.",
+			"srls": [
+				"I [V: 'm] just cleaning up .",
+				"[ARG0: I] 'm [ARGM-ADV: just] [V: cleaning] up ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "D'ya..",
+			"coref_text": "D'ya..",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "uh..",
+			"coref_text": "uh..",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "d'ya need any help?",
+			"coref_text": "d'ya need any help?",
+			"srls": [
+				"[ARG0: d'ya] [V: need] [ARG1: any help] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Uh..",
+			"coref_text": "Uh..",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "okay, sure!",
+			"coref_text": "okay, sure!",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Thanks!",
+			"coref_text": "Thanks!",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Anyway..",
+			"coref_text": "Anyway..",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "um..",
+			"coref_text": "um..",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "So, you- uh- you nervous about Barry tomorrow?",
+			"coref_text": "So, [you:Rachel Green]- uh- [you:Rachel Green] nervous about [Barry:Barry] tomorrow?",
+			"srls": [
+				"[ARGM-DIS: So] , [V: you-] [ARGM-DIS: uh-] [ARG1: you] [ARG2: nervous about Barry] [ARGM-TMP: tomorrow] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Oh..",
+			"coref_text": "Oh..",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "a little..",
+			"coref_text": "a little..",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Mm-hmm..",
+			"coref_text": "Mm-hmm..",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "A lot.",
+			"coref_text": "A lot.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Mm.",
+			"coref_text": "Mm.",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "So, got any advice?",
+			"coref_text": "So, got any advice?",
+			"srls": [
+				"[ARGM-DIS: So] , [V: got] [ARG1: any advice] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Y'know, as someone who's recently been- dumped?",
+			"coref_text": "Y'know, as someone who's recently been- dumped?",
+			"srls": [
+				"Y'know , as someone who [V: 's] recently been- dumped ?",
+				"Y'know , as [ARG1: someone] [R-ARG1: who] 's [ARGM-TMP: recently] been- [V: dumped] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Well, you may wanna steer clear of the word 'dumped'.",
+			"coref_text": "Well, [you:Rachel Green] may wanna steer clear of the word 'dumped'.",
+			"srls": [
+				"Well , you [V: may] wanna steer clear of the word ' dumped ' .",
+				"[ARGM-DIS: Well] , [ARG0: you] [ARGM-MOD: may] [V: wanna] [ARG1: steer clear of the word ' dumped '] .",
+				"[ARGM-DIS: Well] , [ARG0: you] [ARGM-MOD: may] [ARGM-ADV: wanna] [V: steer] [ARG2: clear of the word ' dumped '] .",
+				"Well , you may wanna steer clear of the word ' [V: dumped] ' ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Chances are he's gonna be this, this broken shell of a man, y'know, so you should try not to look too terrific, I know it'll be hard.",
+			"coref_text": "Chances are [he:Barry]'s gonna be this, this broken shell of a [man:Barry], y'know, so [you:Rachel Green] should try not to look too terrific, [I:Ross Geller] know it'll be hard.",
+			"srls": [
+				"[ARG1: Chances] [V: are] [ARG2: he 's gon na be this , this broken shell of a man] , y'know , so you should try not to look too terrific , I know it 'll be hard .",
+				"Chances are he [V: 's] gon na be this , this broken shell of a man , y'know , so you should try not to look too terrific , I know it 'll be hard .",
+				"Chances are he 's [V: gon] na be this , this broken shell of a man , y'know , so you should try not to look too terrific , I know it 'll be hard .",
+				"Chances are [ARG1: he] 's gon na [V: be] [ARG2: this , this broken shell of a man] , y'know , so you should try not to look too terrific , I know it 'll be hard .",
+				"Chances are he 's gon na be this , this broken shell of a man , y'know , so you [V: should] try not to look too terrific , I know it 'll be hard .",
+				"Chances are he 's gon na be this , this broken shell of a man , y'know , so [ARG0: you] [ARGM-MOD: should] [V: try] [ARG1: not to look too terrific] , I know it 'll be hard .",
+				"Chances are he 's gon na be this , this broken shell of a man , y'know , so [ARG0: you] should try [ARGM-NEG: not] to [V: look] [ARG1: too terrific] , I know it 'll be hard .",
+				"Chances are he 's gon na be this , this broken shell of a man , y'know , so you should try not to look too terrific , [ARG0: I] [V: know] [ARG1: it 'll be hard] .",
+				"Chances are he 's gon na be this , this broken shell of a man , y'know , so you should try not to look too terrific , I know [ARG1: it] [ARGM-MOD: 'll] [V: be] [ARG2: hard] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Or, y'know, uh, hey!",
+			"coref_text": "Or, y'know, uh, hey!",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": ", I'll go down there, and I'll give Barry back his ring, and you can go with Carol and Susan to the OB/ GYN...",
+			"coref_text": ", [I:Ross Geller]'ll go down there, and [I:Ross Geller]'ll give [Barry:Barry] back [his:Barry] ring, and [you:Rachel Green] can go with [Carol:Carol Willick] and [Susan:Susan Bunch] to the OB/ GYN...",
+			"srls": [
+				", [ARG0: I] [ARGM-MOD: 'll] [V: go] [ARG4: down there] , and I 'll give Barry back his ring , and you can go with Carol and Susan to the OB/ GYN ...",
+				", I 'll go down there , and [ARG0: I] [ARGM-MOD: 'll] [V: give] [ARG2: Barry] back [ARG1: his ring] , and you can go with Carol and Susan to the OB/ GYN ...",
+				", I 'll go down there , and I 'll give Barry back his ring , and you [V: can] go with Carol and Susan to the OB/ GYN ...",
+				", I 'll go down there , and I 'll give Barry back his ring , and [ARG0: you] [ARGM-MOD: can] [V: go] [ARGM-COM: with Carol and Susan] [ARG4: to the OB/ GYN] ..."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Oh, you've got Carol tomorrow..",
+			"coref_text": "Oh, [you:Ross Geller]'ve got [Carol:Carol Willick] tomorrow..",
+			"srls": [
+				"Oh , you [V: 've] got Carol tomorrow ..",
+				"[ARGM-DIS: Oh] , [ARG0: you] 've [V: got] [ARG1: Carol] [ARGM-TMP: tomorrow] .."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "When did it get so complicated?",
+			"coref_text": "When did it get so complicated?",
+			"srls": [
+				"When [V: did] it get so complicated ?",
+				"[ARGM-TMP: When] did [ARG1: it] [V: get] [ARG2: so complicated] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Got me.",
+			"coref_text": "Got [me:Ross Geller].",
+			"srls": [
+				"[V: Got] [ARG1: me] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Remember when we were in high school together?",
+			"coref_text": "Remember when we were in high school together?",
+			"srls": [
+				"[V: Remember] [ARG1: when we were in high school together] ?",
+				"Remember [ARGM-TMP: when] [ARG1: we] [V: were] [ARG2: in high school] [ARGM-MNR: together] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Yeah.",
+			"coref_text": "Yeah.",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I mean, didn't you think you were just gonna meet somone, fall in love- and that'd be it?",
+			"coref_text": "[I:Rachel Green] mean, didn't [you:Ross Geller] think [you:Ross Geller] were just gonna meet somone, fall in love- and that'd be it?",
+			"srls": [
+				"[ARG0: I] [V: mean] , did n't you think you were just gon na meet somone , fall in love- and that 'd be it ?",
+				"I mean , [V: did] n't you think you were just gon na meet somone , fall in love- and that 'd be it ?",
+				"I mean , did [ARGM-NEG: n't] [ARG0: you] [V: think] [ARG1: you were just gon na meet somone , fall in love- and that 'd be it] ?",
+				"I mean , did n't you think you [V: were] just gon na meet somone , fall in love- and that 'd be it ?",
+				"I mean , did n't you think you were just [V: gon] na meet somone , fall in love- and that 'd be it ?",
+				"I mean , did n't you think [ARG0: you] were just gon na [V: meet] [ARG1: somone] , fall in love- and that 'd be it ?",
+				"I mean , did n't you think [ARG1: you] were just gon na meet somone , [V: fall] [ARG2: in love-] and that 'd be it ?",
+				"I mean , did n't you think you were just gon na meet somone , fall in love- and that [V: 'd] be it ?",
+				"I mean , did n't you think you were just gon na meet somone , fall in love- and [ARG1: that] [ARGM-MOD: 'd] [V: be] [ARG2: it] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "..",
+			"coref_text": "..",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Ross?",
+			"coref_text": "[Ross:Ross Geller]?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Yes, yes!",
+			"coref_text": "Yes, yes!",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Oh!",
+			"coref_text": "Oh!",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Man, I never thought I'd be here..",
+			"coref_text": "Man, [I:Rachel Green] never thought [I:Rachel Green]'d be here..",
+			"srls": [
+				"[ARGM-DIS: Man] , [ARG0: I] [ARGM-NEG: never] [V: thought] [ARG1: I 'd be here] ..",
+				"Man , I never thought [ARG1: I] [ARGM-MOD: 'd] [V: be] [ARG2: here] .."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Me either...",
+			"coref_text": "[Me:Ross Geller] either...",
+			"srls": []
+		}
+	]
+}

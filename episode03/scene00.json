@@ -1,0 +1,252 @@
+{
+	"scene_id": "friends-s01e03-00",
+	"sentences": [
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Hi guys!",
+			"coref_text": "Hi guys!",
+			"srls": []
+		},
+		{
+			"speaker": "All",
+			"text": "Hey, Pheebs!",
+			"coref_text": "Hey, [Pheebs:Phoebe Buffay]!",
+			"srls": []
+		},
+		{
+			"speaker": "All",
+			"text": "Hi!",
+			"coref_text": "Hi!",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Hey.",
+			"coref_text": "Hey.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Oh, oh, how'd it go?",
+			"coref_text": "Oh, oh, how'd it go?",
+			"srls": [
+				"Oh , oh , how [V: 'd] it go ?",
+				"Oh , oh , [ARG4: how] 'd [ARG1: it] [V: go] ?"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Um, not so good.",
+			"coref_text": "Um, not so good.",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "He walked me to the subway and said 'We should do this again!",
+			"coref_text": "[He:Phoebe's boyfriend] walked [me:Phoebe Buffay] to the subway and said 'We should do this again!",
+			"srls": [
+				"[ARG0: He] [V: walked] [ARG1: me] [ARGM-GOL: to the subway] and said ' We should do this again !",
+				"[ARG0: He] walked me to the subway and [V: said] ' [ARG1: We should do this again] !",
+				"He walked me to the subway and said ' We [V: should] do this again !",
+				"He walked me to the subway and said ' [ARG0: We] [ARGM-MOD: should] [V: do] [ARG1: this] [ARGM-TMP: again] !"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": " '",
+			"coref_text": " '",
+			"srls": []
+		},
+		{
+			"speaker": "All",
+			"text": "Ohh.",
+			"coref_text": "Ohh.",
+			"srls": []
+		},
+		{
+			"speaker": "All",
+			"text": "Ouch.",
+			"coref_text": "Ouch.",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "What?",
+			"coref_text": "What?",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "He said 'we should do it again', that's good, right?",
+			"coref_text": "[He:Phoebe's boyfriend] said 'we should do it again', that's good, right?",
+			"srls": [
+				"[ARG0: He] [V: said] ' [ARG1: we should do it again] ' , that 's good , right ?",
+				"He said ' we [V: should] do it again ' , that 's good , right ?",
+				"He said ' [ARG0: we] [ARGM-MOD: should] [V: do] [ARG1: it] [ARGM-TMP: again] ' , that 's good , right ?",
+				"He said ' we should do it again ' , [ARG1: that] [V: 's] [ARG2: good] , right ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Uh, no.",
+			"coref_text": "Uh, no.",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Loosely translated 'We should do this again' means 'You will never see me naked'.",
+			"coref_text": "Loosely translated 'We should do this again' means '[You:Phoebe Buffay] will never see [me:Monica Geller] naked'.",
+			"srls": [
+				"[ARGM-MNR: Loosely] [V: translated] ' [ARG1: We] should do this again ' means ' You will never see me naked ' .",
+				"Loosely translated ' We [V: should] do this again ' means ' You will never see me naked ' .",
+				"Loosely translated ' [ARG0: We] [ARGM-MOD: should] [V: do] [ARG1: this] [ARGM-TMP: again] ' means ' You will never see me naked ' .",
+				"[ARG0: Loosely translated ' We should do this again '] [V: means] ' [ARG1: You will never see me naked '] .",
+				"Loosely translated ' We should do this again ' means ' You [V: will] never see me naked ' .",
+				"Loosely translated ' We should do this again ' means ' [ARG0: You] [ARGM-MOD: will] [ARGM-NEG: never] [V: see] [ARG1: me] [ARGM-PRD: naked] ' ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Since when?",
+			"coref_text": "Since when?",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Since always.",
+			"coref_text": "Since always.",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "It's like dating language.",
+			"coref_text": "It's like dating language.",
+			"srls": [
+				"[ARG1: It] [V: 's] [ARG2: like dating language] .",
+				"It 's like [V: dating] [ARG1: language] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Y'know, like' It's not you' means 'It is you'.",
+			"coref_text": "Y'know, like' It's not you' means 'It is [you:Phoebe Buffay]'.",
+			"srls": [
+				"Y'know , like ' [ARG1: It] [V: 's] [ARGM-NEG: not] [ARG2: you] ' means ' It is you ' .",
+				"[ARGM-DIS: Y'know] , [ARGM-DIS: like] ' [ARG0: It 's not you '] [V: means] ' [ARG1: It is you] ' .",
+				"Y'know , like ' It 's not you ' means ' [ARG1: It] [V: is] [ARG2: you] ' ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Or 'You're such a nice guy 'means' I'm gonna be dating leather- wearing alcoholics and complaining about them to you'.",
+			"coref_text": "Or 'You're such a nice guy 'means' [I:Chandler Bing]'m gonna be dating leather- wearing alcoholics and complaining about them to you'.",
+			"srls": [
+				"Or ' [ARG1: You] [V: 're] [ARG2: such a nice guy] ' means ' I 'm gon na be dating leather- wearing alcoholics and complaining about them to you ' .",
+				"[ARGM-DIS: Or] ' [ARG0: You] 're such a nice guy ' [V: means] ' [ARG1: I 'm gon na be dating leather- wearing alcoholics and complaining about them to you '] .",
+				"Or ' You 're such a nice guy ' means ' I [V: 'm] gon na be dating leather- wearing alcoholics and complaining about them to you ' .",
+				"Or ' You 're such a nice guy ' means ' I 'm [V: gon] na be dating leather- wearing alcoholics and complaining about them to you ' .",
+				"Or ' You 're such a nice guy ' means ' I 'm gon na [V: be] dating leather- wearing alcoholics and complaining about them to you ' .",
+				"Or ' You 're such a nice guy ' means ' [ARG0: I] 'm gon na be [V: dating] [ARG1: leather- wearing alcoholics] and complaining about them to you ' .",
+				"Or ' You 're such a nice guy ' means ' I 'm gon na be dating [ARG1: leather-] [V: wearing] [ARG0: alcoholics] and complaining about them to you ' .",
+				"Or ' You 're such a nice guy ' means ' [ARG0: I] 'm gon na be dating leather- wearing alcoholics and [V: complaining] [ARG1: about them] [ARG2: to you] ' ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Or, or, y'know, um,' I think we should see other people 'means' Ha, ha, I already am '.",
+			"coref_text": "Or, or, y'know, um,' [I:Phoebe Buffay] think we should see other people 'means' Ha, ha, [I:Phoebe Buffay] already am '.",
+			"srls": [
+				"Or , or , y'know , um , ' [ARG0: I] [V: think] [ARG1: we should see other people] ' means ' Ha , ha , I already am ' .",
+				"Or , or , y'know , um , ' I think we [V: should] see other people ' means ' Ha , ha , I already am ' .",
+				"Or , or , y'know , um , ' I think [ARG0: we] [ARGM-MOD: should] [V: see] [ARG1: other people] ' means ' Ha , ha , I already am ' .",
+				"Or , or , y'know , um , ' I think we should see other people ' means ' Ha , ha , [ARG1: I] [ARGM-TMP: already] [V: am] ' ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "And everybody knows this?",
+			"coref_text": "And everybody knows this?",
+			"srls": [
+				"[ARGM-DIS: And] [ARG0: everybody] [V: knows] [ARG1: this] ?"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Yeah.",
+			"coref_text": "Yeah.",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Cushions the blow.",
+			"coref_text": "Cushions the blow.",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Yeah, it's like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm.",
+			"coref_text": "Yeah, it's like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm.",
+			"srls": [
+				"[ARGM-DIS: Yeah] , [ARG1: it] [V: 's] [ARGM-DIS: like] [ARG2: when you 're a kid , and your parents put your dog to sleep , and they tell you it went off to live on some farm] .",
+				"Yeah , it 's like [ARGM-TMP: when] [ARG1: you] [V: 're] [ARG2: a kid] , and your parents put your dog to sleep , and they tell you it went off to live on some farm .",
+				"Yeah , it 's like when you 're a kid , and [ARG0: your parents] [V: put] [ARG1: your dog] [ARG2: to sleep] , and they tell you it went off to live on some farm .",
+				"Yeah , it 's like when you 're a kid , and your parents put your dog to sleep , and [ARG0: they] [V: tell] [ARG2: you] [ARG1: it went off to live on some farm] .",
+				"Yeah , it 's like when you 're a kid , and your parents put your dog to sleep , and they tell you [ARG1: it] [V: went] [ARGM-DIR: off] [ARGM-PRP: to live on some farm] .",
+				"Yeah , it 's like when you 're a kid , and your parents put your dog to sleep , and they tell you [ARG0: it] went off to [V: live] [ARGM-LOC: on some farm] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "That's funny, that, no, because, uh, our parents actually did, uh, send our dog off to live on a farm.",
+			"coref_text": "That's funny, that, no, because, uh, our parents actually did, uh, send our dog off to live on a farm.",
+			"srls": [
+				"[ARG1: That] [V: 's] [ARG2: funny] , that , no , [ARGM-CAU: because , uh , our parents actually did , uh , send our dog off to live on a farm] .",
+				"That 's funny , that , no , because , uh , our parents actually [V: did] , uh , send our dog off to live on a farm .",
+				"That 's funny , that , no , because , [ARGM-DIS: uh] , [ARG0: our parents] [ARGM-ADV: actually] did , [ARGM-DIS: uh] , [V: send] [ARG1: our dog] [ARGM-DIR: off] [ARGM-PRP: to live on a farm] .",
+				"That 's funny , that , no , because , uh , our parents actually did , uh , send [ARG0: our dog] off to [V: live] [ARGM-LOC: on a farm] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Uh, Ross.",
+			"coref_text": "Uh, [Ross:Ross Geller].",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "What?",
+			"coref_text": "What?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Wh- hello?",
+			"coref_text": "Wh- hello?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "The Millners 'farm in Connecticut?",
+			"coref_text": "The Millners 'farm in Connecticut?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "The Millners, they had this unbelievable farm, they had horses, and, and rabbits that he could chase and it was- it w-.....",
+			"coref_text": "The Millners, they had this unbelievable farm, they had horses, and, and rabbits that he could chase and it was- it w-.....",
+			"srls": [
+				"The Millners , [ARG0: they] [V: had] [ARG1: this unbelievable farm] , they had horses , and , and rabbits that he could chase and it was- it w- .....",
+				"The Millners , they had this unbelievable farm , [ARG0: they] [V: had] [ARG1: horses , and , and rabbits that he could chase] and it was- it w- .....",
+				"The Millners , they had this unbelievable farm , they had horses , and , and rabbits that he [V: could] chase and it was- it w- .....",
+				"The Millners , they had this unbelievable farm , they had horses , and , and [ARG1: rabbits] [R-ARG1: that] [ARG0: he] [ARGM-MOD: could] [V: chase] and it was- it w- .....",
+				"The Millners , they had this unbelievable farm , they had horses , and , and rabbits that he could chase and [ARG2: it] [V: was-] [ARG1: it] w- ....."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Oh my God, Chi Chi!",
+			"coref_text": "Oh [my:Ross Geller] God, Chi Chi!",
+			"srls": []
+		}
+	]
+}

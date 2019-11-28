@@ -1,0 +1,97 @@
+{
+	"scene_id": "friends-s01e03-03",
+	"sentences": [
+		{
+			"speaker": "Monica_Geller",
+			"text": "I mean, why should I let them meet him?",
+			"coref_text": "[I:Monica Geller] mean, why should [I:Monica Geller] let them meet [him:Alan]?",
+			"srls": [
+				"[ARG0: I] [V: mean] , [ARG1: why should I let them meet him] ?",
+				"I mean , why [V: should] I let them meet him ?",
+				"I mean , [ARGM-CAU: why] [ARGM-MOD: should] [ARG0: I] [V: let] [ARG1: them meet him] ?",
+				"I mean , why should I let [ARG0: them] [V: meet] [ARG1: him] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "I mean, I bring a guy home, and within five minutes they're all over him.",
+			"coref_text": "[I:Monica Geller] mean, [I:Monica Geller] bring a guy home, and within five minutes they're all over [him:Alan].",
+			"srls": [
+				"[ARG0: I] [V: mean] , I bring a guy home , and within five minutes they 're all over him .",
+				"I mean , [ARG0: I] [V: bring] [ARG1: a guy] [ARGM-DIR: home] , and within five minutes they 're all over him .",
+				"I mean , I bring a guy home , and [ARGM-TMP: within five minutes] [ARG1: they] [V: 're] [ARG2: all over him] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "I mean, they're like- coyotes, picking off the weak members of the herd.",
+			"coref_text": "[I:Monica Geller] mean, they're like- coyotes, picking off the weak members of the herd.",
+			"srls": [
+				"[ARG0: I] [V: mean] , they 're like- coyotes , picking off the weak members of the herd .",
+				"I mean , [ARG1: they] [V: 're] [ARGM-DIS: like-] [ARG2: coyotes , picking off the weak members of the herd] .",
+				"I mean , they 're like- [ARG0: coyotes] , [V: picking] off [ARG1: the weak members of the herd] ."
+			]
+		},
+		{
+			"speaker": "Paula",
+			"text": "Listen.",
+			"coref_text": "Listen.",
+			"srls": [
+				"[V: Listen] ."
+			]
+		},
+		{
+			"speaker": "Paula",
+			"text": "As someone who's seen more than her fair share of bad beef, I'll tell you: that is not such a terrible thing.",
+			"coref_text": "As someone who's seen more than [her:Paula] fair share of bad beef, [I:Paula]'ll tell [you:Monica Geller]: that is not such a terrible thing.",
+			"srls": [
+				"As someone who [V: 's] seen more than her fair share of bad beef , I 'll tell you : that is not such a terrible thing .",
+				"As [ARG0: someone] [R-ARG0: who] 's [V: seen] [ARG1: more than her fair share of bad beef] , I 'll tell you : that is not such a terrible thing .",
+				"[ARGM-MNR: As someone who 's seen more than her fair share of bad beef] , [ARG0: I] [ARGM-MOD: 'll] [V: tell] [ARG2: you] : [ARG1: that is not such a terrible thing] .",
+				"As someone who 's seen more than her fair share of bad beef , I 'll tell you : [ARG1: that] [V: is] [ARGM-NEG: not] [ARG2: such a terrible thing] ."
+			]
+		},
+		{
+			"speaker": "Paula",
+			"text": "I mean, they're your friends, they're just looking out after you.",
+			"coref_text": "[I:Paula] mean, they're [your:Monica Geller] friends, they're just looking out after [you:Monica Geller].",
+			"srls": [
+				"[ARG0: I] [V: mean] , they 're your friends , they 're just looking out after you .",
+				"I mean , [ARG1: they] [V: 're] [ARG2: your friends] , they 're just looking out after you .",
+				"I mean , they 're your friends , they [V: 're] just looking out after you .",
+				"I mean , they 're your friends , [ARG0: they] 're [ARGM-ADV: just] [V: looking] out [ARG1: after you] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "I know.",
+			"coref_text": "[I:Monica Geller] know.",
+			"srls": [
+				"[ARG0: I] [V: know] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "I just wish that once, I'd bring a guy home that they actually liked.",
+			"coref_text": "[I:Monica Geller] just wish that once, [I:Monica Geller]'d bring a guy home that they actually liked.",
+			"srls": [
+				"[ARG0: I] [ARGM-ADV: just] [V: wish] [ARG1: that once , I 'd bring a guy home that they actually liked] .",
+				"I just wish that [ARGM-TMP: once] , [ARG0: I] [ARGM-MOD: 'd] [V: bring] [ARG1: a guy] [ARGM-GOL: home] [C-ARG1: that they actually liked] .",
+				"I just wish that once , I 'd bring [ARG1: a guy] home [R-ARG1: that] [ARG0: they] [ARGM-ADV: actually] [V: liked] ."
+			]
+		},
+		{
+			"speaker": "Paula",
+			"text": "Well, you do realise the odds of that happening are a little slimmer if they never get to meet the guy..",
+			"coref_text": "Well, [you:Monica Geller] do realise the odds of that happening are a little slimmer if they never get to meet the guy..",
+			"srls": [
+				"Well , you [V: do] realise the odds of that happening are a little slimmer if they never get to meet the guy ..",
+				"[ARGM-DIS: Well] , [ARG0: you] do [V: realise] [ARG1: the odds of that happening are a little slimmer if they never get to meet the guy] ..",
+				"Well , you do realise the odds of that [V: happening] are a little slimmer if they never get to meet the guy ..",
+				"Well , you do realise [ARG1: the odds of that happening] [V: are] [ARG2: a little slimmer] [ARGM-ADV: if they never get to meet the guy] ..",
+				"Well , you do realise the odds of that happening are a little slimmer if [ARG0: they] [ARGM-TMP: never] [V: get] [ARG1: to meet the guy] ..",
+				"Well , you do realise the odds of that happening are a little slimmer if [ARG0: they] never get to [V: meet] [ARG1: the guy] .."
+			]
+		}
+	]
+}

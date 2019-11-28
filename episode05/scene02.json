@@ -1,0 +1,182 @@
+{
+	"scene_id": "friends-s01e05-02",
+	"sentences": [
+		{
+			"speaker": "Ross_Geller",
+			"text": "Ok, bye.",
+			"coref_text": "Ok, bye.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Well, Monica's not coming, it's just gonna be me and Rachel.",
+			"coref_text": "Well, [Monica:Monica Geller]'s not coming, it's just gonna be [me:Ross Geller] and [Rachel:Rachel Green].",
+			"srls": [
+				"Well , Monica [V: 's] not coming , it 's just gon na be me and Rachel .",
+				"Well , [ARG1: Monica] 's [ARGM-NEG: not] [V: coming] , it 's just gon na be me and Rachel .",
+				"Well , Monica 's not coming , it [V: 's] just gon na be me and Rachel .",
+				"Well , Monica 's not coming , it 's just [V: gon] na be me and Rachel .",
+				"Well , Monica 's not coming , [ARG1: it] 's just gon na [V: be] [ARG2: me and Rachel] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Oh.",
+			"coref_text": "Oh.",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Well, hold on camper, are you sure you've thought this thing through?",
+			"coref_text": "Well, hold on camper, are [you:Ross Geller] sure [you:Ross Geller]'ve thought this thing through?",
+			"srls": [
+				"[ARGM-DIS: Well] , [V: hold] on [ARGM-DIS: camper] , are you sure you 've thought this thing through ?",
+				"Well , hold on [ARGM-DIS: camper] , [V: are] [ARG1: you] [ARG2: sure you 've thought this thing through] ?",
+				"Well , hold on camper , are you sure you [V: 've] thought this thing through ?",
+				"Well , hold on camper , are you sure [ARG0: you] 've [V: thought] [ARG1: this thing] through ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "It's laundry.",
+			"coref_text": "It's laundry.",
+			"srls": [
+				"[ARG1: It] [V: 's] [ARG2: laundry] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "The thinking through is minimal.",
+			"coref_text": "The thinking through is minimal.",
+			"srls": [
+				"[ARG1: The thinking through] [V: is] [ARG2: minimal] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "It's just you and Rachel, just the two of you?",
+			"coref_text": "It's just [you:Ross Geller] and Rachel, just the two of you?",
+			"srls": [
+				"[ARG1: It] [V: 's] [ARGM-ADV: just] [ARG2: you and Rachel] , [ARGM-ADV: just the two of you] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "This is a date.",
+			"coref_text": "This is a date.",
+			"srls": [
+				"[ARG1: This] [V: is] [ARG2: a date] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "You're going on a date.",
+			"coref_text": "[You:Ross Geller]'re going on a date.",
+			"srls": [
+				"You [V: 're] going on a date .",
+				"[ARG0: You] 're [V: going] [ARG1: on a date] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Nuh- uh.",
+			"coref_text": "Nuh- uh.",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Yuh- huh.",
+			"coref_text": "Yuh- huh.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "So what're you saying here?",
+			"coref_text": "So what're [you:Chandler Bing] saying here?",
+			"srls": [
+				"So what [V: 're] you saying here ?",
+				"So [ARG1: what] 're [ARG0: you] [V: saying] [ARGM-LOC: here] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "I should shave again, pick up some wine, what?",
+			"coref_text": "[I:Ross Geller] should shave again, pick up some wine, what?",
+			"srls": [
+				"I [V: should] shave again , pick up some wine , what ?",
+				"[ARG0: I] [ARGM-MOD: should] [V: shave] [ARGM-TMP: again] , pick up some wine , what ?",
+				"[ARG0: I] [ARGM-MOD: should] shave again , [V: pick] up [ARG1: some wine] , what ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Well, you may wanna rethink the dirty underwear.",
+			"coref_text": "Well, [you:Ross Geller] may wanna rethink the dirty underwear.",
+			"srls": [
+				"Well , you [V: may] wanna rethink the dirty underwear .",
+				"[ARGM-DIS: Well] , [ARG0: you] [ARGM-MOD: may] [V: wanna] [ARG1: rethink the dirty underwear] .",
+				"[ARGM-DIS: Well] , [ARG0: you] [ARGM-MOD: may] wanna [V: rethink] [ARG1: the dirty underwear] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "This is basically the first time she's gonna see your underwearyou want it to be dirty?",
+			"coref_text": "This is basically the first time [she:Rachel Green]'s gonna see [your:Ross Geller] underwearyou want it to be dirty?",
+			"srls": [
+				"[ARG1: This] [V: is] [ARGM-ADV: basically] [ARG2: the first time she 's gon na see your underwearyou want it to be dirty] ?",
+				"This is basically the first time she [V: 's] gon na see your underwearyou want it to be dirty ?",
+				"This is basically the first time she 's [V: gon] na see your underwearyou want it to be dirty ?",
+				"This is basically the first time [ARG0: she] 's gon na [V: see] [ARG1: your underwearyou want it to be dirty] ?",
+				"This is basically the first time she 's gon na see [ARG0: your underwearyou] [V: want] [ARG1: it to be dirty] ?",
+				"This is basically the first time she 's gon na see your underwearyou want [ARG1: it] to [V: be] [ARG2: dirty] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "No.",
+			"coref_text": "No.",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Oh, and uh, the fabric softener?",
+			"coref_text": "Oh, and uh, the fabric softener?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Ok, ok, now what is wrong with my Snuggles?",
+			"coref_text": "Ok, ok, now what is wrong with [my:Ross Geller] Snuggles?",
+			"srls": [
+				"Ok , ok , now [ARG1: what] [V: is] [ARG2: wrong with my Snuggles] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "What, it says I'm a sensitive, warm kinda guy, you know, like a warm, fuzzy bear.",
+			"coref_text": "What, it says [I:Ross Geller]'m a sensitive, warm kinda [guy:Ross Geller], you know, like a warm, fuzzy bear.",
+			"srls": [
+				"What , [ARG0: it] [V: says] I 'm a sensitive , warm kinda guy , you know , like a warm , fuzzy bear .",
+				"What , it says [ARG1: I] [V: 'm] [ARG2: a sensitive , warm kinda guy , you know , like a warm , fuzzy bear] .",
+				"What , it says I 'm a sensitive , warm kinda guy , [ARG0: you] [V: know] , like a warm , fuzzy bear ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Ok, I can pick something else up on the way.",
+			"coref_text": "Ok, [I:Ross Geller] can pick something else up on the way.",
+			"srls": [
+				"Ok , I [V: can] pick something else up on the way .",
+				"[ARGM-DIS: Ok] , [ARG0: I] [ARGM-MOD: can] [V: pick] [ARG1: something else] up [ARGM-LOC: on the way] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "There you go.",
+			"coref_text": "There [you:Ross Geller] go.",
+			"srls": [
+				"[ARGM-ADV: There] [ARG0: you] [V: go] ."
+			]
+		}
+	]
+}

@@ -1,0 +1,290 @@
+{
+	"scene_id": "friends-s01e04-08",
+	"sentences": [
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Man.",
+			"coref_text": "Man.",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Can you believe he's only had sex with one woman?",
+			"coref_text": "Can [you:Chandler Bing] believe [he:Ross Geller]'s only had sex with one [woman:Carol Willick]?",
+			"srls": [
+				"[V: Can] you believe he 's only had sex with one woman ?",
+				"[ARGM-MOD: Can] [ARG0: you] [V: believe] [ARG1: he 's only had sex with one woman] ?",
+				"Can you believe he [V: 's] only had sex with one woman ?",
+				"Can you believe [ARG0: he] 's [ARGM-ADV: only] [V: had] [ARG1: sex] [ARGM-ADV: with one woman] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "I think it's great.",
+			"coref_text": "[I:Chandler Bing] think it's great.",
+			"srls": [
+				"[ARG0: I] [V: think] [ARG1: it 's great] .",
+				"I think [ARG1: it] [V: 's] [ARG2: great] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Y'know, it's sweet, it's romantic...",
+			"coref_text": "Y'know, it's sweet, it's romantic...",
+			"srls": [
+				"Y'know , [ARG1: it] [V: 's] [ARG2: sweet] , it 's romantic ...",
+				"Y'know , it 's sweet , [ARG1: it] [V: 's] [ARG2: romantic] ..."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Really?",
+			"coref_text": "Really?",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "No, you kidding?",
+			"coref_text": "No, [you:Joey Tribbiani] kidding?",
+			"srls": [
+				"[ARGM-DIS: No] , [ARG0: you] [V: kidding] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "The guy's a freak..",
+			"coref_text": "The [guy:Ross Geller]'s a freak..",
+			"srls": [
+				"[ARG1: The guy] [V: 's] [ARG2: a freak] .."
+			]
+		},
+		{
+			"speaker": "Both",
+			"text": "Hey, buddy.",
+			"coref_text": "Hey, [buddy:Ross Geller].",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Hi.",
+			"coref_text": "Hi.",
+			"srls": []
+		},
+		{
+			"speaker": "Receptionist",
+			"text": "Oh, that's attractive.",
+			"coref_text": "Oh, that's attractive.",
+			"srls": [
+				"[ARGM-DIS: Oh] , [ARG1: that] [V: 's] [ARG2: attractive] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Oh, I thought you were great in Silence of the Lambs.",
+			"coref_text": "Oh, [I:Chandler Bing] thought [you:Receptionist] were great in Silence of the Lambs.",
+			"srls": [
+				"[ARGM-DIS: Oh] , [ARG0: I] [V: thought] [ARG1: you were great in Silence of the Lambs] .",
+				"Oh , I thought [ARG1: you] [V: were] [ARG2: great] [ARGM-LOC: in Silence of the Lambs] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Oh come on, admit it!",
+			"coref_text": "Oh come on, admit it!",
+			"srls": [
+				"[ARGM-DIS: Oh] [V: come] on , admit it !",
+				"[ARGM-DIS: Oh] come on , [V: admit] [ARG1: it] !"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "All things considered, you had fun tonight.",
+			"coref_text": "All things considered, [you:Ross Geller] had fun tonight.",
+			"srls": [
+				"[ARG1: All things] [V: considered] , you had fun tonight .",
+				"[ARGM-ADV: All things considered] , [ARG0: you] [V: had] [ARG1: fun] [ARGM-TMP: tonight] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Fun?",
+			"coref_text": "Fun?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Where was the fun?",
+			"coref_text": "Where was the fun?",
+			"srls": [
+				"[ARG2: Where] [V: was] [ARG1: the fun] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Tell me specifically, which part was the fun part?",
+			"coref_text": "Tell [me:Ross Geller] specifically, which part was the fun part?",
+			"srls": [
+				"[V: Tell] [ARG2: me] [ARGM-ADV: specifically] , [ARG1: which part was the fun part] ?",
+				"Tell me specifically , [ARG1: which part] [V: was] [ARG2: the fun part] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Where's my puck?",
+			"coref_text": "Where's [my:Ross Geller] puck?",
+			"srls": [
+				"[ARG2: Where] [V: 's] [ARG1: my puck] ?"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Oh, ah- the kid has it.",
+			"coref_text": "Oh, ah- the [kid:Kid] has it.",
+			"srls": [
+				"[ARGM-DIS: Oh] , [ARGM-DIS: ah-] [ARG0: the kid] [V: has] [ARG1: it] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "The kid...?",
+			"coref_text": "The [kid:Kid]...?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Excuse me, uh, that's, that's my puck.",
+			"coref_text": "Excuse [me:Ross Geller], uh, that's, that's [my:Ross Geller] puck.",
+			"srls": [
+				"[V: Excuse] [ARG1: me] , uh , that 's , that 's my puck .",
+				"Excuse me , uh , [ARG1: that] [V: 's] , that 's my puck .",
+				"Excuse me , uh , that 's , [ARG1: that] [V: 's] [ARG2: my puck] ."
+			]
+		},
+		{
+			"speaker": "Kid",
+			"text": "I found it.",
+			"coref_text": "[I:Kid] found it.",
+			"srls": [
+				"[ARG0: I] [V: found] [ARG1: it] ."
+			]
+		},
+		{
+			"speaker": "Kid",
+			"text": "Finders keepers, losers weepers.",
+			"coref_text": "Finders keepers, losers weepers.",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "You gotta do it, man.",
+			"coref_text": "[You:Ross Geller] gotta do it, [man:Ross Geller].",
+			"srls": [
+				"[ARG0: You] [V: got] [ARG1: ta do it] , [ARGM-DIS: man] .",
+				"[ARG0: You] got ta [V: do] [ARG1: it] , [ARGM-DIS: man] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Oh yeah?",
+			"coref_text": "Oh yeah?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Well, I'm rubber, you're glue, whatever can't do it.",
+			"coref_text": "Well, [I:Ross Geller]'m rubber, [you:Kid]'re glue, whatever can't do it.",
+			"srls": [
+				"Well , [ARG1: I] [V: 'm] [ARG2: rubber] , you 're glue , whatever ca n't do it .",
+				"Well , I 'm rubber , [ARG1: you] [V: 're] [ARG2: glue] , whatever ca n't do it .",
+				"Well , I 'm rubber , you 're glue , [ARG0: whatever] [ARGM-MOD: ca] [ARGM-NEG: n't] [V: do] [ARG1: it] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Listen, uh- gim me back my puck.",
+			"coref_text": "Listen, uh- gim [me:Ross Geller] back [my:Ross Geller] puck.",
+			"srls": [
+				"[V: Listen] , uh- gim me back my puck .",
+				"[ARGM-DIS: Listen] , [ARGM-DIS: uh-] [V: gim] [ARG1: me] [ARGM-DIR: back] [ARG2: my puck] ."
+			]
+		},
+		{
+			"speaker": "Kid",
+			"text": "No.",
+			"coref_text": "No.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": " 'Yes', how about.",
+			"coref_text": " 'Yes', how about.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "C'mere.",
+			"coref_text": "C'mere.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Gim me!",
+			"coref_text": "Gim [me:Ross Geller]!",
+			"srls": [
+				"[V: Gim] [ARG1: me] !"
+			]
+		},
+		{
+			"speaker": "Kid",
+			"text": "No!",
+			"coref_text": "No!",
+			"srls": []
+		},
+		{
+			"speaker": "Kid",
+			"text": "No!",
+			"coref_text": "No!",
+			"srls": []
+		},
+		{
+			"speaker": "Receptionist",
+			"text": "Hey!",
+			"coref_text": "Hey!",
+			"srls": []
+		},
+		{
+			"speaker": "Receptionist",
+			"text": "Hey!",
+			"coref_text": "Hey!",
+			"srls": []
+		},
+		{
+			"speaker": "Receptionist",
+			"text": "No rough holding in my ER!",
+			"coref_text": "No rough holding in [my:Receptionist] ER!",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "GIVE ME MY PUCK!!",
+			"coref_text": "GIVE [ME:Ross Geller] [MY:Ross Geller] PUCK!!",
+			"srls": [
+				"[V: GIVE] ME [ARG1: MY PUCK] ! !"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "...",
+			"coref_text": "...",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Now that was fun.",
+			"coref_text": "Now that was fun.",
+			"srls": [
+				"[ARGM-TMP: Now] [ARG1: that] [V: was] [ARG2: fun] ."
+			]
+		}
+	]
+}

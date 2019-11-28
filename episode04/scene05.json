@@ -1,0 +1,430 @@
+{
+	"scene_id": "friends-s01e04-05",
+	"sentences": [
+		{
+			"speaker": "Rachel_Green",
+			"text": "I'm so sorry, you guys.",
+			"coref_text": "[I:Rachel Green]'m so sorry, you guys.",
+			"srls": [
+				"[ARG1: I] [V: 'm] [ARG2: so sorry] , [ARGM-DIS: you guys] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I didn't mean to bring you down.",
+			"coref_text": "[I:Rachel Green] didn't mean to bring you down.",
+			"srls": [
+				"I [V: did] n't mean to bring you down .",
+				"[ARG0: I] did [ARGM-NEG: n't] [V: mean] [ARG1: to bring you down] .",
+				"[ARG0: I] did n't mean to [V: bring] [ARG1: you] [ARGM-DIR: down] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "No, you were right.",
+			"coref_text": "No, [you:Rachel Green] were right.",
+			"srls": [
+				"[ARGM-DIS: No] , [ARG1: you] [V: were] [ARG2: right] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "I don't have a plan.",
+			"coref_text": "[I:Monica Geller] don't have a plan.",
+			"srls": [
+				"I [V: do] n't have a plan .",
+				"[ARG0: I] do [ARGM-NEG: n't] [V: have] [ARG1: a plan] ."
+			]
+		},
+		{
+			"speaker": "Pizza_Guy",
+			"text": "Pizza guy!",
+			"coref_text": "Pizza [guy:Pizza Guy]!",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Thank God.",
+			"coref_text": "Thank God.",
+			"srls": [
+				"[V: Thank] [ARG1: God] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Food.",
+			"coref_text": "Food.",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Phoebe?",
+			"coref_text": "[Phoebe:Phoebe Buffay]?",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "What?",
+			"coref_text": "What?",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Do you have a plan?",
+			"coref_text": "Do [you:Phoebe Buffay] have a plan?",
+			"srls": [
+				"[V: Do] you have a plan ?",
+				"Do [ARG0: you] [V: have] [ARG1: a plan] ?"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "I don't even have a' pl '.",
+			"coref_text": "[I:Phoebe Buffay] don't even have a' pl '.",
+			"srls": [
+				"I [V: do] n't even have a ' pl ' .",
+				"[ARG0: I] do [ARGM-NEG: n't] [ARGM-ADV: even] [V: have] [ARG1: a ' pl '] ."
+			]
+		},
+		{
+			"speaker": "Pizza_Guy",
+			"text": "Hi, one, uh, mushroom, green pepper and onion?",
+			"coref_text": "Hi, one, uh, mushroom, green pepper and onion?",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "No, no, that's not what we ordered...",
+			"coref_text": "No, no, that's not what we ordered...",
+			"srls": [
+				"[ARGM-DIS: No , no] , [ARG1: that] [V: 's] [ARGM-NEG: not] [ARG2: what we ordered] ...",
+				"No , no , that 's not [ARG1: what] [ARG0: we] [V: ordered] ..."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "We ordered a fat- free crust with extra cheese.",
+			"coref_text": "We ordered a fat- free crust with extra cheese.",
+			"srls": [
+				"[ARG0: We] [V: ordered] [ARG1: a fat- free crust] [ARG2: with extra cheese] ."
+			]
+		},
+		{
+			"speaker": "Pizza_Guy",
+			"text": "Wait, you're not' G.Stephanopoulos?",
+			"coref_text": "Wait, [you:Rachel Green]'re not' G.Stephanopoulos?",
+			"srls": [
+				"[V: Wait] , you 're not ' G.Stephanopoulos ?",
+				"[ARGM-DIS: Wait] , [ARG1: you] [V: 're] [ARGM-NEG: not] ' [ARG2: G.Stephanopoulos] ?"
+			]
+		},
+		{
+			"speaker": "Pizza_Guy",
+			"text": " 'Man, my dad's gonna kill me!",
+			"coref_text": " 'Man, [my:Pizza Guy] [dad:Man 1]'s gonna kill [me:Pizza Guy]!",
+			"srls": [
+				"' Man , my dad 's [V: gon] na kill me !",
+				"' Man , [ARG0: my dad] 's gon na [V: kill] [ARG1: me] !"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Wait!",
+			"coref_text": "Wait!",
+			"srls": [
+				"[V: Wait] !"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Did you say 'G.Stephanopoulos?",
+			"coref_text": "Did [you:Pizza Guy] say 'G.Stephanopoulos?",
+			"srls": [
+				"[V: Did] you say ' G.Stephanopoulos ?",
+				"Did [ARG0: you] [V: say] ' [ARG1: G.Stephanopoulos] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": " '",
+			"coref_text": " '",
+			"srls": []
+		},
+		{
+			"speaker": "Pizza_Guy",
+			"text": "Yeah.",
+			"coref_text": "Yeah.",
+			"srls": []
+		},
+		{
+			"speaker": "Pizza_Guy",
+			"text": "This one goes across the street, I must have given him yours.",
+			"coref_text": "This one goes across the street, [I:Pizza Guy] must have given [him:George Stephanopoulos] [yours:Monica Geller].",
+			"srls": [
+				"[ARG1: This one] [V: goes] [ARGM-DIR: across the street] , I must have given him yours .",
+				"This one goes across the street , I [V: must] have given him yours .",
+				"This one goes across the street , I must [V: have] given him yours .",
+				"This one goes across the street , [ARG0: I] [ARGM-MOD: must] have [V: given] [ARG2: him] [ARG1: yours] ."
+			]
+		},
+		{
+			"speaker": "Pizza_Guy",
+			"text": "Oh, bonehead, bonehead!",
+			"coref_text": "Oh, bonehead, bonehead!",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Wait, was this a-a small mediterranean guy with curiously intelligent good looks?",
+			"coref_text": "Wait, was this a-a small mediterranean [guy:George Stephanopoulos] with curiously intelligent good looks?",
+			"srls": [
+				"[V: Wait] , was this a - a small mediterranean guy with curiously intelligent good looks ?",
+				"[ARGM-DIS: Wait] , [V: was] [ARG1: this] [ARG2: a - a small mediterranean guy with curiously intelligent good looks] ?"
+			]
+		},
+		{
+			"speaker": "Pizza_Guy",
+			"text": "Yeah, that sounds about right.",
+			"coref_text": "Yeah, that sounds about right.",
+			"srls": [
+				"[ARGM-DIS: Yeah] , [ARG1: that] [V: sounds] [ARG2: about right] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Was he wearing a stunning blue suit?",
+			"coref_text": "Was [he:George Stephanopoulos] wearing a stunning blue suit?",
+			"srls": [
+				"[V: Was] he wearing a stunning blue suit ?",
+				"Was [ARG0: he] [V: wearing] [ARG1: a stunning blue suit] ?"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "And- and a power tie?",
+			"coref_text": "And- and a power tie?",
+			"srls": []
+		},
+		{
+			"speaker": "Pizza_Guy",
+			"text": "No, pretty much just a towel.",
+			"coref_text": "No, pretty much just a towel.",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Oh God.",
+			"coref_text": "Oh God.",
+			"srls": []
+		},
+		{
+			"speaker": "Pizza_Guy",
+			"text": "So you guys want me to take this back?",
+			"coref_text": "So you guys want [me:Pizza Guy] to take this back?",
+			"srls": [
+				"[ARGM-DIS: So] [ARG0: you guys] [V: want] [ARG1: me to take this back] ?",
+				"So you guys want [ARG0: me] to [V: take] [ARG1: this] [ARGM-GOL: back] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Are you nuts?!",
+			"coref_text": "Are [you:Pizza Guy] nuts?!",
+			"srls": [
+				"[V: Are] [ARG1: you] [ARG2: nuts] ? !"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "We've got George Stephanopoulos' pizza!",
+			"coref_text": "We've got [George Stephanopoulos':George Stephanopoulos] pizza!",
+			"srls": [
+				"We [V: 've] got George Stephanopoulos ' pizza !",
+				"[ARG0: We] 've [V: got] [ARG1: George Stephanopoulos ' pizza] !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Uh, Pheebs?",
+			"coref_text": "Uh, [Pheebs:Phoebe Buffay]?",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Who's George Snuffalopagus?",
+			"coref_text": "Who's [George Snuffalopagus:George Stephanopoulos]?",
+			"srls": [
+				"[ARG2: Who] [V: 's] [ARG1: George Snuffalopagus] ?"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Big Bird's friend.",
+			"coref_text": "Big Bird's [friend:George Stephanopoulos].",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "I see pizza!",
+			"coref_text": "[I:Monica Geller] see pizza!",
+			"srls": [
+				"[ARG0: I] [V: see] [ARG1: pizza] !"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Oh, I wanna see!",
+			"coref_text": "Oh, [I:Phoebe Buffay] wanna see!",
+			"srls": [
+				"Oh , I [V: wanna] see !",
+				"[ARGM-DIS: Oh] , [ARG0: I] [ARGM-MOD: wanna] [V: see] !"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Lem me see!",
+			"coref_text": "Lem [me:Phoebe Buffay] see!",
+			"srls": [
+				"[ARGM-DIS: Lem] [ARG0: me] [V: see] !"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Lem me see!",
+			"coref_text": "Lem [me:Phoebe Buffay] see!",
+			"srls": [
+				"[ARGM-DIS: Lem] [ARG0: me] [V: see] !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Hello?",
+			"coref_text": "Hello?",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Who are we spying on?",
+			"coref_text": "Who are we spying on?",
+			"srls": [
+				"Who [V: are] we spying on ?",
+				"Who are [ARG0: we] [V: spying] [ARG1: on] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "White House adviser?",
+			"coref_text": "White House [adviser:George Stephanopoulos]?",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Clinton's campaign guy?",
+			"coref_text": "[Clinton:Bill Clinton]'s campaign [guy:George Stephanopoulos]?",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "The one with the great hair, sexy smile, really cute butt?",
+			"coref_text": "The [one:George Stephanopoulos] with the great hair, sexy smile, really cute butt?",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Oh, him, the little guy?",
+			"coref_text": "Oh, [him:George Stephanopoulos], the little [guy:George Stephanopoulos]?",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Oh, I love him!",
+			"coref_text": "Oh, [I:Rachel Green] love [him:George Stephanopoulos]!",
+			"srls": [
+				"[ARGM-DIS: Oh] , [ARG0: I] [V: love] [ARG1: him] !"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Ooh, wait..",
+			"coref_text": "Ooh, wait..",
+			"srls": [
+				"[ARGM-DIS: Ooh] , [V: wait] .."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "wait, I see a woman.",
+			"coref_text": "wait, [I:Phoebe Buffay] see a [woman:Woman 1].",
+			"srls": [
+				"[V: wait] , [ARG1: I] see a woman .",
+				"wait , [ARG0: I] [V: see] [ARG1: a woman] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Please tell me it's his mother.",
+			"coref_text": "Please tell [me:Monica Geller] it's [his:George Stephanopoulos] [mother:Woman 1].",
+			"srls": [
+				"[ARGM-DIS: Please] [V: tell] [ARG2: me] [ARG1: it 's his mother] .",
+				"Please tell me [ARG1: it] [V: 's] [ARG2: his mother] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Definitely not his mother.",
+			"coref_text": "Definitely not [his:George Stephanopoulos] [mother:Woman 1].",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Oh, no.",
+			"coref_text": "Oh, no.",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "..",
+			"coref_text": "..",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Oh, wait, she's walking across the floor..",
+			"coref_text": "Oh, wait, [she:Woman 1]'s walking across the floor..",
+			"srls": [
+				"Oh , [V: wait] , she 's walking across the floor ..",
+				"Oh , wait , she [V: 's] walking across the floor ..",
+				"[ARGM-DIS: Oh] , [ARGM-DIS: wait] , [ARG0: she] 's [V: walking] [ARGM-DIR: across the floor] .."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "she's walking..",
+			"coref_text": "[she:Woman 1]'s walking..",
+			"srls": [
+				"she [V: 's] walking ..",
+				"[ARG0: she] 's [V: walking] .."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "she's walking..",
+			"coref_text": "[she:Woman 1]'s walking..",
+			"srls": [
+				"she [V: 's] walking ..",
+				"[ARG0: she] 's [V: walking] .."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "she's going for the pizza- Hey, that's not for you, bitch!",
+			"coref_text": "[she:Woman 1]'s going for the pizza- Hey, that's not for [you:Woman 1], [bitch:Woman 1]!",
+			"srls": [
+				"she [V: 's] going for the pizza- Hey , that 's not for you , bitch !",
+				"[ARG0: she] 's [V: going] [ARG1: for the pizza- Hey , that 's not for you] , [ARGM-DIS: bitch] !",
+				"she 's going for the pizza- [ARGM-DIS: Hey] , [ARG1: that] [V: 's] [ARGM-NEG: not] [ARG2: for you] , bitch !",
+				"she 's going for the pizza- Hey , that 's not for you , [V: bitch] !"
+			]
+		}
+	]
+}

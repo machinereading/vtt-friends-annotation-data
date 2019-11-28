@@ -1,0 +1,126 @@
+{
+    "scene_id": "friends-s01e01-06",
+    "sentences": [
+        {
+            "speaker": "Ross_Geller",
+            "text": "Grab a spoon.",
+            "coref_text": "Grab a spoon.",
+            "srls": [
+                "[V: Grab] [ARG1: a spoon] ."
+            ]
+        },
+        {
+            "speaker": "Ross_Geller",
+            "text": "Do you know how long it's been since I've grabbed a spoon?",
+            "coref_text": "Do [you:Joey Tribbiani] know how long it's been since [I:Ross Geller]'ve grabbed a spoon?",
+            "srls": [
+                "[V: Do] you know how long it 's been since I 've grabbed a spoon ?",
+                "Do [ARG0: you] [V: know] [ARG1: how long it 's been since I 've grabbed a spoon] ?",
+                "Do you know how long it [V: 's] been since I 've grabbed a spoon ?",
+                "Do you know [ARG2: how long] [ARG1: it] 's [V: been] [ARGM-TMP: since I 've grabbed a spoon] ?",
+                "Do you know how long it 's been since I [V: 've] grabbed a spoon ?",
+                "Do you know how long it 's been since [ARG0: I] 've [V: grabbed] [ARG1: a spoon] ?"
+            ]
+        },
+        {
+            "speaker": "Ross_Geller",
+            "text": "Do the words 'Billy, don't be a hero 'mean anything to you?",
+            "coref_text": "Do the words 'Billy, don't be a hero 'mean anything to [you:Joey Tribbiani]?",
+            "srls": [
+                "[V: Do] the words ' Billy , do n't be a hero ' mean anything to you ?",
+                "Do the words ' Billy , [V: do] n't be a hero ' mean anything to you ?",
+                "Do the words ' Billy , do [ARGM-NEG: n't] [V: be] [ARG2: a hero] ' mean anything to you ?",
+                "Do [ARG0: the words ' Billy , do n't be a hero '] [V: mean] [ARG1: anything] [ARG2: to you] ?"
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "Great story!",
+            "coref_text": "Great story!",
+            "srls": []
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "But, I uh, I gotta go, I got a date with Andrea-- Angela-- Andrea...",
+            "coref_text": "But, [I:Joey Tribbiani] uh, [I:Joey Tribbiani] gotta go, [I:Joey Tribbiani] got a date with [Andrea:Joey's date]-- [Angela:Joey's date]-- [Andrea:Joey's date]...",
+            "srls": [
+                "But , I uh , [ARG0: I] [V: got] [ARG1: ta go] , I got a date with Andrea-- Angela-- Andrea ...",
+                "But , I uh , [ARG0: I] got ta [V: go] , I got a date with Andrea-- Angela-- Andrea ...",
+                "But , I uh , I got ta go , [ARG0: I] [V: got] [ARG1: a date with Andrea-- Angela-- Andrea] ..."
+            ],
+            "frame": [
+                "But, I uh, I gotta go, [I: Agent] [got: Intentionally_act] [a date: Act] [with Andrea-- Angela-- Andrea: Event_description]..."
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "Oh man,",
+            "coref_text": "Oh man,",
+            "srls": []
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": "Angela's the screamer, Andrea has cats.",
+            "coref_text": "[Angela:Angela Delvecchio]'s the screamer, [Andrea:Andrea] has cats.",
+            "srls": [
+                "Angela 's the screamer , [ARG0: Andrea] [V: has] [ARG1: cats] ."
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "Right.",
+            "coref_text": "Right.",
+            "srls": []
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "Thanks.",
+            "coref_text": "Thanks.",
+            "srls": []
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "It's June.",
+            "coref_text": "It's June.",
+            "srls": [
+                "[ARG1: It] [V: 's] [ARG2: June] ."
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "I'm outta here.",
+            "coref_text": "[I:Joey Tribbiani]'m outta here.",
+            "srls": [
+                "[ARG1: I] [V: 'm] [ARG2: outta here] ."
+            ]
+        },
+        {
+            "speaker": "Ross_Geller",
+            "text": "Y'know, here's the thing.",
+            "coref_text": "Y'know, here's the thing.",
+            "srls": [
+                "[ARGM-DIS: Y'know] , [ARG1: here] [V: 's] [ARG2: the thing] ."
+            ]
+        },
+        {
+            "speaker": "Ross_Geller",
+            "text": "Even if I could get it together enough to- to ask a woman out,...",
+            "coref_text": "Even if [I:Ross Geller] could get it together enough to- to ask a woman out,...",
+            "srls": [
+                "Even if I [V: could] get it together enough to- to ask a woman out , ...",
+                "Even if [ARG0: I] [ARGM-MOD: could] [V: get] [ARG1: it] [ARG2: together enough to- to ask a woman out] , ...",
+                "Even if I could get it together enough to- to [V: ask] [ARG1: a woman] [ARGM-DIR: out] , ..."
+            ]
+        },
+        {
+            "speaker": "Ross_Geller",
+            "text": "who am I gonna ask?",
+            "coref_text": "who am [I:Ross Geller] gonna ask?",
+            "srls": [
+                "who [V: am] I gon na ask ?",
+                "who am I [V: gon] na ask ?",
+                "[ARG1: who] am [ARG0: I] gon na [V: ask] ?"
+            ]
+        }
+    ]
+}

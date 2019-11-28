@@ -1,0 +1,157 @@
+{
+	"scene_id": "friends-s01e03-09",
+	"sentences": [
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Do you have any respect for your body?",
+			"coref_text": "Do [you:Chandler Bing] have any respect for [your:Chandler Bing] body?",
+			"srls": [
+				"[V: Do] you have any respect for your body ?",
+				"Do [ARG0: you] [V: have] [ARG1: any respect for your body] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Don't you realise what you're- you're doing to yourself?",
+			"coref_text": "Don't [you:Chandler Bing] realise what [you:Chandler Bing]'re- [you:Chandler Bing]'re doing to [yourself:Chandler Bing]?",
+			"srls": [
+				"[V: Do] n't you realise what you're- you 're doing to yourself ?",
+				"Do [ARGM-NEG: n't] [ARG0: you] [V: realise] [ARG1: what you're- you 're doing to yourself] ?",
+				"Do n't you realise what you're- you [V: 're] doing to yourself ?",
+				"Do n't you realise [ARG1: what] [ARG0: you're- you] 're [V: doing] [ARG2: to yourself] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Hey, y'know, I have had it with you guys and your cancer and your emphysema and your heart disease.",
+			"coref_text": "Hey, y'know, [I:Chandler Bing] have had it with you guys and your cancer and your emphysema and your heart disease.",
+			"srls": [
+				"Hey , y'know , I [V: have] had it with you guys and your cancer and your emphysema and your heart disease .",
+				"[ARGM-DIS: Hey] , [ARGM-DIS: y'know] , [ARG0: I] have [V: had] [ARG1: it] [ARGM-ADV: with you guys and your cancer and your emphysema and your heart disease] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "The bottom line is, smoking is cool, and you know it.",
+			"coref_text": "The bottom line is, smoking is cool, and you know it.",
+			"srls": [
+				"[ARG1: The bottom line] [V: is] , [ARG2: smoking is cool , and you know it] .",
+				"The bottom line is , [ARG1: smoking] [V: is] [ARG2: cool] , and you know it .",
+				"The bottom line is , smoking is cool , and [ARG0: you] [V: know] [ARG1: it] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Chandler?",
+			"coref_text": "[Chandler:Chandler Bing]?",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "It's Alan, he wants to speak to you.",
+			"coref_text": "It's [Alan:Alan], [he:Alan] wants to speak to [you:Chandler Bing].",
+			"srls": [
+				"[ARG1: It] [V: 's] [ARG2: Alan , he wants to speak to you] .",
+				"It 's Alan , [ARG0: he] [V: wants] [ARG1: to speak to you] .",
+				"It 's Alan , [ARG0: he] wants to [V: speak] [ARG2: to you] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Really?",
+			"coref_text": "Really?",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "He does?",
+			"coref_text": "[He:Alan] does?",
+			"srls": [
+				"He [V: does] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Hey, buddy, what's up!",
+			"coref_text": "Hey, [buddy:Alan], what's up!",
+			"srls": [
+				"Hey , buddy , [ARG1: what] [V: 's] up !"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Oh, she told you about that, huh.",
+			"coref_text": "Oh, [she:Rachel Green] told [you:Alan] about that, huh.",
+			"srls": [
+				"[ARGM-DIS: Oh] , [ARG0: she] [V: told] [ARG2: you] [ARG1: about that] , [ARGM-DIS: huh] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Well, yeah, I have one now and then.",
+			"coref_text": "Well, yeah, [I:Chandler Bing] have one now and then.",
+			"srls": [
+				"[ARGM-DIS: Well] , [ARGM-DIS: yeah] , [ARG0: I] [V: have] [ARG1: one] [ARGM-TMP: now and then] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Well, yeah, now.",
+			"coref_text": "Well, yeah, now.",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Well, it's not that big-..",
+			"coref_text": "Well, it's not that big-..",
+			"srls": [
+				"[ARGM-DIS: Well] , [ARG1: it] [V: 's] [ARGM-NEG: not] [ARG2: that big-] .."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "well, that's true,..",
+			"coref_text": "well, that's true,..",
+			"srls": [
+				"[ARGM-DIS: well] , [ARG1: that] [V: 's] [ARG2: true] , .."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Gee, y'know, no- one- no- one's ever put it like that before.",
+			"coref_text": "Gee, y'know, no- one- no- one's ever put it like that before.",
+			"srls": [
+				"Gee , y'know , no- one- no- one [V: 's] ever put it like that before .",
+				"[ARGM-DIS: Gee] , [ARGM-DIS: y'know] , [ARG0: no- one- no- one] 's [ARGM-TMP: ever] [V: put] [ARG1: it] [ARGM-MNR: like that] [ARGM-TMP: before] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Well, okay, thanks!",
+			"coref_text": "Well, okay, thanks!",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "God, he's good.",
+			"coref_text": "God, [he:Chandler Bing]'s good.",
+			"srls": [
+				"[ARGM-DIS: God] , [ARG1: he] [V: 's] [ARG2: good] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "If only he were a woman.",
+			"coref_text": "If only [he:Chandler Bing] were a [woman:Chandler Bing].",
+			"srls": [
+				"[ARGM-ADV: If only] [ARG1: he] [V: were] [ARG2: a woman] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Yeah.",
+			"coref_text": "Yeah.",
+			"srls": []
+		}
+	]
+}

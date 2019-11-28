@@ -1,0 +1,409 @@
+{
+	"scene_id": "friends-s01e05-05",
+	"sentences": [
+		{
+			"speaker": "Woman",
+			"text": "Comin 'through.",
+			"coref_text": "Comin 'through.",
+			"srls": []
+		},
+		{
+			"speaker": "Woman",
+			"text": "Move, move.",
+			"coref_text": "Move, move.",
+			"srls": [
+				"[V: Move] , move .",
+				"Move , [V: move] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Oh, 'scuse me.",
+			"coref_text": "Oh, 'scuse [me:Rachel Green].",
+			"srls": [
+				"[ARGM-DIS: Oh] , ' [V: scuse] [ARG1: me] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I was kinda using that machine.",
+			"coref_text": "[I:Rachel Green] was kinda using that machine.",
+			"srls": [
+				"I [V: was] kinda using that machine .",
+				"[ARG0: I] was [ARGM-ADV: kinda] [V: using] [ARG1: that machine] ."
+			]
+		},
+		{
+			"speaker": "Woman",
+			"text": "Yeah, well, now you're kinda not.",
+			"coref_text": "Yeah, well, now [you:Rachel Green]'re kinda not.",
+			"srls": [
+				"Yeah , well , now [ARG1: you] [V: 're] kinda not ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "But I saved it.",
+			"coref_text": "But [I:Rachel Green] saved it.",
+			"srls": [
+				"[ARGM-DIS: But] [ARG0: I] [V: saved] [ARG1: it] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I put my basket on top.",
+			"coref_text": "[I:Rachel Green] put [my:Rachel Green] basket on top.",
+			"srls": [
+				"[ARG0: I] [V: put] [ARG1: my basket] [ARG2: on top] ."
+			]
+		},
+		{
+			"speaker": "Woman",
+			"text": "Oh, I'm sorry, is that your basket?",
+			"coref_text": "Oh, [I:Woman]'m sorry, is that [your:Rachel Green] basket?",
+			"srls": [
+				"[ARGM-DIS: Oh] , [ARG1: I] [V: 'm] [ARG2: sorry] , is that your basket ?",
+				"Oh , I 'm sorry , [V: is] [ARG1: that] [ARG2: your basket] ?"
+			]
+		},
+		{
+			"speaker": "Woman",
+			"text": "It's really pretty.",
+			"coref_text": "It's really pretty.",
+			"srls": [
+				"[ARG1: It] [V: 's] [ARG2: really pretty] ."
+			]
+		},
+		{
+			"speaker": "Woman",
+			"text": "Unfortunately, I don't see suds.",
+			"coref_text": "Unfortunately, [I:Woman] don't see suds.",
+			"srls": [
+				"Unfortunately , I [V: do] n't see suds .",
+				"[ARGM-ADV: Unfortunately] , [ARG0: I] do [ARGM-NEG: n't] [V: see] [ARG1: suds] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "What?",
+			"coref_text": "What?",
+			"srls": []
+		},
+		{
+			"speaker": "Woman",
+			"text": "No suds, no save.",
+			"coref_text": "No suds, no save.",
+			"srls": []
+		},
+		{
+			"speaker": "Woman",
+			"text": "Ok?",
+			"coref_text": "Ok?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "What's goin' on?",
+			"coref_text": "What's goin' on?",
+			"srls": [
+				"What [V: 's] goin' on ?",
+				"[ARG1: What] 's [V: goin'] on ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Hi, uh, nothing.",
+			"coref_text": "Hi, uh, nothing.",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "That horrible woman just took my machine.",
+			"coref_text": "That horrible [woman:Woman] just took [my:Rachel Green] machine.",
+			"srls": [
+				"[ARG0: That horrible woman] [ARGM-ADV: just] [V: took] [ARG1: my machine] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Was your basket on top?",
+			"coref_text": "Was [your:Rachel Green] basket on top?",
+			"srls": [
+				"[V: Was] [ARG1: your basket] [ARG2: on top] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Yeah, but, there were no suds.",
+			"coref_text": "Yeah, but, there were no suds.",
+			"srls": [
+				"[ARGM-DIS: Yeah] , [ARGM-DIS: but] , there [V: were] [ARG1: no suds] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "So?",
+			"coref_text": "So?",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Well, you know, no suds, no save.",
+			"coref_text": "Well, [you:Ross Geller] know, no suds, no save.",
+			"srls": [
+				"Well , [ARG0: you] [V: know] , no suds , no save ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "No suds?",
+			"coref_text": "No suds?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Excuse me, hold on a second.",
+			"coref_text": "Excuse [me:Ross Geller], hold on a second.",
+			"srls": [
+				"[V: Excuse] [ARG1: me] , hold on a second .",
+				"Excuse me , [V: hold] on [ARGM-TMP: a second] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "That's my friend's machine.",
+			"coref_text": "That's [my:Ross Geller] [friend:Rachel Green]'s machine.",
+			"srls": [
+				"[ARG1: That] [V: 's] [ARG2: my friend 's machine] ."
+			]
+		},
+		{
+			"speaker": "Woman",
+			"text": "Hey, hey, hey, her stuff wasn't in it.",
+			"coref_text": "Hey, hey, hey, [her:Rachel Green] stuff wasn't in it.",
+			"srls": [
+				"[ARGM-DIS: Hey] , [ARGM-DIS: hey] , [ARGM-DIS: hey] , [ARG1: her stuff] [V: was] [ARGM-NEG: n't] [ARG2: in it] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Hey, hey, hey, that's not the rule and you know it.",
+			"coref_text": "Hey, hey, hey, that's not the rule and [you:Woman] know it.",
+			"srls": [
+				"[ARGM-DIS: Hey] , [ARGM-DIS: hey] , [ARGM-DIS: hey] , [ARG1: that] [V: 's] [ARGM-NEG: not] [ARG2: the rule] and you know it .",
+				"Hey , hey , hey , that 's not the rule and [ARG0: you] [V: know] [ARG1: it] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "All right, show's over.",
+			"coref_text": "All right, show's over.",
+			"srls": [
+				"[ARGM-DIS: All right] , [ARG1: show] [V: 's] [ARG2: over] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Nothing to see here.",
+			"coref_text": "Nothing to see here.",
+			"srls": [
+				"[ARG1: Nothing] to [V: see] [ARGM-LOC: here] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Ok, let's do laundry.",
+			"coref_text": "Ok, let's do laundry.",
+			"srls": [
+				"[ARGM-DIS: Ok] , [V: let] [ARG1: 's do laundry] .",
+				"Ok , let [ARG0: 's] [V: do] [ARG1: laundry] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "That was amazing.",
+			"coref_text": "That was amazing.",
+			"srls": [
+				"[ARG1: That] [V: was] [ARG2: amazing] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I can't even send back soup.",
+			"coref_text": "[I:Rachel Green] can't even send back soup.",
+			"srls": [
+				"[ARG0: I] [ARGM-MOD: ca] [ARGM-NEG: n't] [ARGM-ADV: even] [V: send] [ARGM-DIR: back] [ARG1: soup] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Well, that's because you're such a sweet, gentle, uh...",
+			"coref_text": "Well, that's because [you:Rachel Green]'re such a sweet, gentle, uh...",
+			"srls": [
+				"[ARGM-DIS: Well] , [ARG1: that] [V: 's] [ARG2: because you 're such a sweet , gentle , uh] ...",
+				"Well , that 's because [ARG1: you] [V: 're] [ARG2: such a sweet , gentle] , [ARGM-DIS: uh] ..."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Do you, uh, do you...",
+			"coref_text": "Do [you:Rachel Green], uh, do [you:Rachel Green]...",
+			"srls": [
+				"[V: Do] you , uh , do you ...",
+				"Do you , uh , [V: do] you ..."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Oh, hey, uh you must need detergent.",
+			"coref_text": "Oh, hey, uh [you:Rachel Green] must need detergent.",
+			"srls": [
+				"Oh , hey , uh you [V: must] need detergent .",
+				"[ARGM-DIS: Oh] , [ARGM-DIS: hey] , [ARGM-DIS: uh] [ARG0: you] [ARGM-MOD: must] [V: need] [ARG1: detergent] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "What's that?",
+			"coref_text": "What's that?",
+			"srls": [
+				"[ARG2: What] [V: 's] [ARG1: that] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Uberveiss.",
+			"coref_text": "Uberveiss.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "It's new, it's German, it's extra-tough.",
+			"coref_text": "It's new, it's German, it's extra-tough.",
+			"srls": [
+				"[ARG1: It] [V: 's] [ARG2: new] , it 's German , it 's extra - tough .",
+				"It 's new , [ARG1: it] [V: 's] [ARG2: German] , it 's extra - tough .",
+				"It 's new , it 's German , [ARG1: it] [V: 's] [ARG2: extra - tough] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Rach, do you uh, are you gonna separate those?",
+			"coref_text": "[Rach:Rachel Green], do [you:Rachel Green] uh, are [you:Rachel Green] gonna separate those?",
+			"srls": [
+				"[V: Rach] , do you uh , are you gon na separate those ?",
+				"Rach , [V: do] you uh , are you gon na separate those ?",
+				"Rach , do you uh , [V: are] you gon na separate those ?",
+				"Rach , do you uh , are you [V: gon] na separate those ?",
+				"Rach , do you uh , are [ARG0: you] gon na [V: separate] [ARG1: those] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Oh god.",
+			"coref_text": "Oh god.",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Oh, am I being like a total laundry spaz?",
+			"coref_text": "Oh, am [I:Rachel Green] being like a total laundry spaz?",
+			"srls": [
+				"Oh , [V: am] I being like a total laundry spaz ?",
+				"[ARGM-DIS: Oh] , am [ARG1: I] [V: being] [ARG2: like a total laundry spaz] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I mean, am I supposed to use like one machine for shirts and another machine for pants?",
+			"coref_text": "[I:Rachel Green] mean, am [I:Rachel Green] supposed to use like one machine for shirts and another machine for pants?",
+			"srls": [
+				"[ARG0: I] [V: mean] , am I supposed to use like one machine for shirts and another machine for pants ?",
+				"I mean , [V: am] I supposed to use like one machine for shirts and another machine for pants ?",
+				"I mean , am [ARG1: I] [V: supposed] [ARG2: to use like one machine for shirts and another machine for pants] ?",
+				"I mean , am [ARG0: I] supposed to [V: use] [ARGM-DIS: like] [ARG1: one machine for shirts and another machine for pants] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Rach, have you never done this before?",
+			"coref_text": "[Rach:Rachel Green], have [you:Rachel Green] never done this before?",
+			"srls": [
+				"Rach , [V: have] you never done this before ?",
+				"[ARGM-DIS: Rach] , have [ARG0: you] [ARGM-NEG: never] [V: done] [ARG1: this] [ARGM-TMP: before] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Well, not myself, but I know other people that have.",
+			"coref_text": "Well, not [myself:Rachel Green], but [I:Rachel Green] know other people that have.",
+			"srls": [
+				"Well , not myself , but [ARG0: I] [V: know] [ARG1: other people that have] .",
+				"Well , not myself , but I know other people that [V: have] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Ok, you caught me.",
+			"coref_text": "Ok, [you:Ross Geller] caught [me:Rachel Green].",
+			"srls": [
+				"[ARGM-DIS: Ok] , [ARG0: you] [V: caught] [ARG1: me] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I'm a laundry virgin.",
+			"coref_text": "[I:Rachel Green]'m a laundry virgin.",
+			"srls": [
+				"[ARG1: I] [V: 'm] [ARG2: a laundry virgin] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Uh, well, don't worry, I'll use the gentle cycle.",
+			"coref_text": "Uh, well, don't worry, [I:Ross Geller]'ll use the gentle cycle.",
+			"srls": [
+				"Uh , well , [V: do] n't worry , I 'll use the gentle cycle .",
+				"Uh , well , do [ARGM-NEG: n't] [V: worry] , I 'll use the gentle cycle .",
+				"Uh , well , do n't worry , [ARG0: I] [ARGM-MOD: 'll] [V: use] [ARG1: the gentle cycle] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Ok, um, basically you wanna use one machine for all your whites, a whole nother machine for colors, and a third for your uh, your uh, delicates, and that would be your bras and your under-panty things.",
+			"coref_text": "Ok, um, basically [you:Rachel Green] wanna use one machine for all [your:Rachel Green] whites, a whole nother machine for colors, and a third for [your:Rachel Green] uh, [your:Rachel Green] uh, delicates, and that would be [your:Rachel Green] bras and [your:Rachel Green] under-panty things.",
+			"srls": [
+				"Ok , um , basically [ARG0: you] [V: wanna] [ARG1: use one machine for all your whites , a whole nother machine for colors , and a third for your uh , your uh , delicates] , and that would be your bras and your under - panty things .",
+				"Ok , [ARGM-DIS: um] , [ARGM-ADV: basically] [ARG0: you] [ARGM-MOD: wanna] [V: use] [ARG1: one machine] [ARG2: for all your whites , a whole nother machine for colors , and a third for your uh , your uh , delicates] , and that would be your bras and your under - panty things .",
+				"Ok , um , basically you wanna use one machine for all your whites , a whole nother machine for colors , and a third for your uh , your uh , delicates , and [ARG1: that] [V: would] [ARG2: be your bras and your under - panty things] .",
+				"Ok , um , basically you wanna use one machine for all your whites , a whole nother machine for colors , and a third for your uh , your uh , delicates , and [ARG1: that] [ARGM-MOD: would] [V: be] [ARG2: your bras and your under - panty things] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Ok, Well, what about these are white cotton panties.",
+			"coref_text": "Ok, Well, what about these are white cotton panties.",
+			"srls": [
+				"Ok , Well , what about [ARG1: these] [V: are] [ARG2: white cotton panties] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Would they go with whites or delicates?",
+			"coref_text": "Would they go with whites or delicates?",
+			"srls": [
+				"[V: Would] they go with whites or delicates ?",
+				"[ARGM-MOD: Would] [ARG0: they] [V: go] [ARGM-MNR: with whites or delicates] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Uh, that, that, that would be a judgment call.",
+			"coref_text": "Uh, that, that, that would be a judgment call.",
+			"srls": [
+				"Uh , that , that , that [V: would] be a judgment call .",
+				"[ARGM-DIS: Uh] , [ARGM-DIS: that] , [ARGM-DIS: that] , [C-ARG1: that] [ARGM-MOD: would] [V: be] [ARG2: a judgment call] ."
+			]
+		}
+	]
+}

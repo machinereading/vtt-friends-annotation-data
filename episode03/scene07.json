@@ -1,0 +1,277 @@
+{
+	"scene_id": "friends-s01e03-07",
+	"sentences": [
+		{
+			"speaker": "Ross_Geller",
+			"text": "A thumb?!",
+			"coref_text": "A thumb?!",
+			"srls": []
+		},
+		{
+			"speaker": "All",
+			"text": "Eww!",
+			"coref_text": "Eww!",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "I know!",
+			"coref_text": "[I:Phoebe Buffay] know!",
+			"srls": [
+				"[ARG0: I] [V: know] !"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "I know, I opened it up and there it was, just floating in there, like this tiny little hitch- hiker!",
+			"coref_text": "[I:Phoebe Buffay] know, [I:Phoebe Buffay] opened it up and there it was, just floating in there, like this tiny little hitch- hiker!",
+			"srls": [
+				"[ARG0: I] [V: know] , [ARG1: I opened it up and there it was , just floating in there , like this tiny little hitch- hiker] !",
+				"I know , [ARG0: I] [V: opened] [ARG1: it] up and there it was , just floating in there , like this tiny little hitch- hiker !",
+				"I know , I opened it up and [ARG2: there] [ARG1: it] [V: was] , just floating in there , like this tiny little hitch- hiker !",
+				"I know , [ARG1: I] opened it up and there it was , [ARGM-ADV: just] [V: floating] [ARGM-LOC: in there] , [ARGM-MNR: like this tiny little hitch- hiker] !"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Well, maybe it's a contest, y'know?",
+			"coref_text": "Well, maybe it's a contest, y'know?",
+			"srls": [
+				"[ARGM-DIS: Well] , [ARGM-ADV: maybe] [ARG1: it] [V: 's] [ARG2: a contest] , y'know ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Like, collect all five?",
+			"coref_text": "Like, collect all five?",
+			"srls": [
+				"[ARGM-DIS: Like] , [V: collect] [ARG1: all five] ?"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Does, um, anyone wanna see?",
+			"coref_text": "Does, um, anyone wanna see?",
+			"srls": [
+				"[V: Does] , um , anyone wanna see ?",
+				"Does , [ARGM-DIS: um] , [ARG0: anyone] [ARGM-MOD: wanna] [V: see] ?"
+			]
+		},
+		{
+			"speaker": "All",
+			"text": "Nooo!",
+			"coref_text": "Nooo!",
+			"srls": []
+		},
+		{
+			"speaker": "All",
+			"text": "Oh, hey, don't do that!",
+			"coref_text": "Oh, hey, don't do that!",
+			"srls": [
+				"Oh , hey , [V: do] n't do that !",
+				"[ARGM-DIS: Oh] , [ARGM-DIS: hey] , do [ARGM-NEG: n't] [V: do] [ARG1: that] !"
+			]
+		},
+		{
+			"speaker": "All",
+			"text": "Cut it out!",
+			"coref_text": "Cut it out!",
+			"srls": [
+				"[V: Cut] [ARG1: it] [ARGM-DIR: out] !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "It's worse than the thumb!",
+			"coref_text": "It's worse than the thumb!",
+			"srls": [
+				"[ARG1: It] [V: 's] [ARG2: worse than the thumb] !"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Hey, this is so unfair!",
+			"coref_text": "Hey, this is so unfair!",
+			"srls": [
+				"[ARGM-DIS: Hey] , [ARG1: this] [V: is] [ARG2: so unfair] !"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Oh, why is it unfair?",
+			"coref_text": "Oh, why is it unfair?",
+			"srls": [
+				"Oh , [ARGM-CAU: why] [V: is] [ARG1: it] [ARG2: unfair] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "So I have a flaw!",
+			"coref_text": "So [I:Chandler Bing] have a flaw!",
+			"srls": [
+				"[ARGM-DIS: So] [ARG0: I] [V: have] [ARG1: a flaw] !"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Big deal!",
+			"coref_text": "Big deal!",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Like Joey's constant knuckle- cracking isn't annoying?",
+			"coref_text": "Like [Joey:Joey Tribbiani]'s constant knuckle- cracking isn't annoying?",
+			"srls": [
+				"[ARGM-DIS: Like] [ARG1: Joey 's constant knuckle- cracking] [V: is] [ARGM-NEG: n't] [ARG2: annoying] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "And Ross, with his over-pronouncing every single word?",
+			"coref_text": "And [Ross:Ross Geller], with [his:Ross Geller] over-pronouncing every single word?",
+			"srls": [
+				"And Ross , with his [ARGM-ADV: over] - [V: pronouncing] [ARG1: every single word] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "And Monica, with that snort when she laughs?",
+			"coref_text": "And [Monica:Monica Geller], with that snort when [she:Monica Geller] laughs?",
+			"srls": [
+				"And Monica , with that snort [ARGM-TMP: when] [ARG0: she] [V: laughs] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "I mean, what the hell is that thing?",
+			"coref_text": "[I:Chandler Bing] mean, what the hell is that thing?",
+			"srls": [
+				"[ARG0: I] [V: mean] , what the hell is that thing ?",
+				"I mean , [ARG2: what the hell] [V: is] [ARG1: that thing] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "...",
+			"coref_text": "...",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "I accept all those flaws, why can't you accept me for this?",
+			"coref_text": "[I:Chandler Bing] accept all those flaws, why can't you accept [me:Chandler Bing] for this?",
+			"srls": [
+				"[ARG0: I] [V: accept] [ARG1: all those flaws] , why ca n't you accept me for this ?",
+				"I accept all those flaws , [ARGM-CAU: why] [ARGM-MOD: ca] [ARGM-NEG: n't] [ARG0: you] [V: accept] [ARG1: me] [ARG3: for this] ?"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "...",
+			"coref_text": "...",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Does the knuckle- cracking bother everybody?",
+			"coref_text": "Does the knuckle- cracking bother everybody?",
+			"srls": [
+				"[V: Does] the knuckle- cracking bother everybody ?",
+				"Does the [ARG1: knuckle-] [V: cracking] bother everybody ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Well, I- I could live without it.",
+			"coref_text": "Well, [I:Rachel Green]- [I:Rachel Green] could live without it.",
+			"srls": [
+				"Well , I- I [V: could] live without it .",
+				"[ARGM-DIS: Well] , I- [ARG0: I] [ARGM-MOD: could] [V: live] [ARGM-MNR: without it] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Well, is it, like, a little annoying, or is it like when Phoebe chews her hair?",
+			"coref_text": "Well, is it, like, a little annoying, or is it like when [Phoebe:Phoebe Buffay] chews [her:Phoebe Buffay] hair?",
+			"srls": [
+				"[ARGM-DIS: Well] , [V: is] [ARG1: it] , [ARGM-DIS: like] , [ARG2: a little annoying] , or is it like when Phoebe chews her hair ?",
+				"Well , is it , like , a little annoying , or [V: is] [ARG1: it] [ARG2: like when Phoebe chews her hair] ?",
+				"Well , is it , like , a little annoying , or is it like [ARGM-TMP: when] [ARG0: Phoebe] [V: chews] [ARG1: her hair] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Oh, now, don't listen to him, Pheebs, I think it's endearing.",
+			"coref_text": "Oh, now, don't listen to [him:Joey Tribbiani], [Pheebs:Phoebe Buffay], [I:Ross Geller] think it's endearing.",
+			"srls": [
+				"Oh , now , [V: do] n't listen to him , Pheebs , I think it 's endearing .",
+				"Oh , now , do [ARGM-NEG: n't] [V: listen] [ARG1: to him] , [ARGM-DIS: Pheebs] , I think it 's endearing .",
+				"Oh , now , do n't listen to him , Pheebs , [ARG0: I] [V: think] [ARG1: it 's endearing] .",
+				"Oh , now , do n't listen to him , Pheebs , I think [ARG1: it] [V: 's] [ARG2: endearing] .",
+				"Oh , now , do n't listen to him , Pheebs , I think [ARG0: it] 's [V: endearing] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Oh, \"you do, do you\"?",
+			"coref_text": "Oh, \"[you:Ross Geller] do, do [you:Ross Geller]\"?",
+			"srls": [
+				"Oh , \" you [V: do] , do you \" ?",
+				"Oh , \" you do , [V: do] you \" ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "You know, there's nothing wrong with speaking correctly.",
+			"coref_text": "[You:Joey Tribbiani] know, there's nothing wrong with speaking correctly.",
+			"srls": [
+				"[ARG0: You] [V: know] , there 's nothing wrong with speaking correctly .",
+				"You know , there [V: 's] [ARG1: nothing wrong with speaking correctly] .",
+				"You know , there 's nothing wrong with [V: speaking] [ARGM-MNR: correctly] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": " \"Indeed there isn't\"...",
+			"coref_text": " \"Indeed there isn't\"...",
+			"srls": [
+				"\" [ARGM-ADV: Indeed] there [V: is] [ARGM-NEG: n't] \" ..."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I should really get back to work.",
+			"coref_text": "[I:Rachel Green] should really get back to work.",
+			"srls": [
+				"I [V: should] really get back to work .",
+				"[ARG1: I] [ARGM-MOD: should] [ARGM-ADV: really] [V: get] [ARG2: back to work] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Yeah,'cause otherwise someone might get what they actually ordered.",
+			"coref_text": "Yeah,'cause otherwise someone might get what they actually ordered.",
+			"srls": [
+				"Yeah,'cause otherwise someone [V: might] get what they actually ordered .",
+				"[ARGM-DIS: Yeah,'cause] [ARGM-ADV: otherwise] [ARG0: someone] [ARGM-MOD: might] [V: get] [ARG1: what they actually ordered] .",
+				"Yeah,'cause otherwise someone might get [ARG1: what] [ARG0: they] [ARGM-ADV: actually] [V: ordered] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Ohh- ho- hooohhh.",
+			"coref_text": "Ohh- ho- hooohhh.",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "The hair comes out, and the gloves come on.",
+			"coref_text": "The hair comes out, and the gloves come on.",
+			"srls": [
+				"[ARG1: The hair] [V: comes] [ARGM-DIR: out] , and the gloves come on .",
+				"The hair comes out , and [ARG1: the gloves] [V: come] on ."
+			]
+		}
+	]
+}

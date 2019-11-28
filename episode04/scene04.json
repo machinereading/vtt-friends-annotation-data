@@ -1,0 +1,307 @@
+{
+	"scene_id": "friends-s01e04-04",
+	"sentences": [
+		{
+			"speaker": "Monica_Geller",
+			"text": "You should feel great about yourself!",
+			"coref_text": "[You:Rachel Green] should feel great about [yourself:Rachel Green]!",
+			"srls": [
+				"You [V: should] feel great about yourself !",
+				"[ARG0: You] [ARGM-MOD: should] [V: feel] [ARG1: great about yourself] !"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "You're doing this amazing independence thing!",
+			"coref_text": "[You:Rachel Green]'re doing this amazing independence thing!",
+			"srls": [
+				"You [V: 're] doing this amazing independence thing !",
+				"[ARG0: You] 're [V: doing] [ARG1: this amazing independence thing] !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Monica, what is so amazing?",
+			"coref_text": "[Monica:Monica Geller], what is so amazing?",
+			"srls": [
+				"[ARGM-DIS: Monica] , [ARG1: what] [V: is] [ARG2: so amazing] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I gave up, like, everything.",
+			"coref_text": "[I:Rachel Green] gave up, like, everything.",
+			"srls": [
+				"[ARG0: I] [V: gave] up , [ARGM-DIS: like] , [ARG1: everything] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "And for what?",
+			"coref_text": "And for what?",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "You are just like Jack.",
+			"coref_text": "[You:Rachel Green] are just like [Jack:Jack 1].",
+			"srls": [
+				"[ARG1: You] [V: are] [ARG2: just like Jack] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "...",
+			"coref_text": "...",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Jack from downstairs?",
+			"coref_text": "[Jack:Jack 2] from downstairs?",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "No, Jack and the Beanstalk.",
+			"coref_text": "No, [Jack:Jack 1] and the Beanstalk.",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Ah, the other Jack.",
+			"coref_text": "Ah, the other [Jack:Jack 1].",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Yeah, right!",
+			"coref_text": "Yeah, right!",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "See, he gave up something, but then he got those magic beans.",
+			"coref_text": "See, [he:Jack 1] gave up something, but then [he:Jack 1] got those magic beans.",
+			"srls": [
+				"[V: See] , he gave up something , but then he got those magic beans .",
+				"See , [ARG0: he] [V: gave] up [ARG1: something] , but then he got those magic beans .",
+				"See , he gave up something , but [ARGM-TMP: then] [ARG0: he] [V: got] [ARG1: those magic beans] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "And then he woke up, and there was this, this big plant outside his window, full of possibilities and stuff..",
+			"coref_text": "And then [he:Jack 1] woke up, and there was this, this big plant outside [his:Jack 1] window, full of possibilities and stuff..",
+			"srls": [
+				"[ARGM-DIS: And] [ARGM-TMP: then] [ARG1: he] [V: woke] up , and there was this , this big plant outside his window , full of possibilities and stuff ..",
+				"And then he woke up , and there [V: was] [ARG1: this , this big plant outside his window , full of possibilities and stuff] .."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "And he lived in a village, and you live in the Village..",
+			"coref_text": "And [he:Jack 1] lived in a village, and [you:Rachel Green] live in the Village..",
+			"srls": [
+				"[ARGM-DIS: And] [ARG0: he] [V: lived] [ARGM-LOC: in a village] , and you live in the Village ..",
+				"And he lived in a village , and [ARG0: you] [V: live] [ARGM-LOC: in the Village] .."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Okay, but Pheebs, Pheebs, Jack gave up a cow, I gave up an orthodontist.",
+			"coref_text": "Okay, but [Pheebs:Phoebe Buffay], [Pheebs:Phoebe Buffay], [Jack:Jack 1] gave up a cow, [I:Rachel Green] gave up an orthodontist.",
+			"srls": [
+				"Okay , but Pheebs , Pheebs , [ARG0: Jack] [V: gave] up [ARG1: a cow] , I gave up an orthodontist .",
+				"Okay , but Pheebs , Pheebs , Jack gave up a cow , [ARG0: I] [V: gave] up [ARG1: an orthodontist] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Okay, I-I-I know, I know I didn't love him-",
+			"coref_text": "Okay, I-I-I know, [I:Rachel Green] know [I:Rachel Green] didn't love [him:Man 1]-",
+			"srls": [
+				"Okay , I - I - [ARG0: I] [V: know] , I know I did n't love him-",
+				"[ARGM-DIS: Okay] , I - I - I know , [ARG0: I] [V: know] [ARG1: I did n't love him-]",
+				"Okay , I - I - I know , I know I [V: did] n't love him-",
+				"Okay , I - I - I know , I know [ARG0: I] did [ARGM-NEG: n't] [V: love] [ARG1: him-]"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Oh, see, Jack did love the cow.",
+			"coref_text": "Oh, see, [Jack:Jack 1] did love the cow.",
+			"srls": [
+				"Oh , [V: see] , Jack did love the cow .",
+				"Oh , see , Jack [V: did] love the cow .",
+				"[ARGM-DIS: Oh] , [ARGM-DIS: see] , [ARG0: Jack] did [V: love] [ARG1: the cow] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "But see, it was a plan.",
+			"coref_text": "But see, it was a plan.",
+			"srls": [
+				"But [V: see] , it was a plan .",
+				"[ARGM-DIS: But] [ARGM-DIS: see] , [ARG1: it] [V: was] [ARG2: a plan] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Y'know, it was clear.",
+			"coref_text": "Y'know, it was clear.",
+			"srls": [
+				"[ARGM-DIS: Y'know] , [ARG1: it] [V: was] [ARG2: clear] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "It was figured out, and now everything's just kinda like...",
+			"coref_text": "It was figured out, and now everything's just kinda like...",
+			"srls": [
+				"It [V: was] figured out , and now everything 's just kinda like ...",
+				"[ARG1: It] was [V: figured] out , and now everything 's just kinda like ...",
+				"It was figured out , and [ARGM-TMP: now] [ARG1: everything] [V: 's] [ARGM-ADV: just] kinda like ..."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Floopy?",
+			"coref_text": "Floopy?",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Yeah.",
+			"coref_text": "Yeah.",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "So what, you're not the only one.",
+			"coref_text": "So what, [you:Rachel Green]'re not the only one.",
+			"srls": [
+				"[ARGM-DIS: So] [ARGM-DIS: what] , [ARG1: you] [V: 're] [ARGM-NEG: not] [ARG2: the only one] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "I mean, half the time we don't know where we're going.",
+			"coref_text": "[I:Monica Geller] mean, half the time we don't know where we're going.",
+			"srls": [
+				"[ARG0: I] [V: mean] , half the time we do n't know where we 're going .",
+				"I mean , half the time we [V: do] n't know where we 're going .",
+				"I mean , [ARGM-TMP: half the time] [ARG0: we] do [ARGM-NEG: n't] [V: know] [ARG1: where we 're going] .",
+				"I mean , half the time we do n't know where we [V: 're] going .",
+				"I mean , half the time we do n't know [ARG4: where] [ARG0: we] 're [V: going] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "You've just gotta figure at some point it's all gonna come together, and it's just gonna be...",
+			"coref_text": "[You:Rachel Green]'ve just gotta figure at some point it's all gonna come together, and it's just gonna be...",
+			"srls": [
+				"You [V: 've] just got ta figure at some point it 's all gon na come together , and it 's just gon na be ...",
+				"[ARG0: You] 've [ARGM-ADV: just] [V: got] [ARG1: ta figure at some point it 's all gon na come together , and it 's just gon na be] ...",
+				"[ARG0: You] 've just got ta [V: figure] [ARG1: at some point it 's all gon na come together , and it 's just gon na be] ...",
+				"You 've just got ta figure at some point it [V: 's] all gon na come together , and it 's just gon na be ...",
+				"You 've just got ta figure at some point it 's all [V: gon] na come together , and it 's just gon na be ...",
+				"You 've just got ta figure at some point [ARG1: it] 's all gon na [V: come] [ARG2: together] , and it 's just gon na be ...",
+				"You 've just got ta figure at some point it 's all gon na come together , and it [V: 's] just gon na be ...",
+				"You 've just got ta figure at some point it 's all gon na come together , and it 's just [V: gon] na be ...",
+				"You 've just got ta figure at some point it 's all gon na come together , and [ARG1: it] 's just gon na [V: be] ..."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "un-floopy.",
+			"coref_text": "un-floopy.",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Oh, like that's a word.",
+			"coref_text": "Oh, like that's a word.",
+			"srls": [
+				"[ARGM-DIS: Oh] , [ARGM-DIS: like] [ARG1: that] [V: 's] [ARG2: a word] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Okay, but Monica, what if- what if it doesn't come together?",
+			"coref_text": "Okay, but [Monica:Monica Geller], what if- what if it doesn't come together?",
+			"srls": [
+				"Okay , but Monica , [ARG2: what] [V: if-] [ARG1: what if it does n't come together] ?",
+				"Okay , but Monica , what if- what if it [V: does] n't come together ?",
+				"Okay , but Monica , what if- what if [ARG1: it] does [ARGM-NEG: n't] [V: come] [ARG2: together] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "...",
+			"coref_text": "...",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Pheebs?",
+			"coref_text": "Pheebs?",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Oh, well...",
+			"coref_text": "Oh, well...",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": " 'cause....",
+			"coref_text": " 'cause....",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "you just...",
+			"coref_text": "[you:Rachel Green] just...",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "I don't like this question.",
+			"coref_text": "[I:Phoebe Buffay] don't like this question.",
+			"srls": [
+				"I [V: do] n't like this question .",
+				"[ARG0: I] do [ARGM-NEG: n't] [V: like] [ARG1: this question] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Okay, see, see, you guys, what if we don't get magic beans?",
+			"coref_text": "Okay, see, see, you guys, what if we don't get magic beans?",
+			"srls": [
+				"[ARGM-DIS: Okay] , [V: see] , see , you guys , what if we do n't get magic beans ?",
+				"[ARGM-DIS: Okay] , [ARGM-DIS: see] , [V: see] , [ARGM-DIS: you guys] , [ARG1: what if we do n't get magic beans] ?",
+				"Okay , see , see , you guys , what if we [V: do] n't get magic beans ?",
+				"Okay , see , see , you guys , what if [ARG0: we] do [ARGM-NEG: n't] [V: get] [ARG1: magic beans] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I mean, what if all we've got are..",
+			"coref_text": "[I:Rachel Green] mean, what if all we've got are..",
+			"srls": [
+				"[ARG0: I] [V: mean] , what if all we 've got are ..",
+				"I mean , what if all we [V: 've] got are ..",
+				"I mean , what if [ARG1: all] [ARG0: we] 've [V: got] are ..",
+				"I mean , what if [ARG1: all we 've got] [V: are] .."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "beans?",
+			"coref_text": "beans?",
+			"srls": []
+		}
+	]
+}

@@ -1,0 +1,194 @@
+{
+	"scene_id": "friends-s01e03-05",
+	"sentences": [
+		{
+			"speaker": "Monica_Geller",
+			"text": "Hi..",
+			"coref_text": "Hi..",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "how was the game?",
+			"coref_text": "how was the game?",
+			"srls": [
+				"[ARG2: how] [V: was] [ARG1: the game] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Well..",
+			"coref_text": "Well..",
+			"srls": []
+		},
+		{
+			"speaker": "All",
+			"text": "WE WON!!",
+			"coref_text": "WE WON!!",
+			"srls": [
+				"[ARG0: WE] [V: WON] ! !"
+			]
+		},
+		{
+			"speaker": "All",
+			"text": "Thank you!",
+			"coref_text": "Thank [you:Monica Geller]!",
+			"srls": [
+				"[V: Thank] [ARG1: you] !"
+			]
+		},
+		{
+			"speaker": "All",
+			"text": "Yes!",
+			"coref_text": "Yes!",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Fantastic!",
+			"coref_text": "Fantastic!",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "I have one question: How is that possible?",
+			"coref_text": "[I:Monica Geller] have one question: How is that possible?",
+			"srls": [
+				"[ARG0: I] [V: have] [ARG1: one question : How is that possible] ?",
+				"I have one question : [ARGM-MNR: How] [V: is] [ARG1: that] [ARG2: possible] ?"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Alan.",
+			"coref_text": "[Alan:Alan].",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "He was unbelievable.",
+			"coref_text": "[He:Alan] was unbelievable.",
+			"srls": [
+				"[ARG1: He] [V: was] [ARG2: unbelievable] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "He was like that- that- that Bugs Bunny cartoon where Bugs is playing all the positions, right, but instead of Bugs it was first base- Alan, second base- Alan, third base-...",
+			"coref_text": "[He:Alan] was like that- that- that Bugs Bunny cartoon where Bugs is playing all the positions, right, but instead of Bugs it was first base- [Alan:Alan], second base- [Alan:Alan], third base-...",
+			"srls": [
+				"[ARG0: He] [V: was] [ARG2: like that-] [ARG1: that- that Bugs Bunny cartoon where Bugs is playing all the positions , right , but instead of Bugs it was first base- Alan , second base- Alan , third base-] ...",
+				"He was like that- that- that [V: Bugs] [ARG1: Bunny cartoon] where Bugs is playing all the positions , right , but instead of Bugs it was first base- Alan , second base- Alan , third base- ...",
+				"He was like that- that- that Bugs Bunny cartoon where Bugs [V: is] playing all the positions , right , but instead of Bugs it was first base- Alan , second base- Alan , third base- ...",
+				"He was like that- that- [ARGM-LOC: that Bugs Bunny cartoon] [R-ARGM-LOC: where] [ARG0: Bugs] is [V: playing] [ARG1: all the positions] , right , but instead of Bugs it was first base- Alan , second base- Alan , third base- ...",
+				"He was like that- that- that Bugs Bunny cartoon where Bugs is playing all the positions , right , but [ARGM-ADV: instead of Bugs] [ARG1: it] [V: was] [ARG2: first base- Alan , second base- Alan , third base-] ..."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I mean, it- it was like, it was like he made us into a team.",
+			"coref_text": "[I:Rachel Green] mean, it- it was like, it was like [he:Alan] made us into a team.",
+			"srls": [
+				"[ARG0: I] [V: mean] , it- it was like , it was like he made us into a team .",
+				"I mean , [V: it-] it was like , it was like he made us into a team .",
+				"I mean , [ARGM-DIS: it-] [ARG1: it] [V: was] [ARGM-DIS: like] , [ARG2: it was like he made us into a team] .",
+				"I mean , it- it was like , [ARG1: it] [V: was] [ARG2: like he made us into a team] .",
+				"I mean , it- it was like , it was like [ARG0: he] [V: made] [ARGM-GOL: us] [ARG1: into a team] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Yep, we sure showed those Hassidic jewellers a thing or two about softball..",
+			"coref_text": "Yep, we sure showed those Hassidic jewellers a thing or two about softball..",
+			"srls": [
+				"[ARGM-DIS: Yep] , [ARG0: we] [ARGM-ADV: sure] [V: showed] [ARG2: those Hassidic jewellers] [ARG1: a thing or two about softball] .."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Can I ask you guys a question?",
+			"coref_text": "Can [I:Monica Geller] ask you guys a question?",
+			"srls": [
+				"[V: Can] I ask you guys a question ?",
+				"[ARGM-MOD: Can] [ARG0: I] [V: ask] [ARG2: you guys] [ARG1: a question] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "D'you ever think that Alan is maybe..",
+			"coref_text": "D'you ever think that [Alan:Alan] is maybe..",
+			"srls": [
+				"[ARG0: D'you] [ARGM-TMP: ever] [V: think] [ARG1: that Alan is maybe] ..",
+				"D'you ever think that [ARG1: Alan] [V: is] [ARGM-ADV: maybe] .."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "sometimes..",
+			"coref_text": "sometimes..",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "What?",
+			"coref_text": "What?",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "..",
+			"coref_text": "..",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "I du n no, a little too Alan?",
+			"coref_text": "[I:Monica Geller] du n no, a little too [Alan:Alan]?",
+			"srls": [
+				"[ARG1: I] [V: du] n [ARGM-DIS: no] , [ARG2: a little too Alan] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Well, no.",
+			"coref_text": "Well, no.",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "That's impossible.",
+			"coref_text": "That's impossible.",
+			"srls": [
+				"[ARG1: That] [V: 's] [ARG2: impossible] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "You can never be too Alan.",
+			"coref_text": "You can never be too [Alan:Alan].",
+			"srls": [
+				"You can never be too Alan .",
+				"[ARG1: You] [ARGM-MOD: can] [ARGM-NEG: never] [V: be] [ARG2: too Alan] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Yeah, it's his, uh, innate Alan- ness that- that- that we adore.",
+			"coref_text": "Yeah, it's [his:Alan], uh, innate [Alan:Alan]- ness that- that- that we adore.",
+			"srls": [
+				"[ARGM-DIS: Yeah] , [ARG1: it] [V: 's] [ARG2: his , uh , innate Alan- ness that- that- that we adore] .",
+				"Yeah , it 's his , uh , [V: innate] [ARGM-LOC: Alan-] [ARG1: ness] that- that- that we adore .",
+				"Yeah , it 's [ARG1: his , uh , innate Alan- ness that- that-] [R-ARG1: that] [ARG0: we] [V: adore] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "I personally could have a gallon of Alan.",
+			"coref_text": "[I:Chandler Bing] personally could have a gallon of [Alan:Alan].",
+			"srls": [
+				"I personally [V: could] have a gallon of Alan .",
+				"[ARG0: I] [ARGM-ADV: personally] [ARGM-MOD: could] [V: have] [ARG1: a gallon of Alan] ."
+			]
+		}
+	]
+}

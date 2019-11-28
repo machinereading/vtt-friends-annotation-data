@@ -1,0 +1,338 @@
+{
+	"scene_id": "friends-s01e02-06",
+	"sentences": [
+		{
+			"speaker": "Barry",
+			"text": "Sorry about that.",
+			"coref_text": "Sorry about that.",
+			"srls": []
+		},
+		{
+			"speaker": "Barry",
+			"text": "So.",
+			"coref_text": "So.",
+			"srls": []
+		},
+		{
+			"speaker": "Barry",
+			"text": "What have you been up to?",
+			"coref_text": "What have [you:Rachel Green] been up to?",
+			"srls": [
+				"What [V: have] you been up to ?",
+				"What have [ARG1: you] [V: been] [ARG2: up to] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Oh, not much.",
+			"coref_text": "Oh, not much.",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I- I got a job.",
+			"coref_text": "[I:Rachel Green]- [I:Rachel Green] got a job.",
+			"srls": [
+				"I- [ARG0: I] [V: got] [ARG1: a job] ."
+			]
+		},
+		{
+			"speaker": "Barry",
+			"text": "Oh, that's great.",
+			"coref_text": "Oh, that's great.",
+			"srls": [
+				"[ARGM-DIS: Oh] , [ARG1: that] [V: 's] [ARG2: great] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Why are- why are you so tanned?",
+			"coref_text": "Why are- why are [you:Barry] so tanned?",
+			"srls": [
+				"Why are- [ARGM-CAU: why] [V: are] [ARG1: you] [ARG2: so tanned] ?",
+				"Why are- [ARGM-CAU: why] are [ARG1: you] [ARGM-EXT: so] [V: tanned] ?"
+			]
+		},
+		{
+			"speaker": "Barry",
+			"text": "Oh, I, uh- I went to Aruba.",
+			"coref_text": "Oh, [I:Barry], uh- [I:Barry] went to Aruba.",
+			"srls": [
+				"[ARGM-DIS: Oh] , [ARGM-DIS: I] , [ARGM-DIS: uh-] [ARG0: I] [V: went] [ARG4: to Aruba] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Oh no.",
+			"coref_text": "Oh no.",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "You went on our honeymoon alone?",
+			"coref_text": "[You:Barry] went on our honeymoon alone?",
+			"srls": [
+				"[ARG0: You] [V: went] [ARG1: on our honeymoon] [ARGM-MNR: alone] ?"
+			]
+		},
+		{
+			"speaker": "Barry",
+			"text": "No.",
+			"coref_text": "No.",
+			"srls": []
+		},
+		{
+			"speaker": "Barry",
+			"text": "I went with, uh..",
+			"coref_text": "[I:Barry] went with, uh..",
+			"srls": [
+				"[ARG0: I] [V: went] [ARGM-ADV: with] , [ARGM-DIS: uh] .."
+			]
+		},
+		{
+			"speaker": "Barry",
+			"text": "Now, this may hurt.",
+			"coref_text": "Now, this may hurt.",
+			"srls": [
+				"Now , this [V: may] hurt .",
+				"[ARGM-TMP: Now] , [ARG0: this] [ARGM-MOD: may] [V: hurt] ."
+			]
+		},
+		{
+			"speaker": "Robbie",
+			"text": "Me?!",
+			"coref_text": "[Me:Robbie]?!",
+			"srls": []
+		},
+		{
+			"speaker": "Barry",
+			"text": "No!",
+			"coref_text": "No!",
+			"srls": []
+		},
+		{
+			"speaker": "Barry",
+			"text": "I went with Mindy.",
+			"coref_text": "[I:Barry] went with [Mindy:Mindy].",
+			"srls": [
+				"[ARG0: I] [V: went] [ARGM-COM: with Mindy] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Mindy?!",
+			"coref_text": "[Mindy:Mindy]?!",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "My maid of honour, Mindy?!",
+			"coref_text": "[My:Rachel Green] maid of honour, [Mindy:Mindy]?!",
+			"srls": []
+		},
+		{
+			"speaker": "Barry",
+			"text": "Yeah, well, uh, we're kind of a thing now.",
+			"coref_text": "Yeah, well, uh, we're kind of a thing now.",
+			"srls": [
+				"[ARGM-DIS: Yeah] , [ARGM-DIS: well] , [ARGM-DIS: uh] , [ARG1: we] [V: 're] [ARG2: kind of a thing] [ARGM-TMP: now] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Oh!",
+			"coref_text": "Oh!",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Well, um..",
+			"coref_text": "Well, um..",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "You've got plugs!",
+			"coref_text": "[You:Barry]'ve got plugs!",
+			"srls": [
+				"You [V: 've] got plugs !",
+				"[ARG0: You] 've [V: got] [ARG1: plugs] !"
+			]
+		},
+		{
+			"speaker": "Barry",
+			"text": "Careful!",
+			"coref_text": "Careful!",
+			"srls": []
+		},
+		{
+			"speaker": "Barry",
+			"text": "They haven't quite taken yet.",
+			"coref_text": "They haven't quite taken yet.",
+			"srls": [
+				"They [V: have] n't quite taken yet .",
+				"[ARG0: They] have [ARGM-NEG: n't] [ARGM-ADV: quite] [V: taken] [ARGM-TMP: yet] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "And you've got lenses!",
+			"coref_text": "And [you:Barry]'ve got lenses!",
+			"srls": [
+				"And you [V: 've] got lenses !",
+				"[ARGM-DIS: And] [ARG0: you] 've [V: got] [ARG1: lenses] !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "But you hate sticking your finger in your eye!",
+			"coref_text": "But [you:Barry] hate sticking [your:Barry] finger in [your:Barry] eye!",
+			"srls": [
+				"[ARGM-DIS: But] [ARG0: you] [V: hate] [ARG1: sticking your finger in your eye] !",
+				"But [ARG0: you] hate [V: sticking] [ARG1: your finger] [ARG2: in your eye] !"
+			]
+		},
+		{
+			"speaker": "Barry",
+			"text": "Not for her.",
+			"coref_text": "Not for [her:Mindy].",
+			"srls": []
+		},
+		{
+			"speaker": "Barry",
+			"text": "Listen, I really wanted to thank you.",
+			"coref_text": "Listen, [I:Barry] really wanted to thank [you:Rachel Green].",
+			"srls": [
+				"[V: Listen] , I really wanted to thank you .",
+				"[ARGM-DIS: Listen] , [ARG0: I] [ARGM-ADV: really] [V: wanted] [ARG1: to thank you] .",
+				"Listen , [ARG0: I] really wanted to [V: thank] [ARG1: you] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Okay..",
+			"coref_text": "Okay..",
+			"srls": []
+		},
+		{
+			"speaker": "Barry",
+			"text": "See, about a month ago, I wanted to hurt you.",
+			"coref_text": "See, about a month ago, [I:Barry] wanted to hurt [you:Rachel Green].",
+			"srls": [
+				"[V: See] , about a month ago , I wanted to hurt you .",
+				"[ARGM-DIS: See] , [ARGM-TMP: about a month ago] , [ARG0: I] [V: wanted] [ARG1: to hurt you] .",
+				"See , about a month ago , [ARG0: I] wanted to [V: hurt] [ARG1: you] ."
+			]
+		},
+		{
+			"speaker": "Barry",
+			"text": "More than I've ever wanted to hurt anyone in my life.",
+			"coref_text": "More than [I:Barry]'ve ever wanted to hurt anyone in [my:Barry] life.",
+			"srls": [
+				"More than I [V: 've] ever wanted to hurt anyone in my life .",
+				"More than [ARG0: I] 've [ARGM-TMP: ever] [V: wanted] [ARG1: to hurt anyone in my life] .",
+				"More than [ARG0: I] 've ever wanted to [V: hurt] [ARG1: anyone] [ARGM-TMP: in my life] ."
+			]
+		},
+		{
+			"speaker": "Barry",
+			"text": "And I'm an orthodontist.",
+			"coref_text": "And [I:Barry]'m an orthodontist.",
+			"srls": [
+				"[ARGM-DIS: And] [ARG1: I] [V: 'm] [ARG2: an orthodontist] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Wow.",
+			"coref_text": "Wow.",
+			"srls": []
+		},
+		{
+			"speaker": "Barry",
+			"text": "You know, you were right?",
+			"coref_text": "[You:Rachel Green] know, [you:Rachel Green] were right?",
+			"srls": [
+				"[ARG0: You] [V: know] , you were right ?",
+				"You know , [ARG1: you] [V: were] [ARG2: right] ?"
+			]
+		},
+		{
+			"speaker": "Barry",
+			"text": "I mean, I thought we were happy.",
+			"coref_text": "[I:Barry] mean, [I:Barry] thought we were happy.",
+			"srls": [
+				"[ARG0: I] [V: mean] , I thought we were happy .",
+				"I mean , [ARG0: I] [V: thought] [ARG1: we were happy] .",
+				"I mean , I thought [ARG1: we] [V: were] [ARG2: happy] ."
+			]
+		},
+		{
+			"speaker": "Barry",
+			"text": "We weren't happy.",
+			"coref_text": "We weren't happy.",
+			"srls": [
+				"[ARG1: We] [V: were] [ARGM-NEG: n't] [ARG2: happy] ."
+			]
+		},
+		{
+			"speaker": "Barry",
+			"text": "But with Mindy, now I'm happy.",
+			"coref_text": "But with [Mindy:Mindy], now [I:Barry]'m happy.",
+			"srls": [
+				"[ARGM-DIS: But] [ARGM-ADV: with Mindy] , [ARGM-TMP: now] [ARG1: I] [V: 'm] [ARG2: happy] ."
+			]
+		},
+		{
+			"speaker": "Barry",
+			"text": "Spit.",
+			"coref_text": "Spit.",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "What?",
+			"coref_text": "What?",
+			"srls": []
+		},
+		{
+			"speaker": "Robbie",
+			"text": "Me.",
+			"coref_text": "[Me:Robbie].",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Anyway, um, I guess this belongs to you.",
+			"coref_text": "Anyway, um, [I:Rachel Green] guess this belongs to [you:Barry].",
+			"srls": [
+				"[ARGM-DIS: Anyway] , [ARGM-DIS: um] , [ARG0: I] [V: guess] [ARG1: this belongs to you] .",
+				"Anyway , um , I guess [ARG0: this] [V: belongs] [ARG1: to you] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "And thank you for giving it to me.",
+			"coref_text": "And thank [you:Barry] for giving it to [me:Rachel Green].",
+			"srls": [
+				"[ARGM-DIS: And] [V: thank] [ARG1: you] [ARG2: for giving it to me] .",
+				"And thank you for [V: giving] [ARG1: it] [ARG2: to me] ."
+			]
+		},
+		{
+			"speaker": "Barry",
+			"text": "Well, thank you for giving it back.",
+			"coref_text": "Well, thank [you:Rachel Green] for giving it back.",
+			"srls": [
+				"[ARGM-DIS: Well] , [V: thank] [ARG1: you] [ARG2: for giving it back] .",
+				"Well , thank [ARG0: you] for [V: giving] [ARG1: it] back ."
+			]
+		},
+		{
+			"speaker": "Robbie",
+			"text": "Hello?!",
+			"coref_text": "Hello?!",
+			"srls": []
+		}
+	]
+}

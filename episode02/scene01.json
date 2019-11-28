@@ -1,0 +1,280 @@
+{
+	"scene_id": "friends-s01e02-01",
+	"sentences": [
+		{
+			"speaker": "Ross_Geller",
+			"text": "No, it's good, it is good, it's just that- mm- doesn't she seem a little angry?",
+			"coref_text": "No, it's good, it is good, it's just that- mm- doesn't [she:Woman 1] seem a little angry?",
+			"srls": [
+				"No , [ARG1: it] [V: 's] [ARG2: good] , it is good , it 's just that- mm- does n't she seem a little angry ?",
+				"No , it 's good , [ARG1: it] [V: is] [ARG2: good] , it 's just that- mm- does n't she seem a little angry ?",
+				"No , it 's good , it is good , [ARG1: it] [V: 's] [ARG2: just that- mm- does n't she seem a little angry] ?",
+				"No , it 's good , it is good , it 's just that- mm- [V: does] n't she seem a little angry ?",
+				"No , it 's good , it is good , it 's just that- mm- does [ARGM-NEG: n't] she [V: seem] [ARG1: a little angry] ?"
+			]
+		},
+		{
+			"speaker": "Marsha",
+			"text": "Well, she has issues.",
+			"coref_text": "Well, [she:Woman 1] has issues.",
+			"srls": [
+				"[ARGM-DIS: Well] , [ARG0: she] [V: has] [ARG1: issues] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Does she.",
+			"coref_text": "Does [she:Woman 1].",
+			"srls": [
+				"[V: Does] she ."
+			]
+		},
+		{
+			"speaker": "Marsha",
+			"text": "He's out banging other women over the head with a club, while she sits at home trying to get the mastodon smell out of the carpet!",
+			"coref_text": "[He:Man 1]'s out banging other women over the head with a club, while [she:Woman 1] sits at home trying to get the mastodon smell out of the carpet!",
+			"srls": [
+				"[ARG1: He] [V: 's] [ARG2: out] [ARGM-ADV: banging other women over the head with a club , while she sits at home trying to get the mastodon smell out of the carpet] !",
+				"[ARG0: He] 's out [V: banging] [ARG1: other women] [ARGM-MNR: over the head] [ARG2: with a club] , [ARGM-TMP: while she sits at home trying to get] the mastodon smell out of the carpet !",
+				"He 's out banging other women over the head with a club , while [ARG1: she] [V: sits] [ARG2: at home] [ARGM-ADV: trying to get the mastodon smell out of the carpet] !",
+				"He 's out banging other women over the head with a club , while [ARG0: she] sits at home [V: trying] [ARG1: to get the mastodon smell out of the carpet] !",
+				"He 's out banging other women over the head with a club , while [ARG0: she] sits at home trying to [V: get] [ARG1: the mastodon smell out of the carpet] !"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Marsha, these are cave people.",
+			"coref_text": "Marsha, these are cave people.",
+			"srls": [
+				"[ARGM-DIS: Marsha] , [ARG1: these] [V: are] [ARG2: cave people] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Okay?",
+			"coref_text": "Okay?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "They have issues like 'Gee, that glacier's getting kinda close.",
+			"coref_text": "They have issues like 'Gee, that glacier's getting kinda close.",
+			"srls": [
+				"[ARG0: They] [V: have] [ARG1: issues like ' Gee , that glacier 's getting kinda close] .",
+				"They have issues like ' [V: Gee] , that glacier 's getting kinda close .",
+				"They have issues like ' Gee , that glacier [V: 's] getting kinda close .",
+				"They have issues like ' [ARGM-DIS: Gee] , [ARG1: that glacier] 's [V: getting] [ARG2: kinda close] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": " 'See?",
+			"coref_text": " 'See?",
+			"srls": [
+				"' [V: See] ?"
+			]
+		},
+		{
+			"speaker": "Marsha",
+			"text": "Speaking of issues, isn't that your ex-wife?",
+			"coref_text": "Speaking of issues, isn't that [your:Ross Geller] ex-wife?",
+			"srls": [
+				"[V: Speaking] [ARG1: of issues] , is n't that your ex - wife ?",
+				"[ARGM-ADV: Speaking of issues] , [V: is] [ARGM-NEG: n't] [ARG1: that] [ARG2: your ex - wife] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "No.",
+			"coref_text": "No.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "No.",
+			"coref_text": "No.",
+			"srls": []
+		},
+		{
+			"speaker": "Marsha",
+			"text": "Yes, it is.",
+			"coref_text": "Yes, it is.",
+			"srls": [
+				"[ARGM-DIS: Yes] , [ARG1: it] [V: is] ."
+			]
+		},
+		{
+			"speaker": "Marsha",
+			"text": "Carol!",
+			"coref_text": "Carol!",
+			"srls": []
+		},
+		{
+			"speaker": "Marsha",
+			"text": "Hi!",
+			"coref_text": "Hi!",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Okay, okay, yes, it is.",
+			"coref_text": "Okay, okay, yes, it is.",
+			"srls": [
+				"[ARGM-DIS: Okay] , [ARGM-DIS: okay] , [ARGM-DIS: yes] , [ARG1: it] [V: is] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "How about I'll, uh, catch up with you in the Ice Age.",
+			"coref_text": "How about [I:Ross Geller]'ll, uh, catch up with [you:Marsha] in the Ice Age.",
+			"srls": [
+				"How about [ARG1: I] [ARGM-MOD: 'll] , [ARGM-DIS: uh] , [V: catch] up [ARG2: with you] [ARGM-TMP: in the Ice Age] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Hi.",
+			"coref_text": "Hi.",
+			"srls": []
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "So.",
+			"coref_text": "So.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "You look great.",
+			"coref_text": "[You:Carol Willick] look great.",
+			"srls": [
+				"[ARG0: You] [V: look] [ARG1: great] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "I, uh...",
+			"coref_text": "[I:Ross Geller], uh...",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "I hate that.",
+			"coref_text": "[I:Ross Geller] hate that.",
+			"srls": [
+				"[ARG0: I] [V: hate] [ARG1: that] ."
+			]
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "Sorry.",
+			"coref_text": "Sorry.",
+			"srls": []
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "You look good too.",
+			"coref_text": "[You:Ross Geller] look good too.",
+			"srls": [
+				"[ARG0: You] [V: look] [ARG1: good] [ARGM-ADV: too] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Ah, well, in here, anyone who...",
+			"coref_text": "Ah, well, in here, anyone who...",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "stands erect...",
+			"coref_text": "stands erect...",
+			"srls": [
+				"[V: stands] [ARGM-PRD: erect] ...",
+				"stands [V: erect] ..."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "So what's new?",
+			"coref_text": "So what's new?",
+			"srls": [
+				"So [ARG1: what] [V: 's] [ARG2: new] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Still, uh...",
+			"coref_text": "Still, uh...",
+			"srls": []
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "A lesbian?",
+			"coref_text": "A lesbian?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Well...",
+			"coref_text": "Well...",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "you never know.",
+			"coref_text": "[you:Carol Willick] never know.",
+			"srls": [
+				"[ARG0: you] [ARGM-NEG: never] [V: know] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "How's, um..",
+			"coref_text": "How's, um..",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "how's the family?",
+			"coref_text": "how's the family?",
+			"srls": [
+				"[ARG2: how] [V: 's] [ARG1: the family] ?"
+			]
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "Marty's still totally paranoid.",
+			"coref_text": "[Marty:Marty]'s still totally paranoid.",
+			"srls": []
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "Oh, and, uh-",
+			"coref_text": "Oh, and, uh-",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Why- why are you here, Carol?",
+			"coref_text": "Why- why are [you:Carol Willick] here, [Carol:Carol Willick]?",
+			"srls": [
+				"Why- [ARGM-CAU: why] [V: are] [ARG1: you] [ARG2: here] , [ARGM-DIS: Carol] ?"
+			]
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "I'm pregnant.",
+			"coref_text": "[I:Carol Willick]'m pregnant.",
+			"srls": [
+				"[ARG1: I] [V: 'm] [ARG2: pregnant] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Pregnant?!",
+			"coref_text": "Pregnant?!",
+			"srls": []
+		}
+	]
+}

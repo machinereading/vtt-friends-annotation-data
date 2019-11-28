@@ -1,0 +1,223 @@
+{
+    "scene_id": "friends-s01e01-05",
+    "sentences": [
+        {
+            "speaker": "Paul",
+            "text": "Ever since she walked out on me, I, uh...",
+            "coref_text": "Ever since [she:Paul's ex-girlfriend] walked out on [me:Paul], [I:Paul], uh...",
+            "srls": [
+                "Ever since [ARG0: she] [V: walked] [ARGM-DIR: out on me] , I , uh ..."
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "What?.....",
+            "coref_text": "What?.....",
+            "srls": []
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "What, you wanna spell it out with noodles?",
+            "coref_text": "What, [you:Paul] wanna spell it out with noodles?",
+            "srls": [
+                "[ARGM-DIS: What] , [ARG0: you] [V: wanna] [ARG1: spell it out with noodles] ?",
+                "[ARGM-DIS: What] , [ARG0: you] [ARGM-ADV: wanna] [V: spell] [ARG1: it] out [ARGM-MNR: with noodles] ?"
+            ]
+        },
+        {
+            "speaker": "Paul",
+            "text": "No, it's, it's more of a fifth date kinda revelation.",
+            "coref_text": "No, it's, it's more of a fifth date kinda revelation.",
+            "srls": [
+                "No , [ARG1: it] [V: 's] , it 's more of a fifth date kinda revelation .",
+                "No , it 's , [ARG1: it] [V: 's] [ARG2: more of a fifth date kinda revelation] ."
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "Oh, so there is gonna be a fifth date?",
+            "coref_text": "Oh, so there is gonna be a fifth date?",
+            "srls": [
+                "Oh , so there [V: is] gon na be a fifth date ?",
+                "Oh , so there is [V: gon] na be a fifth date ?",
+                "Oh , so there is gon na [V: be] [ARG1: a fifth date] ?"
+            ]
+        },
+        {
+            "speaker": "Paul",
+            "text": "Isn't there?",
+            "coref_text": "Isn't there?",
+            "srls": [
+                "[V: Is] [ARGM-NEG: n't] there ?"
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "Yeah...",
+            "coref_text": "Yeah...",
+            "srls": []
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "yeah, I think there is.",
+            "coref_text": "yeah, [I:Monica Geller] think there is.",
+            "srls": [
+                "[ARGM-DIS: yeah] , [ARG0: I] [V: think] [ARG1: there is] .",
+                "yeah , I think there [V: is] ."
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "- What were you gonna say?",
+            "coref_text": "- What were [you:Paul] gonna say?",
+            "srls": [
+                "- What [V: were] you gon na say ?",
+                "- What were you [V: gon] na say ?",
+                "- [ARG1: What] were [ARG0: you] gon na [V: say] ?"
+            ]
+        },
+        {
+            "speaker": "Paul",
+            "text": "Well, ever- ev-...",
+            "coref_text": "Well, ever- ev-...",
+            "srls": []
+        },
+        {
+            "speaker": "Paul",
+            "text": "ever since she left me, um, I haven't been able to, uh, perform.",
+            "coref_text": "ever since [she:Paul's ex-girlfriend] left [me:Paul], um, [I:Paul] haven't been able to, uh, perform.",
+            "srls": [
+                "ever since [ARG0: she] [V: left] [ARG1: me] , um , I have n't been able to , uh , perform .",
+                "ever since she left me , um , I [V: have] n't been able to , uh , perform .",
+                "[ARGM-TMP: ever since she left me] , [ARGM-DIS: um] , [ARG1: I] have [ARGM-NEG: n't] [V: been] [ARG2: able to , uh , perform] .",
+                "ever since she left me , um , [ARG0: I] have n't been able to , [ARGM-DIS: uh] , [V: perform] ."
+            ]
+        },
+        {
+            "speaker": "Paul",
+            "text": "...",
+            "coref_text": "...",
+            "srls": []
+        },
+        {
+            "speaker": "Paul",
+            "text": "Sexually.",
+            "coref_text": "Sexually.",
+            "srls": []
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "Oh God, oh God, I am sorry...",
+            "coref_text": "Oh God, oh God, [I:Monica Geller] am sorry...",
+            "srls": [
+                "[ARGM-DIS: Oh God] , [ARGM-DIS: oh God] , [ARG1: I] [V: am] [ARG2: sorry] ..."
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "I am so sorry...",
+            "coref_text": "[I:Monica Geller] am so sorry...",
+            "srls": [
+                "[ARG1: I] [V: am] [ARG2: so sorry] ..."
+            ]
+        },
+        {
+            "speaker": "Paul",
+            "text": "It's okay...",
+            "coref_text": "It's okay...",
+            "srls": [
+                "[ARG1: It] [V: 's] [ARG2: okay] ..."
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "I know being spit on is probably not what you need right now.",
+            "coref_text": "[I:Monica Geller] know being spit on is probably not what [you:Paul] need right now.",
+            "srls": [
+                "[ARG0: I] [V: know] [ARG1: being spit on is probably not what you need right now] .",
+                "I know [V: being] spit on is probably not what you need right now .",
+                "I know being [V: spit] on is probably not what you need right now .",
+                "I know [ARG1: being spit on] [V: is] [ARGM-ADV: probably] [ARGM-NEG: not] [ARG2: what you need right now] .",
+                "I know being spit on is probably not [ARG1: what] [ARG0: you] [V: need] [ARGM-TMP: right now] ."
+            ],
+            "frame": [
+                "I know being [spit on: Requirement] is probably [not: Neg] what [you: Cognizer] [need: Needing] right now.",
+                "[I: Cognizer] [know: Awareness] [being spit on is probably not what you need right now: Content]."
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "Um...",
+            "coref_text": "Um...",
+            "srls": []
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "how long?",
+            "coref_text": "how long?",
+            "srls": []
+        },
+        {
+            "speaker": "Paul",
+            "text": "Two years.",
+            "coref_text": "Two years.",
+            "srls": []
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "Wow!",
+            "coref_text": "Wow!",
+            "srls": []
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "I'm- I'm- I'm glad you smashed her watch!",
+            "coref_text": "[I:Monica Geller]'m- [I:Monica Geller]'m- [I:Monica Geller]'m glad [you:Paul] smashed [her:Paul's ex-girlfriend] watch!",
+            "srls": [
+                "I'm- I'm- [ARG1: I] [V: 'm] [ARG2: glad you smashed her watch] !",
+                "I'm- I'm- I 'm glad [ARG0: you] [V: smashed] [ARG1: her watch] !"
+            ],
+            "frame": [
+                "I'm- I'm- I'm glad [you: Agent] [smashed: Cause_to_fragment] [her watch: Whole_patient]!",
+                "I'm- I'm- [I: Experiencer]'m [glad: Emotions_by_stimulus] [you smashed her watch: Topic]!"
+            ]
+        },
+        {
+            "speaker": "Paul",
+            "text": "So you still think you, um...",
+            "coref_text": "So [you:Monica Geller] still think [you:Monica Geller], um...",
+            "srls": [
+                "[ARGM-DIS: So] [ARG0: you] [ARGM-TMP: still] [V: think] [ARG1: you , um] ..."
+            ]
+        },
+        {
+            "speaker": "Paul",
+            "text": "might want that fifth date?",
+            "coref_text": "might want that fifth date?",
+            "srls": [
+                "[V: might] want that fifth date ?",
+                "[ARGM-MOD: might] [V: want] [ARG1: that fifth date] ?"
+            ]
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "...",
+            "coref_text": "...",
+            "srls": []
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "Yeah.",
+            "coref_text": "Yeah.",
+            "srls": []
+        },
+        {
+            "speaker": "Monica_Geller",
+            "text": "Yeah, I do.",
+            "coref_text": "Yeah, [I:Monica Geller] do.",
+            "srls": [
+                "Yeah , I [V: do] ."
+            ]
+        }
+    ]
+}

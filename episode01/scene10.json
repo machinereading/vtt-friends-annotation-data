@@ -1,0 +1,635 @@
+{
+	"scene_id": "friends-s01e01-10",
+	"sentences": [
+		{
+			"speaker": "Rachel_Green",
+			"text": "Oh God, come on you guys, is this really necessary?",
+			"coref_text": "Oh God, come on you guys, is this really necessary?",
+			"srls": [
+				"[ARGM-DIS: Oh God] , [V: come] [ARGM-DIR: on] [ARGM-DIS: you guys] , is this really necessary ?",
+				"[ARGM-DIS: Oh God] , [ARGM-ADV: come on] [ARGM-DIS: you guys] , [V: is] [ARG1: this] [ARGM-ADV: really] [ARG2: necessary] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I mean, I can stop charging anytime I want.",
+			"coref_text": "[I:Rachel Green] mean, [I:Rachel Green] can stop charging anytime [I:Rachel Green] want.",
+			"srls": [
+				"[ARG0: I] [V: mean] , I can stop charging anytime I want .",
+				"I mean , I [V: can] stop charging anytime I want .",
+				"I mean , [ARG0: I] [ARGM-MOD: can] [V: stop] [ARG1: charging anytime I want] .",
+				"I mean , [ARG0: I] can stop [V: charging] [ARGM-TMP: anytime I want] .",
+				"I mean , I can stop charging [ARGM-TMP: anytime] [ARG0: I] [V: want] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "C'mon, you can't live off your parents your whole life.",
+			"coref_text": "C'mon, [you:Rachel Green] can't live off [your:Rachel Green] parents [your:Rachel Green] whole life.",
+			"srls": [
+				"[ARGM-DIS: C'mon] , [ARG0: you] [ARGM-MOD: ca] [ARGM-NEG: n't] [V: live] [ARGM-MNR: off your parents] [ARGM-TMP: your whole life] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I know that.",
+			"coref_text": "[I:Rachel Green] know that.",
+			"srls": [
+				"[ARG0: I] [V: know] [ARG1: that] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "That's why I was getting married.",
+			"coref_text": "That's why [I:Rachel Green] was getting married.",
+			"srls": [
+				"[ARG1: That] [V: 's] [ARG2: why I was getting married] .",
+				"That 's why I [V: was] getting married .",
+				"That 's [ARGM-CAU: why] [ARG1: I] was [V: getting] [ARG2: married] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Give her a break, it's hard being on your own for the first time.",
+			"coref_text": "Give [her:Rachel Green] a break, it's hard being on your own for the first time.",
+			"srls": [
+				"[V: Give] [ARG2: her] [ARG1: a break] , it 's hard being on your own for the first time .",
+				"Give her a break , it [V: 's] [ARG2: hard] [ARG1: being on your own for the first time] .",
+				"Give her a break , it 's hard [V: being] [ARG2: on your own] [ARGM-TMP: for the first time] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Thank you.",
+			"coref_text": "Thank [you:Phoebe Buffay].",
+			"srls": [
+				"[V: Thank] [ARG1: you] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "You're welcome.",
+			"coref_text": "[You:Rachel Green]'re welcome.",
+			"srls": [
+				"[ARG1: You] [V: 're] [ARG2: welcome] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "I remember when I first came to this city.",
+			"coref_text": "[I:Phoebe Buffay] remember when [I:Phoebe Buffay] first came to this city.",
+			"srls": [
+				"[ARG0: I] [V: remember] [ARG1: when I first came to this city] .",
+				"I remember [ARGM-TMP: when] [ARG1: I] [ARGM-TMP: first] [V: came] [ARG4: to this city] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "I was fourteen.",
+			"coref_text": "[I:Phoebe Buffay] was fourteen.",
+			"srls": [
+				"[ARG1: I] [V: was] [ARG2: fourteen] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "My mom had just killed herself and my step-dad was back in prison, and I got here, and I didn't know anybody.",
+			"coref_text": "[My:Phoebe Buffay] [mom:Lily Buffay] had just killed [herself:Lily Buffay] and [my:Phoebe Buffay] step-dad was back in prison, and [I:Phoebe Buffay] got here, and [I:Phoebe Buffay] didn't know anybody.",
+			"srls": [
+				"My mom [V: had] just killed herself and my step - dad was back in prison , and I got here , and I did n't know anybody .",
+				"[ARG0: My mom] had [ARGM-ADV: just] [V: killed] [ARG1: herself] and my step - dad was back in prison , and I got here , and I did n't know anybody .",
+				"My mom had just killed herself and [ARG1: my step - dad] [V: was] [ARG2: back in prison] , and I got here , and I did n't know anybody .",
+				"My mom had just killed herself and my step - dad was back in prison , and [ARG1: I] [V: got] [ARG2: here] , and I did n't know anybody .",
+				"My mom had just killed herself and my step - dad was back in prison , and I got here , and I [V: did] n't know anybody .",
+				"My mom had just killed herself and my step - dad was back in prison , and I got here , and [ARG0: I] did [ARGM-NEG: n't] [V: know] [ARG1: anybody] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "And I ended up living with this albino guy who was, like, cleaning windshields outside port authority, and then he killed himself, and then I found aromatherapy.",
+			"coref_text": "And [I:Phoebe Buffay] ended up living with this albino [guy:Man 1] who was, like, cleaning windshields outside port authority, and then [he:Man 1] killed [himself:Man 1], and then [I:Phoebe Buffay] found aromatherapy.",
+			"srls": [
+				"[ARGM-DIS: And] [ARG1: I] [V: ended] up [ARG2: living with this albino guy who was , like , cleaning windshields outside port authority , and then he killed himself] , and then I found aromatherapy .",
+				"And [ARG0: I] ended up [V: living] [ARGM-COM: with this albino guy who was , like , cleaning windshields outside port authority] , and then he killed himself , and then I found aromatherapy .",
+				"And I ended up living with this albino guy who [V: was] , like , cleaning windshields outside port authority , and then he killed himself , and then I found aromatherapy .",
+				"And I ended up living with [ARG0: this albino guy] [R-ARG0: who] was , [ARGM-DIS: like] , [V: cleaning] [ARG1: windshields] [ARGM-LOC: outside port authority] , and then he killed himself , and then I found aromatherapy .",
+				"And I ended up living with this albino guy who was , like , cleaning windshields outside port authority , and [ARGM-TMP: then] [ARG0: he] [V: killed] [ARG1: himself] , and then I found aromatherapy .",
+				"And I ended up living with this albino guy who was , like , cleaning windshields outside port authority , and then he killed himself , and [ARGM-TMP: then] [ARG0: I] [V: found] [ARG1: aromatherapy] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "So believe me, I know exactly how you feel.",
+			"coref_text": "So believe [me:Phoebe Buffay], [I:Phoebe Buffay] know exactly how [you:Rachel Green] feel.",
+			"srls": [
+				"[ARGM-DIS: So] [V: believe] [ARG1: me] , I know exactly how you feel .",
+				"So believe me , [ARG0: I] [V: know] [ARG1: exactly how you feel] .",
+				"So believe me , I know [ARG1: exactly how] [ARG0: you] [V: feel] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "The word you're looking for is' Anyway '...",
+			"coref_text": "The word you're looking for is' Anyway '...",
+			"srls": [
+				"The word you [V: 're] looking for is ' Anyway ' ...",
+				"The word [ARG0: you] 're [V: looking] [ARG1: for] is ' Anyway ' ...",
+				"[ARG1: The word you 're looking for] [V: is] ' [ARG2: Anyway] ' ..."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "All right, you ready?",
+			"coref_text": "All right, [you:Rachel Green] ready?",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "No.",
+			"coref_text": "No.",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "No, no, I'm not ready!",
+			"coref_text": "No, no, [I:Rachel Green]'m not ready!",
+			"srls": [
+				"[ARGM-DIS: No , no] , [ARG1: I] [V: 'm] [ARGM-NEG: not] [ARG2: ready] !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "How can I be ready?",
+			"coref_text": "How can [I:Rachel Green] be ready?",
+			"srls": [
+				"How [V: can] I be ready ?",
+				"[ARGM-MNR: How] [ARGM-MOD: can] [ARG1: I] [V: be] [ARG2: ready] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": " \"Hey, Rach!",
+			"coref_text": " \"Hey, [Rach:Rachel Green]!",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "You ready to jump out the airplane without your parachute? \"",
+			"coref_text": "[You:Rachel Green] ready to jump out the airplane without [your:Rachel Green] parachute? \"",
+			"srls": [
+				"[ARG0: You] ready to [V: jump] [ARGM-DIR: out the airplane] [ARGM-MNR: without your parachute] ? \""
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Come on, I can't do this!",
+			"coref_text": "Come on, [I:Rachel Green] can't do this!",
+			"srls": [
+				"[V: Come] [ARGM-DIR: on] , I ca n't do this !",
+				"[ARGM-ADV: Come on] , [ARG0: I] [ARGM-MOD: ca] [ARGM-NEG: n't] [V: do] [ARG1: this] !"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "You can, I know you can!",
+			"coref_text": "[You:Rachel Green] can, [I:Monica Geller] know [you:Rachel Green] can!",
+			"srls": [
+				"You [V: can] , I know you can !",
+				"[ARGM-DIS: You] can , [ARG0: I] [V: know] [ARG1: you can] !",
+				"You can , I know you [V: can] !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I don't think so.",
+			"coref_text": "[I:Rachel Green] don't think so.",
+			"srls": [
+				"I [V: do] n't think so .",
+				"[ARG0: I] do [ARGM-NEG: n't] [V: think] [ARG1: so] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Come on, you made coffee!",
+			"coref_text": "Come on, [you:Rachel Green] made coffee!",
+			"srls": [
+				"[V: Come] [ARGM-DIR: on] , you made coffee !",
+				"Come on , [ARG0: you] [V: made] [ARG1: coffee] !"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "You can do anything!",
+			"coref_text": "[You:Rachel Green] can do anything!",
+			"srls": [
+				"You [V: can] do anything !",
+				"[ARG0: You] [ARGM-MOD: can] [V: do] [ARG1: anything] !"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "C'mon, cut.",
+			"coref_text": "C'mon, cut.",
+			"srls": [
+				"[ARGM-DIS: C'mon] , [V: cut] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Cut, cut, cut,...",
+			"coref_text": "Cut, cut, cut,...",
+			"srls": [
+				"Cut , [V: cut] , cut , ...",
+				"Cut , cut , [V: cut] , ..."
+			]
+		},
+		{
+			"speaker": "All",
+			"text": "Cut, cut, cut, cut, cut, cut, cut...",
+			"coref_text": "Cut, cut, cut, cut, cut, cut, cut...",
+			"srls": [
+				"Cut , [V: cut] , cut , cut , cut , cut , cut ...",
+				"Cut , cut , [V: cut] , cut , cut , cut , cut ...",
+				"Cut , cut , cut , [V: cut] , cut , cut , cut ...",
+				"Cut , cut , cut , cut , [V: cut] , cut , cut ...",
+				"Cut , cut , cut , cut , cut , [V: cut] , cut ...",
+				"Cut , cut , cut , cut , cut , cut , [V: cut] ..."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Y'know what?",
+			"coref_text": "Y'know what?",
+			"srls": [
+				"[V: Y'know] [ARG2: what] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I think we can just leave it at that.",
+			"coref_text": "[I:Rachel Green] think we can just leave it at that.",
+			"srls": [
+				"[ARG0: I] [V: think] [ARG1: we can just leave it at that] .",
+				"I think we [V: can] just leave it at that .",
+				"I think [ARG0: we] [ARGM-MOD: can] [ARGM-ADV: just] [V: leave] [ARG1: it] [ARGM-LOC: at that] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "It's kinda like a symbolic gesture...",
+			"coref_text": "It's kinda like a symbolic gesture...",
+			"srls": [
+				"[ARG1: It] [V: 's] [ARG2: kinda like a symbolic gesture] ..."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Rachel!",
+			"coref_text": "Rachel!",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "That was a library card!",
+			"coref_text": "That was a library card!",
+			"srls": [
+				"[ARG1: That] [V: was] [ARG2: a library card] !"
+			]
+		},
+		{
+			"speaker": "All",
+			"text": "Cut, cut, cut, cut, cut, cut, cut..",
+			"coref_text": "Cut, cut, cut, cut, cut, cut, cut..",
+			"srls": [
+				"Cut , [V: cut] , cut , cut , cut , cut , cut ..",
+				"Cut , cut , [V: cut] , cut , cut , cut , cut ..",
+				"Cut , cut , cut , [V: cut] , cut , cut , cut ..",
+				"Cut , cut , cut , cut , [V: cut] , cut , cut ..",
+				"Cut , cut , cut , cut , cut , [V: cut] , cut ..",
+				"Cut , cut , cut , cut , cut , cut , [V: cut] .."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Y'know, if you listen closely, you can hear a thousand retailers scream.",
+			"coref_text": "Y'know, if you listen closely, you can hear a thousand retailers scream.",
+			"srls": [
+				"Y'know , if [ARG0: you] [V: listen] [ARGM-MNR: closely] , you can hear a thousand retailers scream .",
+				"Y'know , if you listen closely , you [V: can] hear a thousand retailers scream .",
+				"[ARGM-DIS: Y'know] , [ARGM-ADV: if you listen closely] , [ARG0: you] [ARGM-MOD: can] [V: hear] [ARG1: a thousand retailers scream] .",
+				"Y'know , if you listen closely , you can hear [ARG0: a thousand retailers] [V: scream] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Welcome to the real world!",
+			"coref_text": "Welcome to the real world!",
+			"srls": [
+				"[V: Welcome] [ARG2: to the real world] !"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "It sucks.",
+			"coref_text": "It sucks.",
+			"srls": [
+				"[ARG0: It] [V: sucks] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "You're gonna love it!",
+			"coref_text": "[You:Rachel Green]'re gonna love it!",
+			"srls": [
+				"You [V: 're] gon na love it !",
+				"You 're [V: gon] na love it !",
+				"[ARG0: You] 're gon na [V: love] [ARG1: it] !"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Well, that's it You gonna crash on the couch?",
+			"coref_text": "Well, that's it [You:Ross Geller] gonna crash on the couch?",
+			"srls": [
+				"Well , [ARG1: that] [V: 's] [ARG2: it] You gon na crash on the couch ?",
+				"Well , that 's it You [V: gon] na crash on the couch ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "No.",
+			"coref_text": "No.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "No, I gotta go home sometime.",
+			"coref_text": "No, [I:Ross Geller] gotta go home sometime.",
+			"srls": [
+				"[ARGM-DIS: No] , [ARG0: I] [V: got] [ARG1: ta go home sometime] .",
+				"No , [ARG0: I] got ta [V: go] [ARG4: home] [ARGM-TMP: sometime] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "You be okay?",
+			"coref_text": "[You:Ross Geller] be okay?",
+			"srls": [
+				"[ARG1: You] [V: be] [ARG2: okay] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Yeah.",
+			"coref_text": "Yeah.",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Hey Mon, look what I just found on the floor.",
+			"coref_text": "Hey Mon, look what [I:Rachel Green] just found on the floor.",
+			"srls": [
+				"[ARGM-DIS: Hey Mon] , [V: look] [ARG1: what I just found on the floor] .",
+				"Hey Mon , look [ARG1: what] [ARG0: I] [ARGM-ADV: just] [V: found] [ARGM-LOC: on the floor] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "What?",
+			"coref_text": "What?",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "That's Paul's watch.",
+			"coref_text": "That's [Paul:Paul]'s watch.",
+			"srls": [
+				"[ARG1: That] [V: 's] [ARG2: Paul 's watch] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "You just put it back where you found it.",
+			"coref_text": "[You:Rachel Green] just put it back where [you:Rachel Green] found it.",
+			"srls": [
+				"[ARG0: You] [ARGM-ADV: just] [V: put] [ARG1: it] [ARG2: back where you found it] .",
+				"You just put it back [ARGM-LOC: where] [ARG0: you] [V: found] [ARG1: it] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Oh boy.",
+			"coref_text": "Oh boy.",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Alright.",
+			"coref_text": "Alright.",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Goodnight, everybody.",
+			"coref_text": "Goodnight, everybody.",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel,_Ross",
+			"text": "Goodnight.",
+			"coref_text": "Goodnight.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Mmm. Oh, no-",
+			"coref_text": "Mmm. Oh, no-",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Sorry-",
+			"coref_text": "Sorry-",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "No no no, go-",
+			"coref_text": "No no no, go-",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "No, you have it, really, I don't want it-",
+			"coref_text": "No, [you:Ross Geller] have it, really, [I:Rachel Green] don't want it-",
+			"srls": [
+				"No , [ARG0: you] [V: have] [ARG1: it] , really , I do n't want it-",
+				"No , you have it , really , I [V: do] n't want it-",
+				"No , you have it , really , [ARG0: I] do [ARGM-NEG: n't] [V: want] [ARG1: it-]"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Split it?",
+			"coref_text": "Split it?",
+			"srls": [
+				"[V: Split] [ARG1: it] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Okay.",
+			"coref_text": "Okay.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Okay.",
+			"coref_text": "Okay.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "You know you probably didn't know this, but back in high school, I had a, um, major crush on you.",
+			"coref_text": "[You:Rachel Green] know [you:Rachel Green] probably didn't know this, but back in high school, [I:Ross Geller] had a, um, major crush on [you:Rachel Green].",
+			"srls": [
+				"[ARG0: You] [V: know] [ARG1: you probably did n't know this] , but back in high school , I had a , um , major crush on you .",
+				"You know you probably [V: did] n't know this , but back in high school , I had a , um , major crush on you .",
+				"You know [ARG0: you] [ARGM-ADV: probably] did [ARGM-NEG: n't] [V: know] [ARG1: this] , but back in high school , I had a , um , major crush on you .",
+				"You know you probably did n't know this , but [ARGM-TMP: back in high school] , [ARG0: I] [V: had] [ARG1: a , um , major crush on you] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I knew.",
+			"coref_text": "[I:Rachel Green] knew.",
+			"srls": [
+				"[ARG0: I] [V: knew] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "You did!",
+			"coref_text": "[You:Rachel Green] did!",
+			"srls": [
+				"You [V: did] !"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Oh....",
+			"coref_text": "Oh....",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "I always figured you just thought I was Monica's geeky older brother.",
+			"coref_text": "[I:Ross Geller] always figured [you:Rachel Green] just thought [I:Ross Geller] was [Monica:Monica Geller]'s geeky older [brother:Ross Geller].",
+			"srls": [
+				"[ARG0: I] [ARGM-TMP: always] [V: figured] [ARG1: you just thought I was Monica 's geeky older brother] .",
+				"I always figured [ARG0: you] [ARGM-ADV: just] [V: thought] [ARG1: I was Monica 's geeky older brother] .",
+				"I always figured you just thought [ARG1: I] [V: was] [ARG2: Monica 's geeky older brother] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I did.",
+			"coref_text": "[I:Rachel Green] did.",
+			"srls": [
+				"I [V: did] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Oh.",
+			"coref_text": "Oh.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Listen, do you think- and try not to let my intense vulnerability become any kind of a factor here- but do you think it would be okay if I asked you out?",
+			"coref_text": "Listen, do [you:Rachel Green] think- and try not to let [my:Ross Geller] intense vulnerability become any kind of a factor here- but do [you:Rachel Green] think it would be okay if [I:Ross Geller] asked [you:Rachel Green] out?",
+			"srls": [
+				"[V: Listen] , do you think- and try not to let my intense vulnerability become any kind of a factor here- but do you think it would be okay if I asked you out ?",
+				"Listen , [V: do] you think- and try not to let my intense vulnerability become any kind of a factor here- but do you think it would be okay if I asked you out ?",
+				"[ARGM-DIS: Listen] , do [ARG0: you] [V: think-] and try not to let my intense vulnerability become any kind of a factor here- but do you think it would be okay if I asked you out ?",
+				"[ARGM-DIS: Listen] , do [ARG0: you] think- and [V: try] [ARG1: not to let my intense vulnerability become any kind of a factor here-] but do you think it would be okay if I asked you out ?",
+				"Listen , do [ARG0: you] think- and try [ARGM-NEG: not] to [V: let] [ARG1: my intense vulnerability become any kind of a factor] here- but do you think it would be okay if I asked you out ?",
+				"Listen , do you think- and try not to let [ARG1: my intense vulnerability] [V: become] [ARG2: any kind of a factor] here- but do you think it would be okay if I asked you out ?",
+				"Listen , do you think- and try not to let my intense vulnerability become any kind of a factor here- but [V: do] you think it would be okay if I asked you out ?",
+				"Listen , do you think- and try not to let my intense vulnerability become any kind of a factor here- but do [ARG0: you] [V: think] [ARG1: it would be okay] [ARGM-ADV: if I asked you out] ?",
+				"Listen , do you think- and try not to let my intense vulnerability become any kind of a factor here- but do you think it [V: would] be okay if I asked you out ?",
+				"Listen , do you think- and try not to let my intense vulnerability become any kind of a factor here- but do you think [ARG1: it] [ARGM-MOD: would] [V: be] [ARG2: okay] [ARGM-ADV: if I asked you out] ?",
+				"Listen , do you think- and try not to let my intense vulnerability become any kind of a factor here- but do you think it would be okay if [ARG0: I] [V: asked] [ARG2: you] [ARGM-DIR: out] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Sometime?",
+			"coref_text": "Sometime?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Maybe?",
+			"coref_text": "Maybe?",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Yeah, maybe...",
+			"coref_text": "Yeah, maybe...",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Okay...",
+			"coref_text": "Okay...",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "okay, maybe I will...",
+			"coref_text": "okay, maybe [I:Ross Geller] will...",
+			"srls": [
+				"okay , maybe [ARG0: I] [V: will] ..."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Goodnight.",
+			"coref_text": "Goodnight.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Goodnight.",
+			"coref_text": "Goodnight.",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "See ya....",
+			"coref_text": "See [ya:Ross Geller]....",
+			"srls": [
+				"[V: See] [ARG1: ya] ...."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Waitwait, what's with you?",
+			"coref_text": "Waitwait, what's with [you:Ross Geller]?",
+			"srls": [
+				"Waitwait , [ARG1: what] [V: 's] [ARG2: with you] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "I just grabbed a spoon.",
+			"coref_text": "[I:Ross Geller] just grabbed a spoon.",
+			"srls": [
+				"[ARG0: I] [ARGM-ADV: just] [V: grabbed] [ARG1: a spoon] ."
+			]
+		}
+	]
+}

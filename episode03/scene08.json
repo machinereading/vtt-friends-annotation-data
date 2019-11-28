@@ -1,0 +1,172 @@
+{
+	"scene_id": "friends-s01e03-08",
+	"sentences": [
+		{
+			"speaker": "Monica_Geller",
+			"text": "Did you ever go out with a guy your friends all really like?",
+			"coref_text": "Did [you:Paula] ever go out with a guy [your:Paula] friends all really like?",
+			"srls": [
+				"[V: Did] you ever go out with a guy your friends all really like ?",
+				"Did [ARG0: you] [ARGM-TMP: ever] [V: go] [ARGM-DIR: out] [ARGM-COM: with a guy your friends all really like] ?"
+			]
+		},
+		{
+			"speaker": "Paula",
+			"text": "No.",
+			"coref_text": "No.",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Okay..",
+			"coref_text": "Okay..",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Well, I'm going out with a guy my friends all really like.",
+			"coref_text": "Well, [I:Monica Geller]'m going out with a guy [my:Monica Geller] friends all really like.",
+			"srls": [
+				"Well , I [V: 'm] going out with a guy my friends all really like .",
+				"[ARGM-DIS: Well] , [ARG0: I] 'm [V: going] out [ARGM-COM: with a guy my friends all really like] ."
+			]
+		},
+		{
+			"speaker": "Paula",
+			"text": "Waitwait..",
+			"coref_text": "Waitwait..",
+			"srls": [
+				"[V: Waitwait] .."
+			]
+		},
+		{
+			"speaker": "Paula",
+			"text": "we talking about the coyotes here?",
+			"coref_text": "we talking about the coyotes here?",
+			"srls": [
+				"[ARG0: we] [V: talking] [ARG1: about the coyotes] [ARGM-LOC: here] ?"
+			]
+		},
+		{
+			"speaker": "Paula",
+			"text": "All right, a cow got through!",
+			"coref_text": "All right, a cow got through!",
+			"srls": [
+				"[ARGM-DIS: All right] , [ARG0: a cow] [V: got] through !"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Can you believe it?",
+			"coref_text": "Can [you:Paula] believe it?",
+			"srls": [
+				"[V: Can] you believe it ?",
+				"[ARGM-MOD: Can] [ARG0: you] [V: believe] [ARG1: it] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "...",
+			"coref_text": "...",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Y'know what?",
+			"coref_text": "Y'know what?",
+			"srls": [
+				"[V: Y'know] [ARG2: what] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "I just don't feel the thing.",
+			"coref_text": "[I:Monica Geller] just don't feel the thing.",
+			"srls": [
+				"I just [V: do] n't feel the thing .",
+				"[ARG0: I] [ARGM-ADV: just] do [ARGM-NEG: n't] [V: feel] [ARG1: the thing] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "I mean, they feel the thing, I don't feel the thing.",
+			"coref_text": "[I:Monica Geller] mean, they feel the thing, [I:Monica Geller] don't feel the thing.",
+			"srls": [
+				"[ARG0: I] [V: mean] , they feel the thing , I do n't feel the thing .",
+				"I mean , [ARG0: they] [V: feel] [ARG1: the thing] , I do n't feel the thing .",
+				"I mean , they feel the thing , I [V: do] n't feel the thing .",
+				"I mean , they feel the thing , [ARG0: I] do [ARGM-NEG: n't] [V: feel] [ARG1: the thing] ."
+			]
+		},
+		{
+			"speaker": "Paula",
+			"text": "Honey..",
+			"coref_text": "[Honey:Monica Geller]..",
+			"srls": []
+		},
+		{
+			"speaker": "Paula",
+			"text": "you should always feel the thing.",
+			"coref_text": "[you:Monica Geller] should always feel the thing.",
+			"srls": [
+				"you [V: should] always feel the thing .",
+				"[ARG0: you] [ARGM-MOD: should] [ARGM-TMP: always] [V: feel] [ARG1: the thing] ."
+			]
+		},
+		{
+			"speaker": "Paula",
+			"text": "Listen, if that's how you feel about the guy, Monica, dump him!",
+			"coref_text": "Listen, if that's how [you:Monica Geller] feel about the guy, [Monica:Monica Geller], dump him!",
+			"srls": [
+				"[V: Listen] , if that 's how you feel about the guy , Monica , dump him !",
+				"Listen , if [ARG1: that] [V: 's] [ARG2: how you feel about the guy] , Monica , dump him !",
+				"Listen , if that 's [ARG1: how] [ARG0: you] [V: feel] [ARG2: about the guy] , Monica , dump him !",
+				"[ARGM-DIS: Listen] , [ARGM-ADV: if that 's how you feel about the guy] , [ARGM-DIS: Monica] , [V: dump] [ARG1: him] !"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "I know..",
+			"coref_text": "[I:Monica Geller] know..",
+			"srls": [
+				"[ARG0: I] [V: know] .."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "it's gonna be really hard.",
+			"coref_text": "it's gonna be really hard.",
+			"srls": [
+				"it [V: 's] gon na be really hard .",
+				"it 's [V: gon] na be really hard .",
+				"[ARG1: it] 's gon na [V: be] [ARG2: really hard] ."
+			]
+		},
+		{
+			"speaker": "Paula",
+			"text": "Well, he's a big boy, he'll get over it.",
+			"coref_text": "Well, he's a big boy, he'll get over it.",
+			"srls": [
+				"Well , [ARG1: he] [V: 's] [ARG2: a big boy] , he 'll get over it .",
+				"Well , he 's a big boy , [ARG1: he] [ARGM-MOD: 'll] [V: get] [ARG2: over it] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "No, he'll be fine.",
+			"coref_text": "No, he'll be fine.",
+			"srls": [
+				"[ARGM-DIS: No] , [ARG1: he] [ARGM-MOD: 'll] [V: be] [ARG2: fine] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "It's the other five I'm worried about.",
+			"coref_text": "It's the other five [I:Monica Geller]'m worried about.",
+			"srls": [
+				"[ARG1: It] [V: 's] [ARG2: the other five I 'm worried about] .",
+				"It 's the other five [ARG1: I] [V: 'm] [ARG2: worried about] ."
+			]
+		}
+	]
+}

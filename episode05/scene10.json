@@ -1,0 +1,219 @@
+{
+	"scene_id": "friends-s01e05-10",
+	"sentences": [
+		{
+			"speaker": "Ross_Geller",
+			"text": "You got the clothes clean.",
+			"coref_text": "[You:Rachel Green] got the clothes clean.",
+			"srls": [
+				"[ARG0: You] [V: got] [ARG1: the clothes clean] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Now that's the important part.",
+			"coref_text": "Now that's the important part.",
+			"srls": [
+				"[ARGM-DIS: Now] [ARG1: that] [V: 's] [ARG2: the important part] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Oh, I guess.",
+			"coref_text": "Oh, [I:Rachel Green] guess.",
+			"srls": [
+				"Oh , [ARG0: I] [V: guess] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Except everything looks like jammies now.",
+			"coref_text": "Except everything looks like jammies now.",
+			"srls": [
+				"[ARGM-DIS: Except] [ARG0: everything] [V: looks] [ARG1: like jammies] [ARGM-TMP: now] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Whoa, I'm sorry.",
+			"coref_text": "Whoa, [I:Rachel Green]'m sorry.",
+			"srls": [
+				"[ARGM-DIS: Whoa] , [ARG1: I] [V: 'm] [ARG2: sorry] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Excuse me.",
+			"coref_text": "Excuse [me:Rachel Green].",
+			"srls": [
+				"[V: Excuse] [ARG1: me] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "We had this cart.",
+			"coref_text": "We had this cart.",
+			"srls": [
+				"[ARG0: We] [V: had] [ARG1: this cart] ."
+			]
+		},
+		{
+			"speaker": "Woman",
+			"text": "Yeah, well, I had a24- inch waist.",
+			"coref_text": "Yeah, well, [I:Woman] had a24- inch waist.",
+			"srls": [
+				"[ARGM-DIS: Yeah] , [ARGM-DIS: well] , [ARG0: I] [V: had] [ARG1: a24- inch waist] ."
+			]
+		},
+		{
+			"speaker": "Woman",
+			"text": "You lose things.",
+			"coref_text": "You lose things.",
+			"srls": [
+				"[ARG0: You] [V: lose] [ARG1: things] ."
+			]
+		},
+		{
+			"speaker": "Woman",
+			"text": "Now come on, get outta my way.",
+			"coref_text": "Now come on, get outta [my:Woman] way.",
+			"srls": [
+				"[ARGM-DIS: Now] [V: come] [ARGM-DIR: on] , get outta my way .",
+				"[ARGM-TMP: Now] come on , [V: get] [ARG2: outta my way] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I'm sorry, you know, maybe I wasn't being clear.",
+			"coref_text": "[I:Rachel Green]'m sorry, [you:Woman] know, maybe [I:Rachel Green] wasn't being clear.",
+			"srls": [
+				"[ARG1: I] [V: 'm] [ARG2: sorry] , you know , maybe I was n't being clear .",
+				"I 'm sorry , [ARG0: you] [V: know] , maybe I was n't being clear .",
+				"I 'm sorry , you know , maybe I [V: was] n't being clear .",
+				"I 'm sorry , you know , [ARGM-ADV: maybe] [ARG1: I] was [ARGM-NEG: n't] [V: being] [ARG2: clear] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Uh, this is our cart.",
+			"coref_text": "Uh, this is our cart.",
+			"srls": [
+				"[ARGM-DIS: Uh] , [ARG1: this] [V: is] [ARG2: our cart] ."
+			]
+		},
+		{
+			"speaker": "Woman",
+			"text": "Hey, hey, hey there aren't any clothes in it.",
+			"coref_text": "Hey, hey, hey there aren't any clothes in it.",
+			"srls": [
+				"[ARGM-DIS: Hey] , [ARGM-DIS: hey] , [ARGM-DIS: hey] there [V: are] [ARGM-NEG: n't] [ARG1: any clothes] [ARGM-LOC: in it] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Hey, hey, hey, hey, quit making up rules!",
+			"coref_text": "Hey, hey, hey, hey, quit making up rules!",
+			"srls": [
+				"[ARGM-DIS: Hey] , [ARGM-DIS: hey] , [ARGM-DIS: hey] , [ARGM-DIS: hey] , [V: quit] [ARG1: making up rules] !",
+				"Hey , hey , hey , hey , quit [V: making] up [ARG1: rules] !"
+			]
+		},
+		{
+			"speaker": "Woman",
+			"text": "Let go!",
+			"coref_text": "Let go!",
+			"srls": [
+				"[V: Let] [ARG1: go] !",
+				"Let [V: go] !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "All right, listen, missy.",
+			"coref_text": "All right, listen, missy.",
+			"srls": [
+				"[ARGM-DIS: All right] , [V: listen] , [ARGM-DIS: missy] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "If you want this cart, you're gonna have to take me with it!",
+			"coref_text": "If [you:Woman] want this cart, [you:Woman]'re gonna have to take [me:Rachel Green] with it!",
+			"srls": [
+				"If [ARG0: you] [V: want] [ARG1: this cart] , you 're gon na have to take me with it !",
+				"If you want this cart , you [V: 're] gon na have to take me with it !",
+				"If you want this cart , you 're [V: gon] na have to take me with it !",
+				"If you want this cart , you 're gon na [V: have] to take me with it !",
+				"If you want this cart , [ARG0: you] 're gon na have to [V: take] [ARG1: me] [ARGM-MNR: with it] !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Yes!",
+			"coref_text": "Yes!",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Did you see that?",
+			"coref_text": "Did [you:Ross Geller] see that?",
+			"srls": [
+				"[V: Did] you see that ?",
+				"Did [ARG0: you] [V: see] [ARG1: that] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "You were incredible!",
+			"coref_text": "[You:Rachel Green] were incredible!",
+			"srls": [
+				"[ARG1: You] [V: were] [ARG2: incredible] !"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Brand new woman, ladies and gentlemen.",
+			"coref_text": "Brand new [woman:Rachel Green], ladies and gentlemen.",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I could not have done this without you.",
+			"coref_text": "[I:Rachel Green] could not have done this without [you:Ross Geller].",
+			"srls": [
+				"I [V: could] not have done this without you .",
+				"I could not [V: have] done this without you .",
+				"[ARG0: I] [ARGM-MOD: could] [ARGM-NEG: not] have [V: done] [ARG1: this] [ARGM-MNR: without you] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Ok, um, uh, more clothes in the dryer?",
+			"coref_text": "Ok, um, uh, more clothes in the dryer?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "I'm fine, I'm fine.",
+			"coref_text": "[I:Ross Geller]'m fine, [I:Ross Geller]'m fine.",
+			"srls": [
+				"[ARG1: I] [V: 'm] [ARG2: fine] , I 'm fine .",
+				"I 'm fine , [ARG1: I] [V: 'm] [ARG2: fine] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Are you sure?",
+			"coref_text": "Are [you:Ross Geller] sure?",
+			"srls": [
+				"[V: Are] [ARG1: you] [ARG2: sure] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "No.",
+			"coref_text": "No.",
+			"srls": []
+		}
+	]
+}

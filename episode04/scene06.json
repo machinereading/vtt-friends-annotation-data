@@ -1,0 +1,189 @@
+{
+	"scene_id": "friends-s01e04-06",
+	"sentences": [
+		{
+			"speaker": "Ross_Geller",
+			"text": "I remember the moonlight coming through the window- and her face had the most incredible glow.",
+			"coref_text": "[I:Ross Geller] remember the moonlight coming through the window- and [her:Carol Willick] face had the most incredible glow.",
+			"srls": [
+				"[ARG0: I] [V: remember] [ARG1: the moonlight coming through the window-] and her face had the most incredible glow .",
+				"I remember [ARG1: the moonlight] [V: coming] [ARGM-DIR: through the window-] and her face had the most incredible glow .",
+				"I remember the moonlight coming through the window- and [ARG0: her face] [V: had] [ARG1: the most incredible glow] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Yes, the moon, the glow, the magical feeling, you did this part- Could I get some painkillers over here, please?",
+			"coref_text": "Yes, the moon, the glow, the magical feeling, [you:Ross Geller] did this part- Could [I:Chandler Bing] get some painkillers over here, please?",
+			"srls": [
+				"[ARGM-DIS: Yes] , the moon , the glow , the magical feeling , [ARG0: you] [V: did] [ARG1: this] part- Could I get some painkillers over here , please ?",
+				"Yes , the moon , the glow , the magical feeling , you did this part- [V: Could] I get some painkillers over here , please ?",
+				"Yes , the moon , the glow , the magical feeling , you did this part- [ARGM-MOD: Could] [ARG0: I] [V: get] [ARG1: some painkillers] [ARGM-LOC: over here] , [ARGM-DIS: please] ?"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "He's right, enough, already.",
+			"coref_text": "[He:Chandler Bing]'s right, enough, already.",
+			"srls": [
+				"[ARG1: He] [V: 's] [ARG2: right , enough] , [ARGM-TMP: already] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "What is the big deal about today?",
+			"coref_text": "What is the big deal about today?",
+			"srls": [
+				"[ARG2: What] [V: is] [ARG1: the big deal about today] ?"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "So you slept with her for the first time, so what?",
+			"coref_text": "So [you:Ross Geller] slept with [her:Carol Willick] for the first time, so what?",
+			"srls": [
+				"[ARGM-DIS: So] [ARG0: you] [V: slept] [ARGM-COM: with her] [ARGM-TMP: for the first time] , so what ?"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "You slept with her for seven years after that.",
+			"coref_text": "[You:Ross Geller] slept with [her:Carol Willick] for seven years after that.",
+			"srls": [
+				"[ARG0: You] [V: slept] [ARGM-COM: with her] [ARGM-TMP: for seven years after that] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Look, it's just a little more complicated...",
+			"coref_text": "Look, it's just a little more complicated...",
+			"srls": [
+				"[V: Look] , it 's just a little more complicated ...",
+				"[ARGM-DIS: Look] , [ARG1: it] [V: 's] [ARG2: just a little more complicated] ..."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Well, what?",
+			"coref_text": "Well, what?",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "What?",
+			"coref_text": "What?",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "What is it?",
+			"coref_text": "What is it?",
+			"srls": [
+				"[ARG2: What] [V: is] [ARG1: it] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "That she left you?",
+			"coref_text": "That [she:Carol Willick] left [you:Ross Geller]?",
+			"srls": [
+				"That [ARG0: she] [V: left] [ARG1: you] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "That she likes women?",
+			"coref_text": "That [she:Carol Willick] likes women?",
+			"srls": [
+				"That [ARG0: she] [V: likes] [ARG1: women] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "That she left you for another woman that likes women?",
+			"coref_text": "That [she:Carol Willick] left [you:Ross Geller] for another [woman:Susan Bunch] that likes women?",
+			"srls": [
+				"That [ARG0: she] [V: left] [ARG1: you] [ARG2: for another woman that likes women] ?",
+				"That she left you for [ARG0: another woman] [R-ARG0: that] [V: likes] [ARG1: women] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you...",
+			"coref_text": "Little louder, okay, [I:Ross Geller] think there's a man on the twelfth floor in a coma that didn't quite hear [you:Chandler Bing]...",
+			"srls": [
+				"[ARGM-DIS: Little louder] , [ARGM-DIS: okay] , [ARG0: I] [V: think] [ARG1: there 's a man on the twelfth floor in a coma that did n't quite hear you] ...",
+				"Little louder , okay , I think there [V: 's] [ARG1: a man on the twelfth floor in a coma that did n't quite hear you] ...",
+				"Little louder , okay , I think there 's a man on the twelfth floor in a coma that [V: did] n't quite hear you ...",
+				"Little louder , okay , I think there 's [ARG0: a man on the twelfth floor in] a coma [R-ARG0: that] did [ARGM-NEG: n't] [ARGM-ADV: quite] [V: hear] [ARG2: you] ..."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Then what?",
+			"coref_text": "Then what?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "My first time with Carol was...",
+			"coref_text": "[My:Ross Geller] first time with [Carol:Carol Willick] was...",
+			"srls": [
+				"[ARG1: My first time with Carol] [V: was] ..."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "What?",
+			"coref_text": "What?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "It was my first time.",
+			"coref_text": "It was [my:Ross Geller] first time.",
+			"srls": [
+				"[ARG1: It] [V: was] [ARG2: my first time] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "With Carol?",
+			"coref_text": "With [Carol:Carol Willick]?",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Oh.",
+			"coref_text": "Oh.",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "So in your whole life, you've only been with one oh.",
+			"coref_text": "So in [your:Ross Geller] whole life, [you:Ross Geller]'ve only been with one oh.",
+			"srls": [
+				"So in your whole life , you [V: 've] only been with one oh .",
+				"[ARGM-DIS: So] [ARGM-TMP: in your whole life] , [ARG1: you] 've [ARGM-ADV: only] [V: been] [ARG2: with one] oh ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Whoah, boy, hockey was a big mistake!",
+			"coref_text": "Whoah, boy, hockey was a big mistake!",
+			"srls": [
+				"[ARGM-DIS: Whoah] , [ARGM-DIS: boy] , [ARG1: hockey] [V: was] [ARG2: a big mistake] !"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "There was a whole bunch of stuff we could've done tonight!",
+			"coref_text": "There was a whole bunch of stuff we could've done tonight!",
+			"srls": [
+				"There [V: was] [ARG1: a whole bunch of stuff we could 've done tonight] !",
+				"There was a whole bunch of stuff we could [V: 've] done tonight !",
+				"There was [ARG1: a whole bunch of stuff] [ARG0: we] [ARGM-MOD: could] 've [V: done] [ARGM-TMP: tonight] !"
+			]
+		}
+	]
+}

@@ -1,0 +1,227 @@
+{
+	"scene_id": "friends-s01e02-08",
+	"sentences": [
+		{
+			"speaker": "Ross_Geller",
+			"text": "Well?",
+			"coref_text": "Well?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Isn't that amazing?",
+			"coref_text": "Isn't that amazing?",
+			"srls": [
+				"[V: Is] [ARGM-NEG: n't] [ARG1: that] [ARG2: amazing] ?"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "What are we supposed to be seeing here?",
+			"coref_text": "What are we supposed to be seeing here?",
+			"srls": [
+				"What [V: are] we supposed to be seeing here ?",
+				"What are [ARG1: we] [V: supposed] [ARG2: to be seeing here] ?",
+				"What are we supposed to [V: be] seeing here ?",
+				"[ARG1: What] are [ARG0: we] supposed to be [V: seeing] [ARGM-LOC: here] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "I du n no, but..",
+			"coref_text": "[I:Chandler Bing] du n no, but..",
+			"srls": [
+				"[ARG1: I] [V: du] n [ARGM-DIS: no] , [ARGM-DIS: but] .."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "I think it's about to attack the Enterprise.",
+			"coref_text": "[I:Chandler Bing] think it's about to attack the Enterprise.",
+			"srls": [
+				"[ARG0: I] [V: think] [ARG1: it 's about to attack the Enterprise] .",
+				"I think [ARG1: it] [V: 's] [ARG2: about to attack the Enterprise] .",
+				"I think [ARG0: it] 's about to [V: attack] [ARG1: the Enterprise] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "You know, if you tilt your head to the left, and relax your eyes, it kinda looks like an old potato.",
+			"coref_text": "You know, if you tilt your head to the left, and relax your eyes, it kinda looks like an old potato.",
+			"srls": [
+				"[ARG0: You] [V: know] , if you tilt your head to the left , and relax your eyes , it kinda looks like an old potato .",
+				"You know , if [ARG0: you] [V: tilt] [ARG1: your head] [ARGM-DIR: to the left] , and relax your eyes , it kinda looks like an old potato .",
+				"You know , if [ARG0: you] tilt your head to the left , and [V: relax] [ARG1: your eyes] , it kinda looks like an old potato .",
+				"You know , [ARGM-ADV: if you tilt your head to the left , and relax your eyes] , [ARG0: it] [ARGM-ADV: kinda] [V: looks] [ARG1: like an old potato] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Then don't do that, alright?",
+			"coref_text": "Then don't do that, alright?",
+			"srls": [
+				"Then [V: do] n't do that , alright ?",
+				"[ARGM-TMP: Then] do [ARGM-NEG: n't] [V: do] [ARG1: that] , [ARGM-DIS: alright] ?"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Okay!",
+			"coref_text": "Okay!",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Monica.",
+			"coref_text": "[Monica:Monica Geller].",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Whaddya think?",
+			"coref_text": "[Whaddya:Monica Geller] think?",
+			"srls": [
+				"[ARG0: Whaddya] [V: think] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Mm-hmm.",
+			"coref_text": "Mm-hmm.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Wh- are you welling up?",
+			"coref_text": "Wh- are [you:Monica Geller] welling up?",
+			"srls": [
+				"Wh- [V: are] you welling up ?",
+				"[ARGM-DIS: Wh-] are [ARG1: you] [V: welling] up ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "No.",
+			"coref_text": "No.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "You are, you're welling up.",
+			"coref_text": "[You:Monica Geller] are, [you:Monica Geller]'re welling up.",
+			"srls": [
+				"[ARG1: You] [V: are] , you 're welling up .",
+				"You are , you [V: 're] welling up .",
+				"You are , [ARG1: you] 're [V: welling] up ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Am not!",
+			"coref_text": "Am not!",
+			"srls": [
+				"[V: Am] [ARGM-NEG: not] !"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "You're gonna be an aunt.",
+			"coref_text": "[You:Monica Geller]'re gonna be an [aunt:Monica Geller].",
+			"srls": [
+				"You [V: 're] gon na be an aunt .",
+				"You 're [V: gon] na be an aunt .",
+				"[ARG1: You] 're gon na [V: be] [ARG2: an aunt] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Oh shut up!",
+			"coref_text": "Oh shut up!",
+			"srls": [
+				"[ARGM-DIS: Oh] [V: shut] up !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Hi, Mindy.",
+			"coref_text": "Hi, [Mindy:Mindy].",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Hi, it- it's Rachel.",
+			"coref_text": "Hi, it- it's Rachel.",
+			"srls": [
+				"Hi , [V: it-] it 's Rachel .",
+				"[ARGM-DIS: Hi] , [ARGM-DIS: it-] [ARG1: it] [V: 's] [ARG2: Rachel] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Yeah, I'm fine.",
+			"coref_text": "Yeah, [I:Rachel Green]'m fine.",
+			"srls": [
+				"[ARGM-DIS: Yeah] , [ARG1: I] [V: 'm] [ARG2: fine] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I- I saw Barry today.",
+			"coref_text": "[I:Rachel Green]- [I:Rachel Green] saw [Barry:Barry] today.",
+			"srls": [
+				"I- [ARG0: I] [V: saw] [ARG1: Barry] [ARGM-TMP: today] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Oh, yeah, yeah he- he told me.",
+			"coref_text": "Oh, yeah, yeah [he:Barry]- [he:Barry] told [me:Rachel Green].",
+			"srls": [
+				"[ARGM-DIS: Oh] , [ARGM-DIS: yeah] , [ARGM-DIS: yeah] he- [ARG0: he] [V: told] [ARG2: me] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "No, no, it's okay.",
+			"coref_text": "No, no, it's okay.",
+			"srls": [
+				"[ARGM-DIS: No , no] , [ARG1: it] [V: 's] [ARG2: okay] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I hope you two are very happy, I really do.",
+			"coref_text": "[I:Rachel Green] hope you two are very happy, [I:Rachel Green] really do.",
+			"srls": [
+				"[ARG0: I] [V: hope] [ARG1: you two are very happy] , I really do .",
+				"I hope [ARG1: you two] [V: are] [ARG2: very happy] , I really do .",
+				"I hope you two are very happy , I really [V: do] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Oh, oh, and Mind, y'know, if- if everything works out, and you guys end up getting married and having kids- and everything- I just hope they have his old hairline and your old nose.",
+			"coref_text": "Oh, oh, and Mind, y'know, if- if everything works out, and you guys end up getting married and having kids- and everything- [I:Rachel Green] just hope they have [his:Barry] old hairline and [your:Mindy] old nose.",
+			"srls": [
+				"Oh , oh , and Mind , y'know , if- if [ARG1: everything] [V: works] out , and you guys end up getting married and having kids- and everything- I just hope they have his old hairline and your old nose .",
+				"Oh , oh , and Mind , y'know , if- if everything works out , and [ARG1: you guys] [V: end] up [ARG2: getting married and having kids- and everything-] I just hope they have his old hairline and your old nose .",
+				"Oh , oh , and Mind , y'know , if- if everything works out , and [ARG1: you guys] end up [V: getting] [ARG2: married] and having kids- and everything- I just hope they have his old hairline and your old nose .",
+				"Oh , oh , and Mind , y'know , if- if everything works out , and [ARG1: you guys] end up getting [V: married] and having kids- and everything- I just hope they have his old hairline and your old nose .",
+				"Oh , oh , and Mind , y'know , if- if everything works out , and [ARG0: you guys] end up getting married and [V: having] [ARG1: kids- and everything-] I just hope they have his old hairline and your old nose .",
+				"Oh , oh , and Mind , y'know , if- if everything works out , and you guys end up getting married and having kids- and [V: everything-] I just hope they have his old hairline and your old nose .",
+				"[ARGM-DIS: Oh] , [ARGM-DIS: oh] , and [ARGM-DIS: Mind] , [ARGM-DIS: y'know] , [ARGM-ADV: if-] [ARGM-ADV: if everything works out , and you guys end up getting married and having kids- and everything-] [ARG0: I] [ARGM-ADV: just] [V: hope] [ARG1: they have his old hairline and your old nose] .",
+				"Oh , oh , and Mind , y'know , if- if everything works out , and you guys end up getting married and having kids- and everything- I just hope [ARG0: they] [V: have] [ARG1: his old hairline and your old nose] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Okay, I know it was a cheap shot, but I feel so much better now.",
+			"coref_text": "Okay, [I:Rachel Green] know it was a cheap shot, but [I:Rachel Green] feel so much better now.",
+			"srls": [
+				"[ARGM-DIS: Okay] , [ARG0: I] [V: know] [ARG1: it was a cheap shot] , but I feel so much better now .",
+				"Okay , I know [ARG1: it] [V: was] [ARG2: a cheap shot] , but I feel so much better now .",
+				"Okay , I know it was a cheap shot , but [ARG0: I] [V: feel] [ARG1: so much better] [ARGM-TMP: now] ."
+			]
+		}
+	]
+}

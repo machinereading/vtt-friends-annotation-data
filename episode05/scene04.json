@@ -1,0 +1,311 @@
+{
+	"scene_id": "friends-s01e05-04",
+	"sentences": [
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Where are they?",
+			"coref_text": "Where are they?",
+			"srls": [
+				"[ARG2: Where] [V: are] [ARG1: they] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Where are they?",
+			"coref_text": "Where are they?",
+			"srls": [
+				"[ARG2: Where] [V: are] [ARG1: they] ?"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "This is nice.",
+			"coref_text": "This is nice.",
+			"srls": [
+				"[ARG1: This] [V: is] [ARG2: nice] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "We never do anything just the two of us.",
+			"coref_text": "We never do anything just the two of us.",
+			"srls": [
+				"[ARG0: We] [ARGM-NEG: never] [V: do] [ARG1: anything just the two of us] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "It's great.",
+			"coref_text": "It's great.",
+			"srls": [
+				"[ARG1: It] [V: 's] [ARG2: great] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Maybe tomorrow we can rent a car and run over some puppies.",
+			"coref_text": "Maybe tomorrow we can rent a car and run over some puppies.",
+			"srls": [
+				"Maybe tomorrow we [V: can] rent a car and run over some puppies .",
+				"[ARGM-ADV: Maybe] [ARGM-TMP: tomorrow] [ARG0: we] [ARGM-MOD: can] [V: rent] [ARG1: a car] and run over some puppies .",
+				"[ARGM-ADV: Maybe] [ARGM-TMP: tomorrow] [ARG0: we] [ARGM-MOD: can] rent a car and [V: run] [ARGM-DIR: over] [ARG1: some puppies] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Eww, I don't wanna do that.",
+			"coref_text": "Eww, [I:Phoebe Buffay] don't wanna do that.",
+			"srls": [
+				"Eww , I [V: do] n't wanna do that .",
+				"[ARGM-DIS: Eww] , [ARG0: I] do [ARGM-NEG: n't] [V: wanna] [ARG1: do that] .",
+				"[ARGM-DIS: Eww] , [ARG0: I] do [ARGM-NEG: n't] wanna [V: do] [ARG1: that] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Here we go.",
+			"coref_text": "Here we go.",
+			"srls": [
+				"[ARGM-ADV: Here] [ARG0: we] [V: go] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Ok, have a good break- up.",
+			"coref_text": "Ok, have a good break- up.",
+			"srls": [
+				"[ARGM-DIS: Ok] , [V: have] [ARG1: a good break- up] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Hey, Janice.",
+			"coref_text": "Hey, [Janice:Janice].",
+			"srls": []
+		},
+		{
+			"speaker": "Janice",
+			"text": "Oh, my god, I am so glad you called me.",
+			"coref_text": "Oh, my god, [I:Janice] am so glad [you:Chandler Bing] called [me:Janice].",
+			"srls": [
+				"[ARGM-DIS: Oh] , [ARGM-DIS: my god] , [ARG1: I] [V: am] [ARG2: so glad you called me] .",
+				"Oh , my god , I am so glad [ARG0: you] [V: called] [ARG1: me] ."
+			]
+		},
+		{
+			"speaker": "Janice",
+			"text": "I had the most supremely awful day.",
+			"coref_text": "[I:Janice] had the most supremely awful day.",
+			"srls": [
+				"[ARG0: I] [V: had] [ARG1: the most supremely awful day] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Hey, that's not good.",
+			"coref_text": "Hey, that's not good.",
+			"srls": [
+				"[ARGM-DIS: Hey] , [ARG1: that] [V: 's] [ARGM-NEG: not] [ARG2: good] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Can I get an espresso and a latte over here, please?",
+			"coref_text": "Can [I:Chandler Bing] get an espresso and a latte over here, please?",
+			"srls": [
+				"[V: Can] I get an espresso and a latte over here , please ?",
+				"[ARGM-MOD: Can] [ARG0: I] [V: get] [ARG1: an espresso and a latte] [ARGM-LOC: over here] , [ARGM-DIS: please] ?"
+			]
+		},
+		{
+			"speaker": "Janice",
+			"text": "We got the proofs back from that photo shoot, you know, the one with the little vegetables.",
+			"coref_text": "We got the proofs back from that photo shoot, [you:Chandler Bing] know, the one with the little vegetables.",
+			"srls": [
+				"[ARG0: We] [V: got] [ARG1: the proofs] [ARGM-DIR: back] [ARG2: from that photo shoot , you know ,] [C-ARG1: the one with the little vegetables] .",
+				"We got the proofs back from that photo shoot , [ARG0: you] [V: know] , the one with the little vegetables ."
+			]
+		},
+		{
+			"speaker": "Janice",
+			"text": "Anyway, they pretty much sucked, so, I blew off the rest of the day, and I went shopping...",
+			"coref_text": "Anyway, they pretty much sucked, so, [I:Janice] blew off the rest of the day, and [I:Janice] went shopping...",
+			"srls": [
+				"Anyway , [ARG0: they] [ARGM-ADV: pretty much] [V: sucked] , so , I blew off the rest of the day , and I went shopping ...",
+				"Anyway , they pretty much sucked , [ARGM-DIS: so] , [ARG0: I] [V: blew] off [ARG1: the rest of the day] , and I went shopping ...",
+				"Anyway , they pretty much sucked , so , I blew off the rest of the day , and [ARG0: I] [V: went] [ARG1: shopping] ...",
+				"Anyway , they pretty much sucked , so , I blew off the rest of the day , and [ARG0: I] went [V: shopping] ..."
+			]
+		},
+		{
+			"speaker": "Janice",
+			"text": "...",
+			"coref_text": "...",
+			"srls": []
+		},
+		{
+			"speaker": "Janice",
+			"text": "and I got you, I'm looking, I'm looking, I'm looking, I got you...",
+			"coref_text": "and [I:Janice] got [you:Chandler Bing], [I:Janice]'m looking, [I:Janice]'m looking, [I:Janice]'m looking, [I:Janice] got [you:Chandler Bing]...",
+			"srls": [
+				"and [ARG0: I] [V: got] [ARG1: you] , I 'm looking , I 'm looking , I 'm looking , I got you ...",
+				"and I got you , I [V: 'm] looking , I 'm looking , I 'm looking , I got you ...",
+				"and I got you , [ARG0: I] 'm [V: looking] , I 'm looking , I 'm looking , I got you ...",
+				"and I got you , I 'm looking , I [V: 'm] looking , I 'm looking , I got you ...",
+				"and I got you , I 'm looking , [ARG0: I] 'm [V: looking] , I 'm looking , I got you ...",
+				"and I got you , I 'm looking , I 'm looking , I [V: 'm] looking , I got you ...",
+				"and I got you , I 'm looking , I 'm looking , [ARG0: I] 'm [V: looking] , I got you ...",
+				"and I got you , I 'm looking , I 'm looking , I 'm looking , [ARG0: I] [V: got] [ARG1: you] ..."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "What?",
+			"coref_text": "What?",
+			"srls": []
+		},
+		{
+			"speaker": "Janice",
+			"text": "What?",
+			"coref_text": "What?",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "What...",
+			"coref_text": "What...",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "did you get me there?",
+			"coref_text": "did [you:Janice] get [me:Chandler Bing] there?",
+			"srls": [
+				"[V: did] you get me there ?",
+				"did [ARG0: you] [V: get] [ARG1: me] [ARGM-LOC: there] ?"
+			]
+		},
+		{
+			"speaker": "Janice",
+			"text": "I got you...",
+			"coref_text": "[I:Janice] got [you:Chandler Bing]...",
+			"srls": [
+				"[ARG0: I] [V: got] [ARG1: you] ..."
+			]
+		},
+		{
+			"speaker": "Janice",
+			"text": "these.",
+			"coref_text": "these.",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Bullwinkle socks.",
+			"coref_text": "Bullwinkle socks.",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "That's so sweet.",
+			"coref_text": "That's so sweet.",
+			"srls": [
+				"[ARG1: That] [V: 's] [ARG2: so sweet] ."
+			]
+		},
+		{
+			"speaker": "Janice",
+			"text": "Well, I knew you had the Rockys, and so I figured, you know, you can wear Bullwinkle and Bullwinkle, or you can wear Rocky and Rocky, or, you can mix and match, moose and squirrel.",
+			"coref_text": "Well, [I:Janice] knew [you:Chandler Bing] had the Rockys, and so [I:Janice] figured, [you:Chandler Bing] know, [you:Chandler Bing] can wear Bullwinkle and Bullwinkle, or [you:Chandler Bing] can wear Rocky and Rocky, or, [you:Chandler Bing] can mix and match, moose and squirrel.",
+			"srls": [
+				"Well , [ARG0: I] [V: knew] [ARG1: you had the Rockys] , and so I figured , you know , you can wear Bullwinkle and Bullwinkle , or you can wear Rocky and Rocky , or , you can mix and match , moose and squirrel .",
+				"Well , I knew [ARG0: you] [V: had] [ARG1: the Rockys] , and so I figured , you know , you can wear Bullwinkle and Bullwinkle , or you can wear Rocky and Rocky , or , you can mix and match , moose and squirrel .",
+				"Well , I knew you had the Rockys , and [ARGM-DIS: so] [ARG0: I] [V: figured] , [ARGM-DIS: you know] , [ARG1: you can wear Bullwinkle and Bullwinkle , or you can wear Rocky and Rocky , or , you can mix and match , moose and squirrel] .",
+				"Well , I knew you had the Rockys , and so I figured , [ARG0: you] [V: know] , you can wear Bullwinkle and Bullwinkle , or you can wear Rocky and Rocky , or , you can mix and match , moose and squirrel .",
+				"Well , I knew you had the Rockys , and so I figured , you know , you [V: can] wear Bullwinkle and Bullwinkle , or you can wear Rocky and Rocky , or , you can mix and match , moose and squirrel .",
+				"Well , I knew you had the Rockys , and so I figured , you know , [ARG0: you] [ARGM-MOD: can] [V: wear] [ARG1: Bullwinkle and Bullwinkle] , or you can wear Rocky and Rocky , or , you can mix and match , moose and squirrel .",
+				"Well , I knew you had the Rockys , and so I figured , you know , you can wear Bullwinkle and Bullwinkle , or you [V: can] wear Rocky and Rocky , or , you can mix and match , moose and squirrel .",
+				"Well , I knew you had the Rockys , and so I figured , you know , you can wear Bullwinkle and Bullwinkle , or [ARG0: you] [ARGM-MOD: can] [V: wear] [ARG1: Rocky and Rocky] , or , you can mix and match , moose and squirrel .",
+				"Well , I knew you had the Rockys , and so I figured , you know , you can wear Bullwinkle and Bullwinkle , or you can wear Rocky and Rocky , or , you [V: can] mix and match , moose and squirrel .",
+				"Well , I knew you had the Rockys , and so I figured , you know , you can wear Bullwinkle and Bullwinkle , or you can wear Rocky and Rocky , or , [ARG0: you] [ARGM-MOD: can] [V: mix] and match , [ARG1: moose and squirrel] .",
+				"Well , I knew you had the Rockys , and so I figured , you know , you can wear Bullwinkle and Bullwinkle , or you can wear Rocky and Rocky , or , [ARG0: you] [ARGM-MOD: can] mix and [V: match] , moose and squirrel ."
+			]
+		},
+		{
+			"speaker": "Janice",
+			"text": "Whatever you want.",
+			"coref_text": "Whatever [you:Chandler Bing] want.",
+			"srls": [
+				"[ARG1: Whatever] [ARG0: you] [V: want] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "That's great.",
+			"coref_text": "That's great.",
+			"srls": [
+				"[ARG1: That] [V: 's] [ARG2: great] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Well, I'm gonna get another espresso.",
+			"coref_text": "Well, [I:Chandler Bing]'m gonna get another espresso.",
+			"srls": [
+				"Well , I [V: 'm] gon na get another espresso .",
+				"Well , I 'm [V: gon] na get another espresso .",
+				"Well , [ARG0: I] 'm gon na [V: get] [ARG1: another espresso] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Can I get you another latte?",
+			"coref_text": "Can [I:Chandler Bing] get [you:Janice] another latte?",
+			"srls": [
+				"[V: Can] I get you another latte ?",
+				"[ARGM-MOD: Can] [ARG0: I] [V: get] [ARG4: you] [ARG1: another latte] ?"
+			]
+		},
+		{
+			"speaker": "Janice",
+			"text": "No, no, I'm still working on mine.",
+			"coref_text": "No, no, [I:Janice]'m still working on mine.",
+			"srls": [
+				"No , no , I [V: 'm] still working on mine .",
+				"[ARGM-DIS: No] , [ARGM-DIS: no] , [ARG0: I] 'm [ARGM-TMP: still] [V: working] [ARG1: on mine] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "That's it?",
+			"coref_text": "That's it?",
+			"srls": [
+				"[ARG1: That] [V: 's] [ARG2: it] ?"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Yeah, it was really hard.",
+			"coref_text": "Yeah, it was really hard.",
+			"srls": [
+				"[ARGM-DIS: Yeah] , [ARG1: it] [V: was] [ARG2: really hard] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Oh, yeah, that hug looked pretty brutal.",
+			"coref_text": "Oh, yeah, that hug looked pretty brutal.",
+			"srls": [
+				"[ARGM-DIS: Oh] , [ARGM-DIS: yeah] , [ARG0: that hug] [V: looked] [ARG1: pretty brutal] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Ok, you weren't there.",
+			"coref_text": "Ok, [you:Chandler Bing] weren't there.",
+			"srls": [
+				"[ARGM-DIS: Ok] , [ARG1: you] [V: were] [ARGM-NEG: n't] [ARG2: there] ."
+			]
+		}
+	]
+}

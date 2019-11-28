@@ -1,0 +1,747 @@
+{
+	"scene_id": "friends-s01e04-00",
+	"sentences": [
+		{
+			"speaker": "Monica_Geller",
+			"text": "How does she do that?",
+			"coref_text": "How does [she:Phoebe Buffay] do that?",
+			"srls": [
+				"How [V: does] she do that ?",
+				"[ARGM-MNR: How] does [ARG0: she] [V: do] [ARG1: that] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "I can not sleep in a public place.",
+			"coref_text": "[I:Ross Geller] can not sleep in a public place.",
+			"srls": [
+				"I can not sleep in a public place .",
+				"[ARG0: I] [ARGM-MOD: can] [ARGM-NEG: not] [V: sleep] [ARGM-LOC: in a public place] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Would you look at her?",
+			"coref_text": "Would [you:Ross Geller] look at [her:Phoebe Buffay]?",
+			"srls": [
+				"[V: Would] you look at her ?",
+				"[ARGM-MOD: Would] [ARG0: you] [V: look] [ARG1: at her] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "She is so peaceful.",
+			"coref_text": "[She:Phoebe Buffay] is so peaceful.",
+			"srls": [
+				"[ARG1: She] [V: is] [ARG2: so peaceful] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Oh!",
+			"coref_text": "Oh!",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "What what what!",
+			"coref_text": "What what what!",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "...",
+			"coref_text": "...",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Hi.",
+			"coref_text": "Hi.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "It's okay, y'know, you just nodded off again.",
+			"coref_text": "It's okay, y'know, [you:Phoebe Buffay] just nodded off again.",
+			"srls": [
+				"[ARG1: It] [V: 's] [ARG2: okay] , y'know , [ARG1: you just nodded off again] .",
+				"It 's okay , y'know , [ARG0: you] [ARGM-ADV: just] [V: nodded] [ARGM-DIR: off] [ARGM-TMP: again] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "What's going on with you?",
+			"coref_text": "What's going on with [you:Phoebe Buffay]?",
+			"srls": [
+				"What [V: 's] going on with you ?",
+				"[ARG1: What] 's [V: going] on [ARGM-COM: with you] ?"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "I got no sleep last night!",
+			"coref_text": "[I:Phoebe Buffay] got no sleep last night!",
+			"srls": [
+				"[ARG0: I] [V: got] [ARG1: no sleep] [ARGM-TMP: last night] !"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Why?",
+			"coref_text": "Why?",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "My grandmother has this new boyfriend, and they're both kind of insecure in bed.",
+			"coref_text": "[My:Phoebe Buffay] [grandmother:Phoebe's grandmother] has this new [boyfriend:Phoebe's grandmother's boyfriend], and they're both kind of insecure in bed.",
+			"srls": [
+				"[ARG0: My grandmother] [V: has] [ARG1: this new boyfriend] , and they 're both kind of insecure in bed .",
+				"My grandmother has this new boyfriend , and [ARG1: they] [V: 're] both [ARG2: kind of insecure in bed] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Oh, and deaf.",
+			"coref_text": "Oh, and deaf.",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "So they're constantly, like, having to reassure each other that they're having a good time.",
+			"coref_text": "So they're constantly, like, having to reassure each other that they're having a good time.",
+			"srls": [
+				"So they [V: 're] constantly , like , having to reassure each other that they 're having a good time .",
+				"So they 're constantly , like , [V: having] to reassure each other that they 're having a good time .",
+				"So [ARG0: they] 're constantly , like , having to [V: reassure] [ARG1: each other] [ARG2: that they 're having a good time] .",
+				"So they 're constantly , like , having to reassure each other that they [V: 're] having a good time .",
+				"So they 're constantly , like , having to reassure each other that [ARG0: they] 're [V: having] [ARG1: a good time] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "You have no idea how loud they are!",
+			"coref_text": "You have no idea how loud they are!",
+			"srls": [
+				"[ARG0: You] [V: have] [ARG1: no idea how loud they are] !",
+				"You have no idea [ARG2: how loud] [ARG1: they] [V: are] !"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Well, if you want, you can stay with Rachel and me tonight.",
+			"coref_text": "Well, if [you:Phoebe Buffay] want, [you:Phoebe Buffay] can stay with Rachel and [me:Monica Geller] tonight.",
+			"srls": [
+				"Well , if [ARG0: you] [V: want] , you can stay with Rachel and me tonight .",
+				"Well , if you want , you [V: can] stay with Rachel and me tonight .",
+				"[ARGM-DIS: Well] , [ARGM-ADV: if you want] , [ARG1: you] [ARGM-MOD: can] [V: stay] [ARG3: with Rachel and me] [ARGM-TMP: tonight] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Thanks.",
+			"coref_text": "Thanks.",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "...",
+			"coref_text": "...",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Ninety- five, ninety- six, ninety- seven.",
+			"coref_text": "Ninety- five, ninety- six, ninety- seven.",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "See, I told you!",
+			"coref_text": "See, [I:Joey Tribbiani] told [you:Chandler Bing]!",
+			"srls": [
+				"[V: See] , I told you !",
+				"See , [ARG0: I] [V: told] [ARG2: you] !"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Less than a hundred steps from our place to here.",
+			"coref_text": "Less than a hundred steps from our place to here.",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "You got waaaay too much free time.",
+			"coref_text": "[You:Joey Tribbiani] got waaaay too much free time.",
+			"srls": [
+				"[ARG0: You] [V: got] [ARG1: waaaay too much free time] .",
+				"You got [V: waaaay] [ARG1: too much free time] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Hey!",
+			"coref_text": "Hey!",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Here's the birthday boy!",
+			"coref_text": "Here's the birthday [boy:Ross Geller]!",
+			"srls": [
+				"[ARG1: Here] [V: 's] [ARG2: the birthday boy] !"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Ross, check it out: hockey tickets, Rangers- Penguins, tonight at the Garden, and we're taking you.",
+			"coref_text": "[Ross:Ross Geller], check it out: hockey tickets, Rangers- Penguins, tonight at the Garden, and we're taking [you:Ross Geller].",
+			"srls": [
+				"[ARGM-DIS: Ross] , [V: check] [ARG1: it] out : [C-ARG1: hockey tickets , Rangers- Penguins , tonight at the Garden] , and we 're taking you .",
+				"Ross , check it out : hockey tickets , Rangers- Penguins , tonight at the Garden , and we [V: 're] taking you .",
+				"Ross , check it out : hockey tickets , Rangers- Penguins , tonight at the Garden , and [ARG0: we] 're [V: taking] [ARG1: you] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Happy birthday, pal!",
+			"coref_text": "Happy birthday, [pal:Ross Geller]!",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "We love you, man.",
+			"coref_text": "We love [you:Ross Geller], [man:Ross Geller].",
+			"srls": [
+				"[ARG0: We] [V: love] [ARG1: you] , [ARGM-DIS: man] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Funny, my birthday was seven months ago.",
+			"coref_text": "Funny, [my:Ross Geller] birthday was seven months ago.",
+			"srls": [
+				"[ARGM-DIS: Funny] , [ARG1: my birthday] [V: was] [ARG2: seven months ago] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "So?",
+			"coref_text": "So?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "So, I'm guessing you had an extra ticket and couldn't decide which one of you got to bring a date?",
+			"coref_text": "So, [I:Ross Geller]'m guessing you had an extra ticket and couldn't decide which one of you got to bring a date?",
+			"srls": [
+				"So , I [V: 'm] guessing you had an extra ticket and could n't decide which one of you got to bring a date ?",
+				"[ARGM-DIS: So] , [ARG0: I] 'm [V: guessing] [ARG1: you had an extra ticket and could n't decide which one of you got to bring a date] ?",
+				"So , I 'm guessing [ARG0: you] [V: had] [ARG1: an extra ticket] and could n't decide which one of you got to bring a date ?",
+				"So , I 'm guessing [ARG0: you] had an extra ticket and [ARGM-MOD: could] [ARGM-NEG: n't] [V: decide] [ARG1: which one of you got to bring a date] ?",
+				"So , I 'm guessing you had an extra ticket and could n't decide [ARG0: which one of you] [V: got] [ARG1: to bring a date] ?",
+				"So , I 'm guessing you had an extra ticket and could n't decide [ARG0: which one of you] got to [V: bring] [ARG1: a date] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Well, aren't we Mr. \"The glass is half empty.\"",
+			"coref_text": "Well, aren't we Mr. \"The glass is half empty.\"",
+			"srls": [
+				"[ARGM-DIS: Well] , [V: are] [ARGM-NEG: n't] [ARG1: we] [ARGM-DIS: Mr.] \" [ARG2: The glass is half empty] . \"",
+				"Well , are n't we Mr. \" [ARG1: The glass] [V: is] [ARG2: half empty] . \""
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Oh my God, oh- is today the twentieth, October twentieth?",
+			"coref_text": "Oh my God, oh- is today the twentieth, October twentieth?",
+			"srls": [
+				"[ARGM-DIS: Oh my God] , [ARG2: oh-] [V: is] [ARG1: today the twentieth , October twentieth] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Oh, I was hoping you wouldn't remember.",
+			"coref_text": "Oh, [I:Monica Geller] was hoping [you:Ross Geller] wouldn't remember.",
+			"srls": [
+				"Oh , I [V: was] hoping you would n't remember .",
+				"[ARGM-DIS: Oh] , [ARG0: I] was [V: hoping] [ARG1: you would n't remember] .",
+				"Oh , I was hoping [ARG0: you] [ARGM-MOD: would] [ARGM-NEG: n't] [V: remember] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Ohhh.",
+			"coref_text": "Ohhh.",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "What's wrong with the twentieth?",
+			"coref_text": "What's wrong with the twentieth?",
+			"srls": [
+				"[ARG1: What] [V: 's] [ARG2: wrong with the twentieth] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Eleven days before Halloween..",
+			"coref_text": "Eleven days before Halloween..",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "all the good costumes are gone?",
+			"coref_text": "all the good costumes are gone?",
+			"srls": [
+				"all the good costumes [V: are] gone ?",
+				"[ARG1: all the good costumes] are [V: gone] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Today's the day Carol and I first..",
+			"coref_text": "Today's the day [Carol:Carol Willick] and [I:Ross Geller] first..",
+			"srls": [
+				"[ARG1: Today] [V: 's] [ARG2: the day] [ARG1: Carol] [ARG2: and I] [ARGM-TMP: first] .."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "consummated our physical relationship.",
+			"coref_text": "consummated our physical relationship.",
+			"srls": [
+				"[V: consummated] [ARG1: our physical relationship] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Sex.",
+			"coref_text": "Sex.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "..",
+			"coref_text": "..",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "You know what, I- I'd better pass on the game.",
+			"coref_text": "You know what, [I:Ross Geller]- [I:Ross Geller]'d better pass on the game.",
+			"srls": [
+				"[ARG0: You] [V: know] [ARG1: what] , I- I 'd better pass on the game .",
+				"You know what , I- [ARG0: I] [ARGM-MOD: 'd] [ARGM-ADV: better] [V: pass] on [ARG1: the game] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "I think I'm just gonna go home and think about my ex-wife and her lesbian lover.",
+			"coref_text": "[I:Ross Geller] think [I:Ross Geller]'m just gonna go home and think about [my:Ross Geller] ex-wife and [her:Carol Willick] lesbian [lover:Susan Bunch].",
+			"srls": [
+				"[ARG0: I] [V: think] [ARG1: I 'm just gon na go home and think about my ex - wife and her lesbian lover] .",
+				"I think I [V: 'm] just gon na go home and think about my ex - wife and her lesbian lover .",
+				"I think I 'm just [V: gon] na go home and think about my ex - wife and her lesbian lover .",
+				"I think [ARG0: I] 'm just gon na [V: go] [ARG4: home] and think about my ex - wife and her lesbian lover .",
+				"I think [ARG0: I] 'm just gon na go home and [V: think] [ARG2: about my ex - wife and her lesbian lover] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "The hell with hockey, let's all do that!",
+			"coref_text": "The hell with hockey, let['s:Guys] all do that!",
+			"srls": [
+				"The hell with hockey , [V: let] [ARG1: 's all do that] !",
+				"The hell with hockey , let [ARG0: 's all] [V: do] [ARG1: that] !"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "C'mon, Ross!",
+			"coref_text": "C'mon, Ross!",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "You, me, Joey, ice, guys 'night out, c'mon, whaddya say, big guy, Huh?",
+			"coref_text": "[You:Ross Geller], [me:Chandler Bing], [Joey:Joey Tribbiani], ice, guys 'night out, c'mon, whaddya say, big [guy:Ross Geller], Huh?",
+			"srls": [
+				"[ARG0: You , me , Joey , ice , guys ' night out] , [ARGM-DIS: c'mon] , [ARGM-DIS: whaddya] [V: say] , [ARG1: big guy , Huh] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Huh?",
+			"coref_text": "Huh?",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Huh?",
+			"coref_text": "Huh?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "What are you doing?",
+			"coref_text": "What are [you:Chandler Bing] doing?",
+			"srls": [
+				"What [V: are] you doing ?",
+				"[ARG1: What] are [ARG0: you] [V: doing] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "I have no idea.",
+			"coref_text": "[I:Chandler Bing] have no idea.",
+			"srls": [
+				"[ARG0: I] [V: have] [ARG1: no idea] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "C'mon, Ross!",
+			"coref_text": "C'mon, Ross!",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Alright, alright, maybe it'll take my mind off it.",
+			"coref_text": "Alright, alright, maybe it'll take [my:Ross Geller] mind off it.",
+			"srls": [
+				"[ARGM-DIS: Alright] , [ARGM-DIS: alright] , [ARGM-ADV: maybe] [ARG0: it] [ARGM-MOD: 'll] [V: take] [ARG1: my mind] [ARG2: off it] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Do you promise to buy me a big thumb finger?",
+			"coref_text": "Do you promise to buy [me:Ross Geller] a big thumb finger?",
+			"srls": [
+				"[V: Do] you promise to buy me a big thumb finger ?",
+				"Do [ARG0: you] [V: promise] [ARG2: to buy me a big thumb finger] ?",
+				"Do [ARG0: you] promise to [V: buy] [ARG2: me] [ARG1: a big thumb finger] ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "You got it.",
+			"coref_text": "[You:Ross Geller] got it.",
+			"srls": [
+				"[ARG0: You] [V: got] [ARG1: it] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Look- look- look- look- look, my first pay check!",
+			"coref_text": "Look- look- look- look- look, [my:Rachel Green] first pay check!",
+			"srls": [
+				"Look- [V: look-] look- look- look , my first pay check !",
+				"Look- look- look- look- [V: look] , my first pay check !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Look at the window, there's my name!",
+			"coref_text": "Look at the window, there's [my:Rachel Green] name!",
+			"srls": [
+				"[V: Look] [ARG1: at the window] , there 's my name !",
+				"Look at the window , there [V: 's] [ARG1: my name] !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Hi, me!",
+			"coref_text": "Hi, [me:Rachel Green]!",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "I remember the day I got my first pay check.",
+			"coref_text": "[I:Phoebe Buffay] remember the day [I:Phoebe Buffay] got [my:Phoebe Buffay] first pay check.",
+			"srls": [
+				"[ARG0: I] [V: remember] [ARG1: the day I got my first pay check] .",
+				"I remember [ARGM-TMP: the day] [ARG0: I] [V: got] [ARG1: my first pay check] ."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "There was a cave in in one of the mines, and eight people were killed.",
+			"coref_text": "There was a cave in in one of the mines, and eight people were killed.",
+			"srls": [
+				"There [V: was] [ARG1: a cave] [ARGM-LOC: in in one of the mines] , and eight people were killed .",
+				"There was a cave in in one of the mines , and eight people [V: were] killed .",
+				"There was a cave in in one of the mines , and [ARG1: eight people] were [V: killed] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Wow, you worked in a mine?",
+			"coref_text": "Wow, [you:Phoebe Buffay] worked in a mine?",
+			"srls": [
+				"[ARGM-DIS: Wow] , [ARG0: you] [V: worked] [ARGM-LOC: in a mine] ?"
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "I worked in a Dairy Queen, why?",
+			"coref_text": "[I:Phoebe Buffay] worked in a Dairy Queen, why?",
+			"srls": [
+				"[ARG0: I] [V: worked] [ARGM-LOC: in a Dairy Queen] , why ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "God, isn't this exciting?",
+			"coref_text": "God, isn't this exciting?",
+			"srls": [
+				"[ARGM-DIS: God] , [V: is] [ARGM-NEG: n't] [ARG1: this] [ARG2: exciting] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I earned this.",
+			"coref_text": "[I:Rachel Green] earned this.",
+			"srls": [
+				"[ARG0: I] [V: earned] [ARG1: this] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I wiped tables for it, I steamed milk for it, and it was totally not worth it.",
+			"coref_text": "[I:Rachel Green] wiped tables for it, [I:Rachel Green] steamed milk for it, and it was totally not worth it.",
+			"srls": [
+				"[ARG0: I] [V: wiped] [ARG1: tables] [ARGM-PNC: for it] , I steamed milk for it , and it was totally not worth it .",
+				"I wiped tables for it , [ARG0: I] [V: steamed] [ARG1: milk for it] , and it was totally not worth it .",
+				"I wiped tables for it , I steamed milk for it , and [ARG1: it] [V: was] [ARGM-ADV: totally] [ARGM-NEG: not] [ARG2: worth it] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Who's FICA?",
+			"coref_text": "Who's FICA?",
+			"srls": [
+				"[ARG2: Who] [V: 's] [ARG1: FICA] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Why's he getting all my money?",
+			"coref_text": "Why's he getting all [my:Rachel Green] money?",
+			"srls": [
+				"Why [V: 's] he getting all my money ?",
+				"[ARGM-PRP: Why] 's [ARG0: he] [V: getting] [ARG1: all my money] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I mean, what- Chandler, look at that.",
+			"coref_text": "[I:Rachel Green] mean, what- [Chandler:Chandler Bing], look at that.",
+			"srls": [
+				"[ARG0: I] [V: mean] , what- Chandler , look at that .",
+				"I mean , what- [ARGM-DIS: Chandler] , [V: look] [ARG1: at that] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Oh, this is not that bad.",
+			"coref_text": "Oh, this is not that bad.",
+			"srls": [
+				"[ARGM-DIS: Oh] , [ARG1: this] [V: is] [ARGM-NEG: not] [ARG2: that bad] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Oh, you're fine, yeah, for a first job.",
+			"coref_text": "Oh, [you:Rachel Green]'re fine, yeah, for a first job.",
+			"srls": [
+				"[ARGM-DIS: Oh] , [ARG1: you] [V: 're] [ARG2: fine] , [ARGM-DIS: yeah] , [ARGM-ADV: for a first job] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "You can totally, totally live on this.",
+			"coref_text": "[You:Rachel Green] can totally, totally live on this.",
+			"srls": [
+				"You can totally , totally live on this .",
+				"[ARG0: You] [ARGM-MOD: can] [ARGM-ADV: totally] , [ARGM-ADV: totally] [V: live] [ARG1: on this] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Yeah, yeah.",
+			"coref_text": "Yeah, yeah.",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Oh, by the way, great service tonight.",
+			"coref_text": "Oh, by the way, great service tonight.",
+			"srls": []
+		},
+		{
+			"speaker": "All",
+			"text": "Oh!",
+			"coref_text": "Oh!",
+			"srls": []
+		},
+		{
+			"speaker": "All",
+			"text": "Yeah!",
+			"coref_text": "Yeah!",
+			"srls": []
+		},
+		{
+			"speaker": "Guys",
+			"text": "Hockey!",
+			"coref_text": "Hockey!",
+			"srls": []
+		},
+		{
+			"speaker": "Guys",
+			"text": "Hockey!",
+			"coref_text": "Hockey!",
+			"srls": []
+		},
+		{
+			"speaker": "Guys",
+			"text": "Hockey.",
+			"coref_text": "Hockey.",
+			"srls": []
+		},
+		{
+			"speaker": "Leslie",
+			"text": "Rachel?",
+			"coref_text": "Rachel?",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Oh my God!",
+			"coref_text": "Oh my God!",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "I swear I've seen birds do this on Wild Kingdom.",
+			"coref_text": "[I:Monica Geller] swear [I:Monica Geller]'ve seen birds do this on Wild Kingdom.",
+			"srls": [
+				"[ARG0: I] [V: swear] [ARG1: I 've seen birds do this on Wild Kingdom] .",
+				"I swear I [V: 've] seen birds do this on Wild Kingdom .",
+				"I swear [ARG0: I] 've [V: seen] [ARG1: birds do this on Wild Kingdom] .",
+				"I swear I 've seen [ARG0: birds] [V: do] [ARG1: this] [ARGM-LOC: on Wild Kingdom] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "What are you guys doing here?",
+			"coref_text": "What are you guys doing here?",
+			"srls": [
+				"What [V: are] you guys doing here ?",
+				"[ARG1: What] are [ARG0: you guys] [V: doing] [ARGM-LOC: here] ?"
+			]
+		},
+		{
+			"speaker": "Kiki",
+			"text": "Well, we were in the city shopping, and your mom said you work here, aaand it's true!",
+			"coref_text": "Well, we were in the city shopping, and [your:Rachel Green] [mom:Sandra Green] said [you:Rachel Green] work here, aaand it's true!",
+			"srls": [
+				"Well , [ARG1: we] [V: were] [ARG2: in the city shopping] , and your mom said you work here , aaand it 's true !",
+				"Well , we were in the city shopping , and [ARG0: your mom] [V: said] [ARG1: you work here] , aaand it 's true !",
+				"Well , we were in the city shopping , and your mom said [ARG0: you] [V: work] [ARGM-LOC: here] , aaand it 's true !",
+				"Well , we were in the city shopping , and your mom said you work here , [V: aaand] it 's true !",
+				"Well , we were in the city shopping , and your mom said you work here , aaand [ARG1: it] [V: 's] [ARG2: true] !"
+			]
+		},
+		{
+			"speaker": "Joanne",
+			"text": "Look at you in the apron.",
+			"coref_text": "Look at [you:Rachel Green] in the apron.",
+			"srls": [
+				"[V: Look] [ARG1: at you in the apron] ."
+			]
+		},
+		{
+			"speaker": "Joanne",
+			"text": "You look like you're in a play.",
+			"coref_text": "[You:Rachel Green] look like [you:Rachel Green]'re in a play.",
+			"srls": [
+				"[ARG0: You] [V: look] [ARG1: like you 're in a play] .",
+				"You look like [ARG1: you] [V: 're] [ARG2: in a play] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Look at you, you are so big I can't believe it!",
+			"coref_text": "Look at [you:Leslie], [you:Leslie] are so big [I:Rachel Green] can't believe it!",
+			"srls": [
+				"[V: Look] [ARG1: at you] , you are so big I ca n't believe it !",
+				"Look at you , [ARG1: you] [V: are] [ARG2: so big I ca n't believe it] !",
+				"Look at you , you are so big [ARG0: I] [ARGM-MOD: ca] [ARGM-NEG: n't] [V: believe] [ARG1: it] !"
+			]
+		},
+		{
+			"speaker": "Leslie",
+			"text": "I know.",
+			"coref_text": "[I:Leslie] know.",
+			"srls": [
+				"[ARG0: I] [V: know] ."
+			]
+		},
+		{
+			"speaker": "Leslie",
+			"text": "I know!",
+			"coref_text": "[I:Leslie] know!",
+			"srls": [
+				"[ARG0: I] [V: know] !"
+			]
+		},
+		{
+			"speaker": "Leslie",
+			"text": "I'm a duplex.",
+			"coref_text": "[I:Leslie]'m a duplex.",
+			"srls": [
+				"[ARG1: I] [V: 'm] [ARG2: a duplex] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "So what's going on with you?",
+			"coref_text": "So what's going on with you?",
+			"srls": [
+				"So what [V: 's] going on with you ?",
+				"So [ARG1: what] 's [V: going] on [ARGM-COM: with you] ?"
+			]
+		},
+		{
+			"speaker": "Joanne",
+			"text": "Well, guess who my dad's making partner in his firm?",
+			"coref_text": "Well, guess who [my:Joanne] [dad:Joanne's father]'s making [partner:Joanne] in [his:Joanne's father] firm?",
+			"srls": [
+				"[ARGM-DIS: Well] , [V: guess] [ARG1: who my dad 's making partner in his firm] ?",
+				"Well , guess who [ARG0: my dad] 's [V: making] [ARG1: partner] [ARGM-LOC: in his firm] ?"
+			]
+		},
+		{
+			"speaker": "Kiki",
+			"text": "And while we're on the subject of news..",
+			"coref_text": "And while we're on the subject of news..",
+			"srls": [
+				"And while [ARG1: we] [V: 're] [ARG2: on the subject of news] .."
+			]
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Look, look, I have elbows!",
+			"coref_text": "Look, look, [I:Phoebe Buffay] have elbows!",
+			"srls": [
+				"[V: Look] , look , I have elbows !",
+				"Look , [V: look] , I have elbows !",
+				"[ARGM-DIS: Look] , look , [ARG0: I] [V: have] [ARG1: elbows] !"
+			]
+		}
+	]
+}

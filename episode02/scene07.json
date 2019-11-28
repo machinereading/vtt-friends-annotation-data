@@ -1,0 +1,359 @@
+{
+	"scene_id": "friends-s01e02-07",
+	"sentences": [
+		{
+			"speaker": "Susan_Bunch",
+			"text": "Oh, please!",
+			"coref_text": "Oh, please!",
+			"srls": []
+		},
+		{
+			"speaker": "Susan_Bunch",
+			"text": "What's wrong with Helen?",
+			"coref_text": "What's wrong with Helen?",
+			"srls": [
+				"[ARG1: What] [V: 's] [ARG2: wrong with Helen] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Helen Geller?",
+			"coref_text": "Helen Geller?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "I don't think so.",
+			"coref_text": "[I:Ross Geller] don't think so.",
+			"srls": [
+				"I [V: do] n't think so .",
+				"[ARG0: I] do [ARGM-NEG: n't] [V: think] [ARG1: so] ."
+			]
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "Hello?",
+			"coref_text": "Hello?",
+			"srls": []
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "It's not gonna be Helen Geller.",
+			"coref_text": "It's not gonna be Helen Geller.",
+			"srls": [
+				"It [V: 's] not gon na be Helen Geller .",
+				"It 's [ARGM-NEG: not] [V: gon] na be Helen Geller .",
+				"[ARG1: It] 's not gon na [V: be] [ARG2: Helen Geller] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Thank you!",
+			"coref_text": "Thank [you:Carol Willick]!",
+			"srls": [
+				"[V: Thank] [ARG1: you] !"
+			]
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "No, I mean it's not Geller.",
+			"coref_text": "No, [I:Carol Willick] mean it's not Geller.",
+			"srls": [
+				"No , [ARG0: I] [V: mean] it 's not Geller .",
+				"[ARGM-DIS: No] , I mean [ARG1: it] [V: 's] [ARGM-NEG: not] [ARG2: Geller] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "What, it's gonna be Helen Willick?",
+			"coref_text": "What, it's gonna be Helen Willick?",
+			"srls": [
+				"What , it [V: 's] gon na be Helen Willick ?",
+				"What , it 's [V: gon] na be Helen Willick ?",
+				"[ARGM-DIS: What] , [ARG1: it] 's gon na [V: be] [ARG2: Helen Willick] ?"
+			]
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "No, actually, um, we talked about Helen Willick- Bunch.",
+			"coref_text": "No, actually, um, we talked about Helen Willick- Bunch.",
+			"srls": [
+				"[ARGM-DIS: No] , [ARGM-ADV: actually] , [ARGM-DIS: um] , [ARG0: we] [V: talked] [ARG1: about Helen Willick- Bunch] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Well, wait a minute, wha- why is she in the title?",
+			"coref_text": "Well, wait a minute, wha- why is [she:Susan Bunch] in the title?",
+			"srls": [
+				"Well , [V: wait] [ARGM-TMP: a minute] , wha- why is she in the title ?",
+				"[ARGM-DIS: Well] , wait a minute , [V: wha-] [ARG1: why is she in the title] ?",
+				"Well , wait a minute , wha- [ARGM-CAU: why] [V: is] [ARG1: she] [ARG2: in the title] ?"
+			]
+		},
+		{
+			"speaker": "Susan_Bunch",
+			"text": "It's my baby too.",
+			"coref_text": "It's [my:Susan Bunch] [baby:Ben] too.",
+			"srls": [
+				"[ARG1: It] [V: 's] [ARG2: my baby] [ARGM-ADV: too] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Oh, 's'funny, really?",
+			"coref_text": "Oh, 's'funny, really?",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Um, I don't remember you making any sperm.",
+			"coref_text": "Um, [I:Ross Geller] don't remember [you:Susan Bunch] making any sperm.",
+			"srls": [
+				"Um , I [V: do] n't remember you making any sperm .",
+				"[ARGM-DIS: Um] , [ARG0: I] do [ARGM-NEG: n't] [V: remember] [ARG1: you making any sperm] .",
+				"Um , I do n't remember [ARG0: you] [V: making] [ARG1: any sperm] ."
+			]
+		},
+		{
+			"speaker": "Susan_Bunch",
+			"text": "Yeah, and we all know what a challenge that is!",
+			"coref_text": "Yeah, and we all know what a challenge that is!",
+			"srls": [
+				"[ARGM-DIS: Yeah] , and [ARG0: we all] [V: know] [ARG1: what a challenge that is] !",
+				"Yeah , and we all know [ARG2: what a challenge] [ARG1: that] [V: is] !"
+			]
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "All right, you two, stop it!",
+			"coref_text": "All right, you two, stop it!",
+			"srls": [
+				"[ARGM-DIS: All right] , [ARGM-DIS: you two] , [V: stop] [ARG1: it] !"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "No no no, she gets a credit, hey, I'm in there too.",
+			"coref_text": "No no no, [she:Susan Bunch] gets a credit, hey, [I:Ross Geller]'m in there too.",
+			"srls": [
+				"No no no , [ARG0: she] [V: gets] [ARG1: a credit] , hey , I 'm in there too .",
+				"No no no , she gets a credit , [ARGM-DIS: hey] , [ARG1: I] [V: 'm] [ARG2: in there] [ARGM-ADV: too] ."
+			]
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "Ross.",
+			"coref_text": "[Ross:Ross Geller].",
+			"srls": []
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "You're not actually suggesting Helen Willick- Bunch- Geller?",
+			"coref_text": "[You:Ross Geller]'re not actually suggesting Helen Willick- Bunch- Geller?",
+			"srls": [
+				"You [V: 're] not actually suggesting Helen Willick- Bunch- Geller ?",
+				"[ARG0: You] 're [ARGM-NEG: not] [ARGM-ADV: actually] [V: suggesting] [ARG1: Helen Willick- Bunch- Geller] ?"
+			]
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": " 'Cause I think that borders on child abuse.",
+			"coref_text": " 'Cause [I:Carol Willick] think that borders on child abuse.",
+			"srls": [
+				"'Cause [ARG0: I] [V: think] [ARG1: that borders on child abuse] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Of course not, I'm...",
+			"coref_text": "Of course not, [I:Ross Geller]'m...",
+			"srls": [
+				"[ARGM-ADV: Of course not] , [ARG1: I] [V: 'm] ..."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "suggesting Geller- Willick- Bunch.",
+			"coref_text": "suggesting Geller- Willick- Bunch.",
+			"srls": [
+				"[V: suggesting] [ARG1: Geller- Willick- Bunch] ."
+			]
+		},
+		{
+			"speaker": "Susan_Bunch",
+			"text": "Oh, no, nonononono, you see what he's doing?",
+			"coref_text": "Oh, no, nonononono, you see what [he:Ross Geller]'s doing?",
+			"srls": [
+				"[ARGM-DIS: Oh ,] [ARGM-DIS: no] , [ARGM-DIS: nonononono] , [ARG0: you] [V: see] [ARG1: what he 's doing] ?",
+				"Oh , no , nonononono , you see what he [V: 's] doing ?",
+				"Oh , no , nonononono , you see [ARG1: what] [ARG0: he] 's [V: doing] ?"
+			]
+		},
+		{
+			"speaker": "Susan_Bunch",
+			"text": "He knows no- one's gonna say all those names, so they'll wind up calling her Geller, then he gets his way!",
+			"coref_text": "[He:Ross Geller] knows no- one's gonna say all those names, so they'll wind up calling [her:Ben] Geller, then [he:Ross Geller] gets [his:Ross Geller] way!",
+			"srls": [
+				"[ARG0: He] [V: knows] [ARG1: no- one 's gon na say all those names , so they 'll wind up calling her Geller] , then he gets his way !",
+				"He knows no- one 's [V: gon] na say all those names , so they 'll wind up calling her Geller , then he gets his way !",
+				"He knows [ARG0: no- one] 's gon na [V: say] [ARG1: all those names] , so they 'll wind up calling her Geller , then he gets his way !",
+				"He knows no- one 's gon na say all those names , so [ARG1: they] [ARGM-MOD: 'll] [V: wind] up [ARG2: calling her Geller] , then he gets his way !",
+				"He knows no- one 's gon na say all those names , so [ARG0: they] 'll wind up [V: calling] [ARG1: her] [ARG2: Geller] , then he gets his way !",
+				"He knows no- one 's gon na say all those names , so they 'll wind up calling her Geller , [ARGM-TMP: then] [ARG0: he] [V: gets] [ARG1: his way] !"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "My way?!",
+			"coref_text": "[My:Ross Geller] way?!",
+			"srls": []
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "You- you think this is my way?",
+			"coref_text": "[You:Susan Bunch]- [you:Susan Bunch] think this is [my:Ross Geller] way?",
+			"srls": [
+				"[ARGM-DIS: You-] [ARG0: you] [V: think] [ARG1: this is my way] ?",
+				"You- you think [ARG1: this] [V: is] [ARG2: my way] ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Believe me, of all the ways I ever imagined this moment in my life being, this is not my way- y'know what?",
+			"coref_text": "Believe [me:Ross Geller], of all the ways [I:Ross Geller] ever imagined this moment in [my:Ross Geller] life being, this is not [my:Ross Geller] way- y'know what?",
+			"srls": [
+				"[V: Believe] [ARG1: me] , of all the ways I ever imagined this moment in my life being , this is not my way- y'know what ?",
+				"Believe me , of all [ARGM-MNR: the ways] [ARG0: I] [ARGM-TMP: ever] [V: imagined] [ARG1: this moment in my life being] , this is not my way- y'know what ?",
+				"Believe me , of all the ways [ARG1: I] ever imagined [ARG1: this moment in my] life [V: being] , this is not my way- y'know what ?",
+				"Believe me , [ARGM-PRD: of all the] [ARGM-ADV: ways I ever imagined this moment in my life being] , [ARG1: this] [V: is] [ARGM-NEG: not] [ARG2: my way-] y'know what ?"
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Uh, um, this is too hard.",
+			"coref_text": "Uh, um, this is too hard.",
+			"srls": [
+				"[ARGM-DIS: Uh] , [ARGM-DIS: um] , [ARG1: this] [V: is] [ARG2: too hard] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "I'm not, I can't do-",
+			"coref_text": "[I:Ross Geller]'m not, [I:Ross Geller] can't do-",
+			"srls": [
+				"I [V: 'm] not , I ca n't do-",
+				"I 'm not , [ARG0: I] [ARGM-MOD: ca] [ARGM-NEG: n't] [V: do-]"
+			]
+		},
+		{
+			"speaker": "Dr._Oberman",
+			"text": "Knock knock!",
+			"coref_text": "Knock knock!",
+			"srls": [
+				"[ARGM-MNR: Knock] [V: knock] !"
+			]
+		},
+		{
+			"speaker": "Dr._Oberman",
+			"text": "How are we today?",
+			"coref_text": "How are we today?",
+			"srls": [
+				"[ARG2: How] [V: are] [ARG1: we] [ARGM-TMP: today] ?"
+			]
+		},
+		{
+			"speaker": "Dr._Oberman",
+			"text": "Any nausea?",
+			"coref_text": "Any nausea?",
+			"srls": []
+		},
+		{
+			"speaker": "All",
+			"text": "Yeah.",
+			"coref_text": "Yeah.",
+			"srls": []
+		},
+		{
+			"speaker": "All",
+			"text": "Yeah.",
+			"coref_text": "Yeah.",
+			"srls": []
+		},
+		{
+			"speaker": "All",
+			"text": "A little.",
+			"coref_text": "A little.",
+			"srls": []
+		},
+		{
+			"speaker": "Dr._Oberman",
+			"text": "Well, I was just wondering about the mother- to- be, but..",
+			"coref_text": "Well, [I:Dr. Oberman] was just wondering about the [mother:Carol Willick]- to- be, but..",
+			"srls": [
+				"Well , I [V: was] just wondering about the mother- to- be , but ..",
+				"[ARGM-DIS: Well] , [ARG0: I] was [ARGM-ADV: just] [V: wondering] [ARG1: about the mother- to- be , but] ..",
+				"Well , I was just wondering about the mother- to- [V: be] , but .."
+			]
+		},
+		{
+			"speaker": "Dr._Oberman",
+			"text": "thanks for sharing.",
+			"coref_text": "thanks for sharing.",
+			"srls": []
+		},
+		{
+			"speaker": "Dr._Oberman",
+			"text": "Uh, lie back..",
+			"coref_text": "Uh, lie back..",
+			"srls": [
+				"[ARGM-DIS: Uh] , [V: lie] [ARGM-DIR: back] .."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "You- uh- y'know what, I'm gonna go.",
+			"coref_text": "You- uh- y'know what, [I:Ross Geller]'m gonna go.",
+			"srls": [
+				"You- uh- y'know what , I [V: 'm] gon na go .",
+				"You- uh- y'know what , I 'm [V: gon] na go .",
+				"You- uh- y'know [ARG1: what] , [ARG0: I] 'm gon na [V: go] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "I don't- I don't think I can be involved in this particular thing right now.",
+			"coref_text": "[I:Ross Geller] don't- [I:Ross Geller] don't think [I:Ross Geller] can be involved in this particular thing right now.",
+			"srls": [
+				"[ARG0: I] [V: don't-] I do n't think I can be involved in this particular thing right now .",
+				"I don't- I [V: do] n't think I can be involved in this particular thing right now .",
+				"I don't- [ARG0: I] do [ARGM-NEG: n't] [V: think] [ARG1: I can be involved in this particular thing right now] .",
+				"I don't- I do n't think I [V: can] be involved in this particular thing right now .",
+				"I don't- I do n't think [ARG1: I] [ARGM-MOD: can] [V: be] [ARG2: involved in this particular thing] [ARGM-TMP: right now] .",
+				"I don't- I do n't think [ARG1: I] [ARGM-MOD: can] be [V: involved] [ARG2: in this particular thing] [ARGM-TMP: right now] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Oh my God.",
+			"coref_text": "Oh my God.",
+			"srls": []
+		},
+		{
+			"speaker": "Susan_Bunch",
+			"text": "Look at that.",
+			"coref_text": "Look at that.",
+			"srls": [
+				"[V: Look] [ARG1: at that] ."
+			]
+		},
+		{
+			"speaker": "Carol_Willick",
+			"text": "I know.",
+			"coref_text": "[I:Carol Willick] know.",
+			"srls": [
+				"[ARG0: I] [V: know] ."
+			]
+		}
+	]
+}

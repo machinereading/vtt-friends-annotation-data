@@ -1,0 +1,178 @@
+{
+	"scene_id": "friends-s01e04-02",
+	"sentences": [
+		{
+			"speaker": "Rachel_Green",
+			"text": "So c'mon, you guys, tell me all the dirt!",
+			"coref_text": "So c'mon, you guys, tell [me:Rachel Green] all the dirt!",
+			"srls": [
+				"[ARGM-DIS: So] [ARGM-DIS: c'mon] , [ARGM-DIS: you guys] , [V: tell] [ARG2: me] [ARG1: all the dirt] !"
+			]
+		},
+		{
+			"speaker": "Kiki",
+			"text": "Well, the biggest news is still you dumping Barry at the altar!",
+			"coref_text": "Well, the biggest news is still [you:Rachel Green] dumping [Barry:Barry] at the altar!",
+			"srls": [
+				"[ARGM-DIS: Well] , [ARG1: the biggest news] [V: is] [ARGM-TMP: still] [ARG2: you dumping Barry at the altar] !",
+				"Well , the biggest news is still [ARG0: you] [V: dumping] [ARG1: Barry] [ARGM-LOC: at the altar] !"
+			]
+		},
+		{
+			"speaker": "Joanne",
+			"text": "Alright.",
+			"coref_text": "Alright.",
+			"srls": []
+		},
+		{
+			"speaker": "Joanne",
+			"text": "Let's talk reality for a second.",
+			"coref_text": "Let's talk reality for a second.",
+			"srls": [
+				"[V: Let] [ARG1: 's talk reality for a second] .",
+				"Let [ARG0: 's] [V: talk] [ARG1: reality] [ARGM-TMP: for a second] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Okay.",
+			"coref_text": "Okay.",
+			"srls": []
+		},
+		{
+			"speaker": "Joanne",
+			"text": "When are you coming home?",
+			"coref_text": "When are [you:Rachel Green] coming home?",
+			"srls": [
+				"When [V: are] you coming home ?",
+				"[ARGM-TMP: When] are [ARG1: you] [V: coming] [ARG4: home] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "What?",
+			"coref_text": "What?",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Guys, I'm not.",
+			"coref_text": "Guys, [I:Rachel Green]'m not.",
+			"srls": [
+				"Guys , [ARG1: I] [V: 'm] [ARGM-NEG: not] ."
+			]
+		},
+		{
+			"speaker": "Joanne",
+			"text": "C'mon, this is us.",
+			"coref_text": "C'mon, this is us.",
+			"srls": [
+				"[ARGM-DIS: C'mon] , [ARG1: this] [V: is] [ARG2: us] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I'm not!",
+			"coref_text": "[I:Rachel Green]'m not!",
+			"srls": [
+				"[ARG1: I] [V: 'm] [ARGM-NEG: not] !"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "This is what I'm doing now.",
+			"coref_text": "This is what [I:Rachel Green]'m doing now.",
+			"srls": [
+				"[ARG1: This] [V: is] [ARG2: what I 'm doing now] .",
+				"This is what I [V: 'm] doing now .",
+				"This is [ARG1: what] [ARG0: I] 'm [V: doing] [ARGM-TMP: now] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I've got this job-",
+			"coref_text": "[I:Rachel Green]'ve got this job-",
+			"srls": [
+				"I [V: 've] got this job-",
+				"[ARG0: I] 've [V: got] [ARG1: this job-]"
+			]
+		},
+		{
+			"speaker": "Kiki",
+			"text": "Waitressing?",
+			"coref_text": "Waitressing?",
+			"srls": [
+				"[V: Waitressing] ?"
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Okay, I'm not just waitressing.",
+			"coref_text": "Okay, [I:Rachel Green]'m not just waitressing.",
+			"srls": [
+				"Okay , I [V: 'm] not just waitressing .",
+				"[ARGM-DIS: Okay] , [ARG0: I] 'm [ARGM-NEG: not] [ARGM-ADV: just] [V: waitressing] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I'm..",
+			"coref_text": "[I:Rachel Green]'m..",
+			"srls": [
+				"[ARG1: I] [V: 'm] .."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I, um...",
+			"coref_text": "[I:Rachel Green], um...",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I write the specials on the specials board, and, uh...",
+			"coref_text": "[I:Rachel Green] write the specials on the specials board, and, uh...",
+			"srls": [
+				"[ARG0: I] [V: write] [ARG1: the specials] [ARGM-LOC: on the specials board] , and , uh ..."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "and I, uh...",
+			"coref_text": "and [I:Rachel Green], uh...",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "I take the uh dead flowers out of the vase...",
+			"coref_text": "[I:Rachel Green] take the uh dead flowers out of the vase...",
+			"srls": [
+				"[ARG0: I] [V: take] [ARG1: the uh dead flowers] [ARGM-DIR: out of the vase] ..."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Oh, and, um, sometimes Artelle let s me put the little chocolate blobbies on the cookies.",
+			"coref_text": "Oh, and, um, sometimes [Artelle:Artelle] let s [me:Rachel Green] put the little chocolate blobbies on the cookies.",
+			"srls": [
+				"Oh , and , [ARGM-DIS: um] , [ARGM-TMP: sometimes] [ARG0: Artelle] [V: let] [ARG1: s me put the little chocolate blobbies on the cookies] .",
+				"Oh , and , um , sometimes Artelle let [ARG0: s me] [V: put] [ARG1: the little chocolate blobbies] [ARG2: on the cookies] ."
+			]
+		},
+		{
+			"speaker": "Leslie",
+			"text": "Well.",
+			"coref_text": "Well.",
+			"srls": []
+		},
+		{
+			"speaker": "Leslie",
+			"text": "Your mom didn't tell us about the blobbies.",
+			"coref_text": "[Your:Rachel Green] [mom:Artelle] didn't tell us about the blobbies.",
+			"srls": [
+				"Your mom [V: did] n't tell us about the blobbies .",
+				"[ARG0: Your mom] did [ARGM-NEG: n't] [V: tell] [ARG2: us] [ARG1: about the blobbies] ."
+			]
+		}
+	]
+}

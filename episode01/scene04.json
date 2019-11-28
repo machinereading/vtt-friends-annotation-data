@@ -1,0 +1,252 @@
+{
+    "scene_id": "friends-s01e01-04",
+    "sentences": [
+        {
+            "speaker": "Ross_Geller",
+            "text": "I'm divorced!",
+            "coref_text": "[I:Ross Geller]'m divorced!",
+            "srls": [
+                "[ARG1: I] [V: 'm] [ARG2: divorced] !",
+                "[ARG1: I] 'm [V: divorced] !"
+            ]
+        },
+        {
+            "speaker": "Ross_Geller",
+            "text": "I'm only26 and I'm divorced!",
+            "coref_text": "[I:Ross Geller]'m only26 and [I:Ross Geller]'m divorced!",
+            "srls": [
+                "[ARG1: I] [V: 'm] [ARG2: only26] and I 'm divorced !",
+                "I 'm only26 and [ARG1: I] [V: 'm] [ARG2: divorced] !",
+                "I 'm only26 and [ARG1: I] 'm [V: divorced] !"
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "Shut up!",
+            "coref_text": "Shut up!",
+            "srls": [
+                "[V: Shut] up !"
+            ]
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": "You must stop!",
+            "coref_text": "[You:Ross Geller] must stop!",
+            "srls": [
+                "[ARG0: You] [V: must] [ARG2: stop] !",
+                "[ARG0: You] [ARGM-MOD: must] [V: stop] !"
+            ]
+        },
+        {
+            "speaker": "Ross_Geller",
+            "text": "That only took me an hour.",
+            "coref_text": "That only took [me:Ross Geller] an hour.",
+            "srls": [
+                "[ARG0: That] [ARGM-ADV: only] [V: took] [ARG2: me] [ARG1: an hour] ."
+            ]
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": "Look, Ross, you gotta understand, between us we haven't had a relationship that has lasted longer than a Mento.",
+            "coref_text": "Look, [Ross:Ross Geller], [you:Ross Geller] gotta understand, between us we haven't had a relationship that has lasted longer than a Mento.",
+            "srls": [
+                "[V: Look] , Ross , you got ta understand , between us we have n't had a relationship that has lasted longer than a Mento .",
+                "[ARGM-DIS: Look] , [ARGM-DIS: Ross] , [ARG0: you] [V: got] [ARG1: ta understand] , between us we have n't had a relationship that has lasted longer than a Mento .",
+                "Look , Ross , [ARG0: you] got ta [V: understand] , [ARG1: between us we have n't had a relationship that has lasted longer than a Mento] .",
+                "Look , Ross , you got ta understand , between us we [V: have] n't had a relationship that has lasted longer than a Mento .",
+                "Look , Ross , you got ta understand , [ARGM-ADV: between us] [ARG0: we] have [ARGM-NEG: n't] [V: had] [ARG1: a relationship that has lasted longer than a Mento] .",
+                "Look , Ross , you got ta understand , between us we have n't had a relationship that [V: has] lasted longer than a Mento .",
+                "Look , Ross , you got ta understand , between us we have n't had [ARG1: a relationship] [R-ARG1: that] has [V: lasted] [ARG2: longer than a Mento] ."
+            ]
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": "You, however have had the love of a woman for four years.",
+            "coref_text": "[You:Ross Geller], however have had the love of a [woman:Carol Willick] for four years.",
+            "srls": [
+                "You , however [V: have] had the love of a woman for four years .",
+                "[ARG0: You] , [ARGM-DIS: however] have [V: had] [ARG1: the love of a woman] [ARGM-TMP: for four years] ."
+            ],
+            "frame": [
+                "[You: Possession], however have [had: Possession] [the love of a woman: Possession] [for four years: Duration]."
+            ]
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": "Four years of closeness and sharing at the end of which she ripped your heart out, and that is why we don't do it!",
+            "coref_text": "Four years of closeness and sharing at the end of which she ripped [your:Ross Geller] heart out, and that is why we don't do it!",
+            "srls": [
+                "Four years of closeness and sharing [ARGM-TMP: at the end] [R-ARG2: of which] [ARG0: she] [V: ripped] [ARG1: your heart] [ARGM-DIR: out] , and that is why we do n't do it !",
+                "Four years of closeness and sharing at the end of which she ripped your heart out , and [ARG1: that] [V: is] [ARG2: why we do n't do it] !",
+                "Four years of closeness and sharing at the end of which she ripped your heart out , and that is why we [V: do] n't do it !",
+                "Four years of closeness and sharing at the end of which she ripped your heart out , and that is [ARGM-CAU: why] [ARG0: we] do [ARGM-NEG: n't] [V: do] [ARG1: it] !"
+            ]
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": "I don't think that was my point!",
+            "coref_text": "[I:Chandler Bing] don't think that was [my:Chandler Bing] point!",
+            "srls": [
+                "I [V: do] n't think that was my point !",
+                "[ARG0: I] do [ARGM-NEG: n't] [V: think] [ARG1: that was my point] !",
+                "I do n't think [ARG1: that] [V: was] [ARG2: my point] !"
+            ]
+        },
+        {
+            "speaker": "Ross_Geller",
+            "text": "You know what the scariest part is?",
+            "coref_text": "You know what the scariest part is?",
+            "srls": [
+                "[ARG0: You] [V: know] [ARG1: what the scariest part is] ?",
+                "You know [ARG2: what] [ARG1: the scariest part] [V: is] ?"
+            ]
+        },
+        {
+            "speaker": "Ross_Geller",
+            "text": "What if there's only one woman for everybody, y'know?",
+            "coref_text": "What if there's only one woman for everybody, y'know?",
+            "srls": [
+                "What if there [V: 's] [ARG1: only one woman for everybody] , y'know ?"
+            ]
+        },
+        {
+            "speaker": "Ross_Geller",
+            "text": "I mean what if you get one woman- and that's it?",
+            "coref_text": "[I:Ross Geller] mean what if you get one woman- and that's it?",
+            "srls": [
+                "[ARG0: I] [V: mean] what if you get one woman- and that 's it ?",
+                "I mean what if [ARG0: you] [V: get] [ARG1: one woman-] and that 's it ?",
+                "I mean what if you get one woman- and [ARG1: that] [V: 's] [ARG2: it] ?"
+            ]
+        },
+        {
+            "speaker": "Ross_Geller",
+            "text": "Unfortunately in my case, there was only one woman- for her...",
+            "coref_text": "Unfortunately in [my:Ross Geller] case, there was only one woman- for her...",
+            "srls": [
+                "[ARGM-ADV: Unfortunately] [ARGM-LOC: in my case] , there [V: was] [ARG1: only one woman- for her] ..."
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "What are you talking about?",
+            "coref_text": "What are [you:Ross Geller] talking about?",
+            "srls": [
+                "What [V: are] you talking about ?",
+                "What are [ARG0: you] [V: talking] [ARG1: about] ?"
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": " 'One woman'?",
+            "coref_text": " 'One woman'?",
+            "srls": []
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "That's like saying there's only one flavor of ice cream for you.",
+            "coref_text": "That's like saying there's only one flavor of ice cream for [you:Ross Geller].",
+            "srls": [
+                "[ARG1: That] [V: 's] [ARG2: like saying there 's only one flavor of ice cream for you] .",
+                "That 's like [V: saying] [ARG1: there 's only one flavor of ice cream for you] .",
+                "That 's like saying there [V: 's] [ARG1: only one flavor of ice cream] [ARGM-ADV: for you] ."
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "Lem me tell you something, Ross.",
+            "coref_text": "Lem [me:Joey Tribbiani] tell [you:Ross Geller] something, [Ross:Ross Geller].",
+            "srls": [
+                "[ARGM-DIS: Lem] [ARG0: me] [V: tell] [ARG2: you] [ARG1: something] , [ARGM-DIS: Ross] ."
+            ],
+            "frame": [
+                "Lem [me: Speaker] [tell: Telling] [you: Addressee] [something: Message], Ross."
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "There's lots of flavors out there.",
+            "coref_text": "There's lots of flavors out there.",
+            "srls": [
+                "There [V: 's] [ARG1: lots of flavors] [ARGM-LOC: out there] ."
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "There's Rocky Road, and Cookie Dough, and Bing!",
+            "coref_text": "There's Rocky Road, and Cookie Dough, and Bing!",
+            "srls": [
+                "There [V: 's] [ARG1: Rocky Road , and Cookie Dough , and Bing] !"
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "Cherry Vanilla.",
+            "coref_text": "Cherry Vanilla.",
+            "srls": []
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "You could get 'em with Jimmies, or nuts, or whipped cream!",
+            "coref_text": "[You:Ross Geller] could get 'em with Jimmies, or nuts, or whipped cream!",
+            "srls": [
+                "You [V: could] get 'em with Jimmies , or nuts , or whipped cream !",
+                "[ARG0: You] [ARGM-MOD: could] [V: get] [ARG1: 'em with Jimmies , or nuts , or whipped cream] !",
+                "You could get 'em with Jimmies , or nuts , or [V: whipped] [ARG1: cream] !"
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "This is the best thing that ever happened to you!",
+            "coref_text": "This is the best thing that ever happened to [you:Ross Geller]!",
+            "srls": [
+                "[ARG1: This] [V: is] [ARG2: the best thing that ever happened to you] !",
+                "This is [ARG1: the best thing] [R-ARG1: that] [ARGM-TMP: ever] [V: happened] [ARG2: to you] !"
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "You got married, you were, like, what, eight?",
+            "coref_text": "[You:Ross Geller] got married, [you:Ross Geller] were, like, what, eight?",
+            "srls": [
+                "[ARG1: You] [V: got] [ARG2: married] , you were , like , what , eight ?",
+                "[ARG1: You] got [V: married] , you were , like , what , eight ?",
+                "You got married , [ARG1: you] [V: were] , [ARGM-DIS: like] , [ARG2: what , eight] ?"
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "Welcome back to the world!",
+            "coref_text": "Welcome back to the world!",
+            "srls": [
+                "[V: Welcome] [ARGM-DIR: back] [ARG2: to the world] !"
+            ]
+        },
+        {
+            "speaker": "Joey_Tribbiani",
+            "text": "Grab a spoon!",
+            "coref_text": "Grab a spoon!",
+            "srls": [
+                "[V: Grab] [ARG1: a spoon] !"
+            ]
+        },
+        {
+            "speaker": "Ross_Geller",
+            "text": "I honestly don't know if I'm hungry or horny.",
+            "coref_text": "[I:Ross Geller] honestly don't know if [I:Ross Geller]'m hungry or horny.",
+            "srls": [
+                "I honestly [V: do] n't know if I 'm hungry or horny .",
+                "[ARG0: I] [ARGM-ADV: honestly] do [ARGM-NEG: n't] [V: know] [ARG1: if I 'm hungry or horny] .",
+                "I honestly do n't know if [ARG1: I] [V: 'm] [ARG2: hungry or horny] ."
+            ]
+        },
+        {
+            "speaker": "Chandler_Bing",
+            "text": "Stay out of my freezer!",
+            "coref_text": "Stay out of [my:Chandler Bing] freezer!",
+            "srls": [
+                "[V: Stay] [ARG3: out of my freezer] !"
+            ]
+        }
+    ]
+}

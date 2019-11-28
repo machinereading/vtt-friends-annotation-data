@@ -1,0 +1,262 @@
+{
+	"scene_id": "friends-s01e05-08",
+	"sentences": [
+		{
+			"speaker": "Monica_Geller",
+			"text": "Something went wrong with Underdog, and they couldn't get his head to inflate.",
+			"coref_text": "Something went wrong with Underdog, and they couldn't get his head to inflate.",
+			"srls": [
+				"[ARG1: Something] [V: went] [ARG2: wrong with Underdog] , and they could n't get his head to inflate .",
+				"Something went wrong with Underdog , and [ARG0: they] [ARGM-MOD: could] [ARGM-NEG: n't] [V: get] [ARG1: his head to inflate] .",
+				"Something went wrong with Underdog , and they could n't get [ARG1: his head] to [V: inflate] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "So anyway, um, his head is like flopping down Broadway, right, and I'm just thinking...",
+			"coref_text": "So anyway, um, his head is like flopping down Broadway, right, and [I:Monica Geller]'m just thinking...",
+			"srls": [
+				"So anyway , um , his head [V: is] like flopping down Broadway , right , and I 'm just thinking ...",
+				"So anyway , um , [ARG1: his head] is like [V: flopping] [ARGM-DIR: down Broadway] , right , and I 'm just thinking ...",
+				"So anyway , um , his head is like flopping down Broadway , right , and I [V: 'm] just thinking ...",
+				"So anyway , um , his head is like flopping down Broadway , right , and [ARG0: I] 'm [ARGM-ADV: just] [V: thinking] ..."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "how inappropriate this is.",
+			"coref_text": "how inappropriate this is.",
+			"srls": [
+				"[ARG2: how inappropriate] [ARG1: this] [V: is] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Um, I've got something in my eye, uh, Joey, could we check it in the light, please?",
+			"coref_text": "Um, [I:Monica Geller]'ve got something in [my:Monica Geller] eye, uh, [Joey:Joey Tribbiani], could we check it in the light, please?",
+			"srls": [
+				"Um , I [V: 've] got something in my eye , uh , Joey , could we check it in the light , please ?",
+				"[ARGM-DIS: Um] , [ARG0: I] 've [V: got] [ARG1: something in my eye] , uh , Joey , could we check it in the light , please ?",
+				"Um , I 've got something in my eye , uh , Joey , [V: could] we check it in the light , please ?",
+				"Um , I 've got something in my eye , uh , [ARGM-DIS: Joey] , [ARGM-MOD: could] [ARG0: we] [V: check] [ARG1: it] [ARGM-LOC: in the light] , [ARGM-DIS: please] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Oh my god.",
+			"coref_text": "Oh my god.",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "What?",
+			"coref_text": "What?",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Hello!",
+			"coref_text": "Hello!",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Were we at the same table?",
+			"coref_text": "Were we at the same table?",
+			"srls": [
+				"[V: Were] [ARG1: we] [ARG2: at the same table] ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "It's like...",
+			"coref_text": "It's like...",
+			"srls": [
+				"[ARG1: It] [V: 's] [ARG2: like] ..."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "cocktails in Appalachia.",
+			"coref_text": "cocktails in Appalachia.",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Come on, they're close.",
+			"coref_text": "Come on, they're close.",
+			"srls": [
+				"[V: Come] on , they 're close .",
+				"Come on , [ARG1: they] [V: 're] [ARG2: close] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Close?",
+			"coref_text": "Close?",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "She's got her tongue in his ear.",
+			"coref_text": "[She:Woman]'s got [her:Woman] tongue in [his:Man 1] ear.",
+			"srls": [
+				"She [V: 's] got her tongue in his ear .",
+				"[ARG0: She] 's [V: got] [ARG1: her tongue] [ARG2: in his ear] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Oh, like you've never gotten a little rambunctious with Ross.",
+			"coref_text": "Oh, like [you:Monica Geller]'ve never gotten a little rambunctious with [Ross:Ross Geller].",
+			"srls": [
+				"Oh , like you [V: 've] never gotten a little rambunctious with Ross .",
+				"[ARGM-DIS: Oh] , [ARGM-DIS: like] [ARG1: you] 've [ARGM-NEG: never] [V: gotten] [ARG2: a little rambunctious with Ross] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Joey, this is sick, it's disgusting, it's, it'snot really true, is it?",
+			"coref_text": "[Joey:Joey Tribbiani], this is sick, it's disgusting, it's, it'snot really true, is it?",
+			"srls": [
+				"Joey , [ARG1: this] [V: is] [ARG2: sick] , it 's disgusting , it 's , it'snot really true , is it ?",
+				"Joey , this is sick , [ARG1: it] [V: 's] [ARG2: disgusting] , it 's , it'snot really true , is it ?",
+				"Joey , this is sick , it 's disgusting , [ARG1: it] [V: 's] , [ARGM-DIS: it'snot] really true , is it ?",
+				"Joey , this is sick , it 's disgusting , it 's , it'snot really true , [V: is] [ARG1: it] ?"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Well, who's to say what's true?",
+			"coref_text": "Well, who's to say what's true?",
+			"srls": [
+				"Well , [ARG1: who] [V: 's] [ARG2: to say what 's true] ?",
+				"Well , [ARG0: who] 's to [V: say] [ARG1: what 's true] ?",
+				"Well , who 's to say [ARG1: what] [V: 's] [ARG2: true] ?"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "I mean...",
+			"coref_text": "[I:Joey Tribbiani] mean...",
+			"srls": [
+				"[ARG0: I] [V: mean] ..."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Oh my god, what were you thinking?",
+			"coref_text": "Oh my god, what were [you:Joey Tribbiani] thinking?",
+			"srls": [
+				"Oh my god , what [V: were] you thinking ?",
+				"Oh my god , [ARG1: what] were [ARG0: you] [V: thinking] ?"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "All right, look, I'm not proud of this, ok?",
+			"coref_text": "All right, look, [I:Joey Tribbiani]'m not proud of this, ok?",
+			"srls": [
+				"All right , [V: look] , I 'm not proud of this , ok ?",
+				"[ARGM-DIS: All right] , look , [ARG1: I] [V: 'm] [ARGM-NEG: not] [ARG2: proud of this] , ok ?"
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Well, maybe I am a little.",
+			"coref_text": "Well, maybe [I:Joey Tribbiani] am a little.",
+			"srls": [
+				"[ARGM-DIS: Well] , [ARGM-ADV: maybe] [ARG1: I] [V: am] [ARG2: a little] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Oh!",
+			"coref_text": "Oh!",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Ow!",
+			"coref_text": "Ow!",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "I'm outta here.",
+			"coref_text": "[I:Monica Geller]'m outta here.",
+			"srls": [
+				"[ARG1: I] [V: 'm] [ARG2: outta here] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Wait, wait, wait.",
+			"coref_text": "Wait, wait, wait.",
+			"srls": [
+				"[V: Wait] , wait , wait .",
+				"Wait , [V: wait] , wait .",
+				"[ARGM-DIS: Wait] , wait , [V: wait] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "You want him, I want her.",
+			"coref_text": "[You:Monica Geller] want [him:Man 1], [I:Joey Tribbiani] want [her:Woman].",
+			"srls": [
+				"[ARG0: You] [V: want] [ARG1: him] , I want her .",
+				"You want him , [ARG0: I] [V: want] [ARG1: her] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "He likes you.",
+			"coref_text": "[He:Man 1] likes [you:Monica Geller].",
+			"srls": [
+				"[ARG0: He] [V: likes] [ARG1: you] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Really?",
+			"coref_text": "Really?",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Yeah.",
+			"coref_text": "Yeah.",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "I'm thinking, if we put our heads together, between the two of us, we can break them up.",
+			"coref_text": "[I:Joey Tribbiani]'m thinking, if we put our heads together, between the two of us, we can break them up.",
+			"srls": [
+				"I [V: 'm] thinking , if we put our heads together , between the two of us , we can break them up .",
+				"[ARG0: I] 'm [V: thinking] , [ARG1: if we put our heads together , between the two of us , we can break them up] .",
+				"I 'm thinking , if [ARG0: we] [V: put] [ARG1: our heads] [ARG2: together] , between the two of us , we can break them up .",
+				"I 'm thinking , if we put our heads together , between the two of us , we [V: can] break them up .",
+				"I 'm thinking , [ARGM-ADV: if we put our heads together] , [ARGM-PRD: between the two of us] , [ARG0: we] [ARGM-MOD: can] [V: break] [ARG1: them] up ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "I'm so sorry, I can't believe I did this, but I couldn't stop laughing at your Norman Mailer story.",
+			"coref_text": "[I:Monica Geller]'m so sorry, [I:Monica Geller] can't believe [I:Monica Geller] did this, but [I:Monica Geller] couldn't stop laughing at [your:Joey Tribbiani] [Norman Mailer:Norman Mailer] story.",
+			"srls": [
+				"[ARG1: I] [V: 'm] [ARG2: so sorry] , I ca n't believe I did this , but I could n't stop laughing at your Norman Mailer story .",
+				"I 'm so sorry , [ARG0: I] [ARGM-MOD: ca] [ARGM-NEG: n't] [V: believe] [ARG1: I did this] , but I could n't stop laughing at your Norman Mailer story .",
+				"I 'm so sorry , I ca n't believe [ARG0: I] [V: did] [ARG1: this] , but I could n't stop laughing at your Norman Mailer story .",
+				"I 'm so sorry , I ca n't believe I did this , but [ARG0: I] [ARGM-MOD: could] [ARGM-NEG: n't] [V: stop] [ARG1: laughing at your Norman Mailer story] .",
+				"I 'm so sorry , I ca n't believe I did this , but [ARG0: I] could n't stop [V: laughing] [ARG2: at your Norman Mailer story] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Uh, waiter, one more plate of chicken wings over here.",
+			"coref_text": "Uh, [waiter:Person 1], one more plate of chicken wings over here.",
+			"srls": []
+		}
+	]
+}

@@ -1,0 +1,166 @@
+{
+	"scene_id": "friends-s01e02-00",
+	"sentences": [
+		{
+			"speaker": "Monica_Geller",
+			"text": "What you guys don't understand is, for us, kissing is as important as any part of it.",
+			"coref_text": "What you guys don't understand is, for us, kissing is as important as any part of it.",
+			"srls": [
+				"What you guys [V: do] n't understand is , for us , kissing is as important as any part of it .",
+				"[ARG1: What] [ARG0: you guys] do [ARGM-NEG: n't] [V: understand] is , for us , kissing is as important as any part of it .",
+				"[ARG1: What you guys do n't understand] [V: is] , [ARGM-ADV: for us] , [ARG2: kissing is as important as any part of it] .",
+				"What you guys do n't understand is , for [ARG0: us] , [V: kissing] is as important as any part of it .",
+				"What you guys do n't understand is , [ARGM-ADV: for us] , [ARG1: kissing] [V: is] [ARG2: as important as any part of it] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Yeah, right!",
+			"coref_text": "Yeah, right!",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": ".......",
+			"coref_text": ".......",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Y'serious?",
+			"coref_text": "Y'serious?",
+			"srls": []
+		},
+		{
+			"speaker": "Phoebe_Buffay",
+			"text": "Oh, yeah!",
+			"coref_text": "Oh, yeah!",
+			"srls": []
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Everything you need to know is in that first kiss.",
+			"coref_text": "Everything you need to know is in that first kiss.",
+			"srls": [
+				"Everything [ARG0: you] [V: need] [ARG1: to know] is in that first kiss .",
+				"[ARG1: Everything] [ARG0: you] need to [V: know] is in that first kiss .",
+				"[ARG1: Everything you need to know] [V: is] [ARG2: in that first kiss] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Absolutely.",
+			"coref_text": "Absolutely.",
+			"srls": []
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "Yeah, I think for us, kissing is pretty much like an opening act, y'know?",
+			"coref_text": "Yeah, [I:Chandler Bing] think for us, kissing is pretty much like an opening act, y'know?",
+			"srls": [
+				"[ARGM-DIS: Yeah] , [ARG0: I] [V: think] [ARG1: for us , kissing is pretty much like an opening act , y'know] ?",
+				"Yeah , I think for [ARG0: us] , [V: kissing] is pretty much like an opening act , y'know ?",
+				"Yeah , I think [ARGM-ADV: for us] , [ARG1: kissing] [V: is] [ARG2: pretty much like an opening act] , y'know ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "I mean it's like the stand- up comedian you have to sit through before Pink Floyd comes out.",
+			"coref_text": "[I:Chandler Bing] mean it's like the stand- up comedian you have to sit through before Pink Floyd comes out.",
+			"srls": [
+				"[ARG0: I] [V: mean] it 's like the stand- up comedian you have to sit through before Pink Floyd comes out .",
+				"I mean [ARG1: it] [V: 's] [ARG2: like the stand- up comedian you have to sit through before Pink Floyd comes out] .",
+				"I mean it 's like the stand- up comedian you [V: have] to sit through before Pink Floyd comes out .",
+				"I mean it 's like the stand- up comedian you have to [V: sit] [ARG2: through] before Pink Floyd comes out .",
+				"I mean it 's like the stand- up comedian you have to sit through before [ARG1: Pink Floyd] [V: comes] [ARGM-DIR: out] ."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "Yeah, and- and it's not that we don't like the comedian, it's that- that...",
+			"coref_text": "Yeah, and- and it's not that we don't like the comedian, it's that- that...",
+			"srls": [
+				"Yeah , and- and [ARG1: it] [V: 's] [ARGM-NEG: not] [ARG2: that we do n't like the comedian] , it 's that- that ...",
+				"Yeah , and- and it 's not that we [V: do] n't like the comedian , it 's that- that ...",
+				"Yeah , and- and it 's not that [ARG0: we] do [ARGM-NEG: n't] [V: like] [ARG1: the comedian] , it 's that- that ...",
+				"Yeah , and- and it 's not that we do n't like the comedian , [ARG1: it] [V: 's] [ARG2: that- that] ..."
+			]
+		},
+		{
+			"speaker": "Ross_Geller",
+			"text": "that's not why we bought the ticket.",
+			"coref_text": "that's not why we bought the ticket.",
+			"srls": [
+				"[ARG1: that] [V: 's] [ARGM-NEG: not] [ARG2: why we bought the ticket] .",
+				"that 's not [ARGM-CAU: why] [ARG0: we] [V: bought] [ARG1: the ticket] ."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "The problem is, though, after the concert's over, no matter how great the show was, you girls are always looking for the comedian again, y'know?",
+			"coref_text": "The problem is, though, after the concert's over, no matter how great the show was, you girls are always looking for the comedian again, y'know?",
+			"srls": [
+				"[ARG1: The problem] [V: is] , [ARG2: though , after the concert 's over , no matter how great the show was , you girls are always looking for the comedian again , y'know] ?",
+				"The problem is , though , after [ARG1: the concert] [V: 's] [ARG2: over] , no matter how great the show was , you girls are always looking for the comedian again , y'know ?",
+				"The problem is , though , after the concert 's over , no matter [ARG2: how great] [ARG1: the show] [V: was] , you girls are always looking for the comedian again , y'know ?",
+				"The problem is , though , after the concert 's over , no matter how great the show was , you girls [V: are] always looking for the comedian again , y'know ?",
+				"The problem is , [ARGM-DIS: though] , [ARGM-TMP: after the concert 's over] , [ARGM-ADV: no matter how great the show was] , [ARG0: you girls] are [ARGM-TMP: always] [V: looking] [ARG1: for the comedian] [ARGM-TMP: again] , y'know ?"
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "I mean, we're in the car, we're fighting traffic...",
+			"coref_text": "[I:Chandler Bing] mean, we're in the car, we're fighting traffic...",
+			"srls": [
+				"[ARG0: I] [V: mean] , we 're in the car , we 're fighting traffic ...",
+				"I mean , [ARG1: we] [V: 're] [ARG2: in the car] , we 're fighting traffic ...",
+				"I mean , we 're in the car , we [V: 're] fighting traffic ...",
+				"I mean , we 're in the car , [ARG0: we] 're [V: fighting] [ARG1: traffic] ..."
+			]
+		},
+		{
+			"speaker": "Chandler_Bing",
+			"text": "basically just trying to stay awake.",
+			"coref_text": "basically just trying to stay awake.",
+			"srls": [
+				"[ARGM-ADV: basically] [ARGM-ADV: just] [V: trying] [ARG1: to stay awake] .",
+				"basically just trying to [V: stay] [ARG3: awake] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Yeah, well, word of advice: Bring back the comedian.",
+			"coref_text": "Yeah, well, word of advice: Bring back the comedian.",
+			"srls": [
+				"Yeah , well , word of advice : [V: Bring] [ARGM-DIR: back] [ARG1: the comedian] ."
+			]
+		},
+		{
+			"speaker": "Rachel_Green",
+			"text": "Otherwise next time you're gonna find yourself sitting at home, listening to that album alone.",
+			"coref_text": "Otherwise next time you're gonna find yourself sitting at home, listening to that album alone.",
+			"srls": [
+				"Otherwise next time you [V: 're] gon na find yourself sitting at home , listening to that album alone .",
+				"Otherwise next time you 're [V: gon] na find yourself sitting at home , listening to that album alone .",
+				"Otherwise next time [ARG0: you] 're gon na [V: find] [ARG1: yourself sitting at home , listening to that album alone] .",
+				"Otherwise next time you 're gon na find [ARG1: yourself] [V: sitting] [ARG2: at home] , listening to that album alone .",
+				"Otherwise next time you 're gon na find [ARG0: yourself] sitting at home , [V: listening] [ARG1: to that album] [ARGM-MNR: alone] ."
+			]
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "....",
+			"coref_text": "....",
+			"srls": []
+		},
+		{
+			"speaker": "Joey_Tribbiani",
+			"text": "Are we still talking about sex?",
+			"coref_text": "Are we still talking about sex?",
+			"srls": [
+				"[V: Are] we still talking about sex ?",
+				"Are [ARG0: we] [ARGM-TMP: still] [V: talking] [ARG1: about sex] ?"
+			]
+		}
+	]
+}

@@ -1,0 +1,126 @@
+{
+	"scene_id": "friends-s01e01-08",
+	"sentences": [
+		{
+			"speaker": "Frannie",
+			"text": "Hey, Monica!",
+			"coref_text": "Hey, [Monica:Monica Geller]!",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "Hey Frannie, welcome back!",
+			"coref_text": "Hey [Frannie:Frannie], welcome back!",
+			"srls": [
+				"[ARGM-DIS: Hey Frannie] , [V: welcome] [ARGM-DIR: back] !"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "How was Florida?",
+			"coref_text": "How was Florida?",
+			"srls": [
+				"[ARG2: How] [V: was] [ARG1: Florida] ?"
+			]
+		},
+		{
+			"speaker": "Frannie",
+			"text": "You had sex, didn't you?",
+			"coref_text": "[You:Monica Geller] had sex, didn't [you:Monica Geller]?",
+			"srls": [
+				"[ARG0: You] [V: had] [ARG1: sex] , did n't you ?",
+				"You had sex , [V: did] n't you ?"
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "How do you do that?",
+			"coref_text": "How do [you:Frannie] do that?",
+			"srls": [
+				"How [V: do] you do that ?",
+				"[ARGM-MNR: How] do [ARG0: you] [V: do] [ARG1: that] ?"
+			]
+		},
+		{
+			"speaker": "Frannie",
+			"text": "Oh, I hate you, I'm pushing my Aunt Roz through Parrot Jungle and you're having sex!",
+			"coref_text": "Oh, [I:Frannie] hate [you:Monica Geller], [I:Frannie]'m pushing [my:Frannie] Aunt Roz through Parrot Jungle and [you:Monica Geller]'re having sex!",
+			"srls": [
+				"Oh , [ARG0: I] [V: hate] [ARG1: you] , I 'm pushing my Aunt Roz through Parrot Jungle and you 're having sex !",
+				"Oh , I hate you , I [V: 'm] pushing my Aunt Roz through Parrot Jungle and you 're having sex !",
+				"Oh , I hate you , [ARG0: I] 'm [V: pushing] [ARG1: my Aunt Roz] [ARGM-DIR: through Parrot Jungle] and you 're having sex !",
+				"Oh , I hate you , I 'm pushing my Aunt Roz through Parrot Jungle and you [V: 're] having sex !",
+				"Oh , I hate you , I 'm pushing my Aunt Roz through Parrot Jungle and [ARG0: you] 're [V: having] [ARG1: sex] !"
+			]
+		},
+		{
+			"speaker": "Frannie",
+			"text": "So?",
+			"coref_text": "So?",
+			"srls": []
+		},
+		{
+			"speaker": "Frannie",
+			"text": "Who?",
+			"coref_text": "Who?",
+			"srls": []
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "You know Paul?",
+			"coref_text": "[You:Frannie] know [Paul:Paul]?",
+			"srls": [
+				"[ARG0: You] [V: know] [ARG1: Paul] ?"
+			]
+		},
+		{
+			"speaker": "Frannie",
+			"text": "Paul the Wine Guy?",
+			"coref_text": "[Paul:Paul] the Wine [Guy:Paul]?",
+			"srls": []
+		},
+		{
+			"speaker": "Frannie",
+			"text": "Oh yeah, I know Paul.",
+			"coref_text": "Oh yeah, [I:Frannie] know [Paul:Paul].",
+			"srls": [
+				"[ARGM-DIS: Oh yeah] , [ARG0: I] [V: know] [ARG1: Paul] ."
+			]
+		},
+		{
+			"speaker": "Monica_Geller",
+			"text": "You mean you know Paul like I know Paul?",
+			"coref_text": "[You:Frannie] mean [you:Frannie] know [Paul:Paul] like [I:Monica Geller] know [Paul:Paul]?",
+			"srls": [
+				"[ARG0: You] [V: mean] [ARG1: you know Paul like I know Paul] ?",
+				"You mean [ARG0: you] [V: know] [ARG1: Paul] like I know Paul ?",
+				"You mean you know Paul like [ARG0: I] [V: know] [ARG1: Paul] ?"
+			]
+		},
+		{
+			"speaker": "Frannie",
+			"text": "Are you kidding?",
+			"coref_text": "Are [you:Monica Geller] kidding?",
+			"srls": [
+				"[V: Are] you kidding ?",
+				"Are [ARG0: you] [V: kidding] ?"
+			]
+		},
+		{
+			"speaker": "Frannie",
+			"text": "I take credit for Paul.",
+			"coref_text": "[I:Frannie] take credit for [Paul:Paul].",
+			"srls": [
+				"[ARG0: I] [V: take] [ARG1: credit] [ARG2: for Paul] ."
+			]
+		},
+		{
+			"speaker": "Frannie",
+			"text": "Y'know before me, there was no snap in his turtle for two years.",
+			"coref_text": "Y'know before [me:Frannie], there was no snap in [his:Paul] turtle for two years.",
+			"srls": [
+				"[ARGM-DIS: Y'know] before me , there [V: was] [ARG1: no snap] [ARGM-LOC: in his turtle] [ARGM-TMP: for two years] ."
+			]
+		}
+	]
+}
